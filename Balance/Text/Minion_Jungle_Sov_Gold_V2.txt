@@ -43,7 +43,7 @@ other
 	ExecuteThreshold.FlatHealth:    0
 	Reward.NumberOfCoins:           3
 
-CXPBounty:                      225
+CXPBounty:                      300
 CXPSpawnTime:                   0.9
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0

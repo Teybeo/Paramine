@@ -1,6 +1,6 @@
 Tower_Outer
 
-AttackRating:                   182
+AttackRating:                   200
 AttackSpeedRating:              100
 BaseAttackTime:                 1
 
@@ -14,9 +14,9 @@ BasicResistanceRating:          50
 
 other
 	Reward.NumberOfCoins:           50
-	Reward.TeamCardPoints:          224.4
+	Reward.TeamCardPoints:          200
 
-CXPBounty:                      204
+CXPBounty:                      300
 CXPSpawnTime:                   1.5
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0

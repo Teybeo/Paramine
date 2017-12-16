@@ -2,16 +2,51 @@
     "Buf.Mid.Duration.DoT": [
         40.0
     ],
+    "Buff.Aqua.Duration": [
+        15.0
+    ],
+    "Buff.Aqua.Magnitude.HealthRegen": [
+        15.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0
+    ],
     "Buff.Black.Duration": [
         60.0
     ],
     "Buff.Black.MovementSlow.Duration": [
         1.5
     ],
-    "Buff.Black.MovementSlow.Magnitude.All": [
-        -0.05000000074505806
-    ],
     "Buff.Black.MovementSlow.Magnitude.Melee": [
+        -0.20000000298023224
+    ],
+    "Buff.Black.MovementSlow.Magnitude.Ranged": [
         -0.15000000596046448
     ],
     "Buff.Black.TrueVision.Radius": [
@@ -30,7 +65,7 @@
         4.0
     ],
     "Buff.Dragon.Power.Stacking": [
-        4.0
+        8.0
     ],
     "Buff.Gold.Duration": [
         45.0
@@ -131,6 +166,9 @@
     "RespawnTime.Dragon": [
         180.0
     ],
+    "RespawnTime.Sov.Aqua": [
+        120.0
+    ],
     "RespawnTime.Sov.Black": [
         180.0
     ],
@@ -156,16 +194,19 @@
         60.0
     ],
     "SpawnTime.Dragon": [
-        120.0
+        300.0
+    ],
+    "SpawnTime.Sov.Aqua": [
+        180.0
     ],
     "SpawnTime.Sov.Black": [
-        90.0
+        80.0
     ],
     "SpawnTime.Sov.Gold": [
         180.0
     ],
     "SpawnTime.Sov.Green": [
-        90.0
+        80.0
     ],
     "SpawnTime.Sov.HighXP": [
         120.0

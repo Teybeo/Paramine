@@ -5,12 +5,12 @@ AttackSpeedRating:              100
 BaseAttackTime:                 1.25
 
 EnergyRegenRate:                0
-Health:                         4000 - 8480 (+ 235.789 per lvl)
+Health:                         2900 - 8500 (+ 294.737 per lvl)
 HealthRegenRate:                50
 MaxEnergy:                      0
 
 AbilityResistanceRating:        60
-BasicResistanceRating:          65
+BasicResistanceRating:          40 - 82 (+ 2.21053 per lvl)
 
 Alternate
 	Cooldown:                       0
@@ -50,7 +50,7 @@ CXPSpawnTime:                   1.3
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0
 MaxLevel:                       15
-MaxMoveSpeed:                   700
+MaxMoveSpeed:                   660
 VisionRadius:                   2000
 XPBounty:                       50
 XPToLevel:                      1

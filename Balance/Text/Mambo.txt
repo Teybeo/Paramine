@@ -15,7 +15,7 @@ MaxEnergy:                      390 - 886 (+ 26.1053 per lvl)
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        30
 BasicPenetrationRating:         0
-BasicResistanceRating:          19.2 - 57.7 (+ 2.02632 per lvl)
+BasicResistanceRating:          13.6 - 57.8 (+ 2.32632 per lvl)
 
 Alternate
 	ARC:                            1.88
@@ -70,8 +70,8 @@ CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
 MaxLevel:                       20
-MaxMoveSpeed:                   695
+MaxMoveSpeed:                   655
 VisionRadius:                   5000
-XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPBounty:                       38.5 - 404.455 (+ 19.2608 per lvl)
 XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

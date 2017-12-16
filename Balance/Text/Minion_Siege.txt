@@ -30,7 +30,7 @@ other
 	Aggro.AcquisitionRange:         1100
 	BasePower.CoreBonusDamage:      1.25
 	BasePower.CoreResist:           0
-	BasePower.HeroBonusDamage:      0.75
+	BasePower.HeroBonusDamage:      0.2
 	BasePower.HeroResist:           0
 	BasePower.InhibBonusDamage:     1.25
 	BasePower.InhibResist:          0.23
@@ -44,12 +44,12 @@ other
 	ExecuteThreshold.FlatHealth:    120
 	Reward.NumberOfCoins:           3
 
-CXPBounty:                      115.6
+CXPBounty:                      125
 CXPSpawnTime:                   0.6
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0
 MaxLevel:                       15
-MaxMoveSpeed:                   700
+MaxMoveSpeed:                   660
 VisionRadius:                   2000
 XPBounty:                       24
 XPToLevel:                      1

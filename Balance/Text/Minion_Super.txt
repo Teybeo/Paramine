@@ -5,7 +5,7 @@ AttackSpeedRating:              100
 BaseAttackTime:                 0.75
 
 EnergyRegenRate:                0
-Health:                         1200
+Health:                         1100
 HealthRegenRate:                0
 MaxEnergy:                      0
 
@@ -44,13 +44,13 @@ other
 	ExecuteThreshold.FlatHealth:    120
 	Reward.NumberOfCoins:           1
 
-CXPBounty:                      0
+CXPBounty:                      20
 CXPSpawnTime:                   0.5
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0
 MaxLevel:                       15
-MaxMoveSpeed:                   700
+MaxMoveSpeed:                   660
 VisionRadius:                   2000
-XPBounty:                       0
+XPBounty:                       10
 XPToLevel:                      1
 

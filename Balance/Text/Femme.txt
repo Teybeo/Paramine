@@ -15,7 +15,7 @@ MaxEnergy:                      243 - 448 (+ 10.7895 per lvl)
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        30
 BasicPenetrationRating:         0
-BasicResistanceRating:          17.3 - 63.6 (+ 2.43684 per lvl)
+BasicResistanceRating:          12.2 - 65.4 (+ 2.8 per lvl)
 
 Alternate
 	ARC:                            0
@@ -23,13 +23,13 @@ Alternate
 	AttackSpeedSlowDuration:        3
 	BasePower:                      0
 	Cooldown:                       10 / 8 / 6 / 4
-	Cost:                           -25
+	Cost:                           0
 	Range:                          500
 Primary
 	ARC:                            1.04
-	BasePower:                      88 / 117 / 146 / 176
+	BasePower:                      117 / 146 / 176 / 205
 	Cooldown:                       10
-	Cost:                           -75
+	Cost:                           -50
 	LMBRange.Basic.Primary:         600
 	Range:                          850
 	StandingCastTime:               0.6
@@ -42,7 +42,7 @@ Secondary
 	BonusCleave:                    1
 	BuffDuration:                   6
 	Cooldown:                       21 / 18 / 15 / 12
-	Cost:                           -40
+	Cost:                           -25
 	RangeBonus:                     1050
 Ultimate
 	ARC:                            0
@@ -52,7 +52,7 @@ Ultimate
 	Cooldown:                       90 / 65 / 40
 	Cost:                           -75
 	ProjectileSpeedMultiplier:      0.04
-	Slow:                           -0.2
+	Slow:                           -0.6
 
 
 Jump
@@ -73,8 +73,8 @@ CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
 MaxLevel:                       20
-MaxMoveSpeed:                   705
+MaxMoveSpeed:                   665
 VisionRadius:                   5000
-XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPBounty:                       38.5 - 404.455 (+ 19.2608 per lvl)
 XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

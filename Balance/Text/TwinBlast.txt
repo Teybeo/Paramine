@@ -5,7 +5,7 @@ AttackSpeedRating:              145 - 162.1 (+ 0.9 per lvl)
 BaseAttackTime:                 0.8
 CleaveRating:                   0
 LeftClickARC:                   1
-LeftClickBasePower:             36.2 - 83.9 (+ 2.51053 per lvl)
+LeftClickBasePower:             40 - 95.5 (+ 2.92105 per lvl)
 
 EnergyRegenRate:                1.28 - 2.04 (+ 0.04 per lvl)
 Health:                         574 - 1684 (+ 58.4211 per lvl)
@@ -15,16 +15,16 @@ MaxEnergy:                      264 - 492 (+ 12 per lvl)
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        30
 BasicPenetrationRating:         0
-BasicResistanceRating:          17.3 - 61.4 (+ 2.32105 per lvl)
+BasicResistanceRating:          12.2 - 63 (+ 2.67368 per lvl)
 
 Alternate
 	ARC:                            0.84
-	BasePower:                      47 / 70 / 94 / 117
+	BasePower:                      53 / 76 / 99 / 123
 	Cooldown:                       1
 	Cooldown.Charge:                10
-	Cost:                           -35 / -40 / -45 / -50
+	Cost:                           -35
 	Slow.Duration:                  1
-	Slow.Magnitude:                 -0.12 / -0.16 / -0.2 / -0.24
+	Slow.Magnitude:                 -0.14 / -0.18 / -0.22 / -0.26
 Primary
 	ARC:                            0
 	BasePower:                      0
@@ -40,13 +40,13 @@ Secondary
 	Cost:                           -40 / -30 / -20 / -10
 	GrenadeRefund.Count:            1
 Ultimate
-	ARC:                            6.43
-	BasePower:                      351 / 562 / 772
+	ARC:                            7.52
+	BasePower:                      438 / 684 / 931
 	Cooldown:                       90 / 70 / 50
 	Cost:                           -75
-	ShotARC:                        0.21
-	ShotCount:                      30
-	ShotDamage:                     10 / 16 / 22
+	ShotARC:                        0.38
+	ShotCount:                      20
+	ShotDamage:                     19 / 29 / 40
 
 
 Jump
@@ -67,8 +67,8 @@ CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
 MaxLevel:                       20
-MaxMoveSpeed:                   705
+MaxMoveSpeed:                   665
 VisionRadius:                   5000
-XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPBounty:                       38.5 - 404.455 (+ 19.2608 per lvl)
 XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

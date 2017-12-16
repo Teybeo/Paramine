@@ -5,7 +5,7 @@ AttackSpeedRating:              100 - 121.4 (+ 1.12632 per lvl)
 BaseAttackTime:                 0.85
 CleaveRating:                   0.1
 LeftClickARC:                   1
-LeftClickBasePower:             59.4 - 122.5 (+ 3.32105 per lvl)
+LeftClickBasePower:             64.8 - 123.2 (+ 3.07368 per lvl)
 
 EnergyRegenRate:                1.23 - 2.18 (+ 0.05 per lvl)
 Health:                         652 - 1985 (+ 70.1579 per lvl)
@@ -15,34 +15,34 @@ MaxEnergy:                      248 - 533 (+ 15 per lvl)
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        30
 BasicPenetrationRating:         0
-BasicResistanceRating:          25.2 - 86.8 (+ 3.24211 per lvl)
+BasicResistanceRating:          17.9 - 88.5 (+ 3.71579 per lvl)
 
 Alternate
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       8
 	Cost:                           -60
-	DamageBonusPCT:                 0.45 / 0.7 / 0.95 / 1.2
-	Range:                          900
+	DamageBonusPCT:                 0.75 / 1 / 1.25 / 1.5
+	Range:                          1050
 Primary
 	ARC:                            0
 	BasePower:                      0
-	Cooldown:                       7
-	Cost:                           -50
-	Shield.Duration:                3
-	Shield.Magnitude:               75 / 150 / 225 / 300
+	Cooldown:                       8
+	Cost:                           -40
+	Shield.Duration:                2
+	Shield.Magnitude:               125 / 225 / 325 / 425
 Secondary
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       0
 	Cost:                           0
 	RechargeTime:                   5
-	Slow.Duration:                  2
-	Slow.Magnitude:                 -0.2 / -0.23 / -0.26 / -0.29
+	Slow.Duration:                  1.5
+	Slow.Magnitude:                 -0.3 / -0.35 / -0.4 / -0.45
 Ultimate
 	ARC:                            1
 	BasePower:                      150 / 275 / 400
-	Cooldown:                       90 / 80 / 70
+	Cooldown:                       70 / 60 / 50
 	Cost:                           -70 / -105 / -140
 	Execute.Threshold:              300 / 425 / 550
 
@@ -65,8 +65,8 @@ CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
 MaxLevel:                       20
-MaxMoveSpeed:                   700
+MaxMoveSpeed:                   660
 VisionRadius:                   5000
-XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPBounty:                       38.5 - 404.455 (+ 19.2608 per lvl)
 XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

@@ -8,15 +8,15 @@ Health:                         2800
 HealthRegenRate:                5
 
 AbilityResistanceRating:        1000
-BasicResistanceRating:          65
+BasicResistanceRating:          80
 
 
 
 other
 	Reward.NumberOfCoins:           0
-	Reward.TeamCardPoints:          292.4
+	Reward.TeamCardPoints:          200
 
-CXPBounty:                      204
+CXPBounty:                      300
 CXPSpawnTime:                   1.5
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0

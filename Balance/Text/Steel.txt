@@ -5,7 +5,7 @@ AttackSpeedRating:              100 - 114.3 (+ 0.752632 per lvl)
 BaseAttackTime:                 0.9
 CleaveRating:                   0.2
 LeftClickARC:                   1
-LeftClickBasePower:             67.5 - 121.6 (+ 2.84737 per lvl)
+LeftClickBasePower:             70.2 - 121.5 (+ 2.7 per lvl)
 
 EnergyRegenRate:                1.27 - 2.22 (+ 0.05 per lvl)
 Health:                         741 - 2322 (+ 83.2105 per lvl)
@@ -15,7 +15,7 @@ MaxEnergy:                      262 - 547 (+ 15 per lvl)
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        10
 BasicPenetrationRating:         0
-BasicResistanceRating:          27.8 - 64.9 (+ 1.95263 per lvl)
+BasicResistanceRating:          19.7 - 62.3 (+ 2.24211 per lvl)
 
 Alternate
 	ARC:                            0
@@ -27,11 +27,11 @@ Alternate
 	Shield:                         2 / 2.66666 / 3.33332 / 3.99998
 	Slow.Duration:                  1
 Primary
-	ARC:                            1.04
-	BasePower:                      88 / 117 / 146 / 176
+	ARC:                            1.67
+	BasePower:                      111 / 158 / 205 / 252
 	Cooldown:                       9 / 8 / 7 / 6
 	Cost:                           -70
-	Stun.Duration:                  0.5
+	Stun.Duration:                  0.6 / 0.8 / 1 / 1.2
 Secondary
 	ARC:                            0
 	AbilityResistanceRating:        20 / 40 / 60 / 80
@@ -50,6 +50,7 @@ Ultimate
 	Cost:                           -75 / -110 / -145
 	Radius:                         550
 	Range:                          850
+	Stun.Duration:                  1.5 / 2 / 2.5
 
 
 Jump
@@ -70,8 +71,8 @@ CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
 MaxLevel:                       20
-MaxMoveSpeed:                   710
+MaxMoveSpeed:                   670
 VisionRadius:                   5000
-XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPBounty:                       38.5 - 404.455 (+ 19.2608 per lvl)
 XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

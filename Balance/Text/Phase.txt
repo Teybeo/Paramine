@@ -15,7 +15,7 @@ MaxEnergy:                      390 - 903 (+ 27 per lvl)
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        30
 BasicPenetrationRating:         0
-BasicResistanceRating:          19.2 - 51.9 (+ 1.72105 per lvl)
+BasicResistanceRating:          13.6 - 51.1 (+ 1.97368 per lvl)
 
 Alternate
 	ARC:                            0
@@ -27,8 +27,8 @@ Alternate
 	Range:                          1800
 	Tether.Range:                   2200
 Primary
-	ARC:                            1.88
-	BasePower:                      88 / 140 / 193 / 246
+	ARC:                            2.09
+	BasePower:                      105 / 164 / 222 / 281
 	Blind.Duration:                 1.25 / 1.5 / 1.75 / 2
 	Cooldown:                       10
 	Cost:                           -90 / -100 / -110 / -120
@@ -47,7 +47,7 @@ Secondary
 	Cost:                           -110 / -130 / -150 / -170
 	Duration:                       2.5
 	MaxStacks:                      8
-	Root.Duration:                  0.5 / 0.75 / 1 / 1.25
+	Root.Duration:                  1 / 1.5 / 2 / 2.5
 	Slow.Duration:                  0.75
 	Slow.Magnitude:                 -0.03
 	TickRate:                       0.25
@@ -92,8 +92,8 @@ CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
 MaxLevel:                       20
-MaxMoveSpeed:                   695
+MaxMoveSpeed:                   655
 VisionRadius:                   5000
-XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPBounty:                       38.5 - 404.455 (+ 19.2608 per lvl)
 XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

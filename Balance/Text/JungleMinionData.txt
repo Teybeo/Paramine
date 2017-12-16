@@ -1,14 +1,16 @@
 Buf.Mid.Duration.DoT: 40
+Buff.Aqua.Duration: 15
+Buff.Aqua.Magnitude.HealthRegen: 15 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30
 Buff.Black.Duration: 60
 Buff.Black.MovementSlow.Duration: 1.5
-Buff.Black.MovementSlow.Magnitude.All: -0.05
-Buff.Black.MovementSlow.Magnitude.Melee: -0.15
+Buff.Black.MovementSlow.Magnitude.Melee: -0.2
+Buff.Black.MovementSlow.Magnitude.Ranged: -0.15
 Buff.Black.TrueVision.Radius: 3000
 Buff.Dragon.Gold: 1000
 Buff.Dragon.MoveSpeed: 1.1
 Buff.Dragon.NonHeroDamage: 0.15
 Buff.Dragon.Power: 4
-Buff.Dragon.Power.Stacking: 4
+Buff.Dragon.Power.Stacking: 8
 Buff.Gold.Duration: 45
 Buff.Gold.Duration.Pickup: 30
 Buff.Gold.Magnitude.BonusCXPPct: 0.2
@@ -42,6 +44,7 @@ Buff.Mid.Magnitude.MovementSpeed: 100
 ReinforceTime.Sov.HighYield: 300
 ReinforceTime.Sov.White: 60
 RespawnTime.Dragon: 180
+RespawnTime.Sov.Aqua: 120
 RespawnTime.Sov.Black: 180
 RespawnTime.Sov.Gold: 120
 RespawnTime.Sov.Green: 180
@@ -50,10 +53,11 @@ RespawnTime.Sov.HighYield: 300
 RespawnTime.Sov.Mid: 120
 RespawnTime.Sov.OrbPrime: 420
 RespawnTime.Sov.White: 60
-SpawnTime.Dragon: 120
-SpawnTime.Sov.Black: 90
+SpawnTime.Dragon: 300
+SpawnTime.Sov.Aqua: 180
+SpawnTime.Sov.Black: 80
 SpawnTime.Sov.Gold: 180
-SpawnTime.Sov.Green: 90
+SpawnTime.Sov.Green: 80
 SpawnTime.Sov.HighXP: 120
 SpawnTime.Sov.HighYield: 420
 SpawnTime.Sov.Mid: 180

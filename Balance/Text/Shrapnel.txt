@@ -5,7 +5,7 @@ AttackSpeedRating:              100 - 151.3 (+ 2.7 per lvl)
 BaseAttackTime:                 0.85
 CleaveRating:                   0
 LeftClickARC:                   1
-LeftClickBasePower:             56.2 - 134.5 (+ 4.12105 per lvl)
+LeftClickBasePower:             52.9 - 124.2 (+ 3.75263 per lvl)
 
 EnergyRegenRate:                1.29 - 2.81 (+ 0.08 per lvl)
 Health:                         639 - 1911 (+ 66.9474 per lvl)
@@ -15,16 +15,16 @@ MaxEnergy:                      356 - 812 (+ 24 per lvl)
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        30
 BasicPenetrationRating:         0
-BasicResistanceRating:          18.1 - 60.2 (+ 2.21579 per lvl)
+BasicResistanceRating:          12.9 - 61.1 (+ 2.53684 per lvl)
 
 Alternate
 	ARC:                            1.04
 	BasePower:                      55 / 84 / 113 / 143
-	Cooldown:                       6
+	Cooldown:                       8
 	Cost:                           -75 / -90 / -105 / -120
 	Range:                          1800
 	Slow.Duration:                  1.5
-	Slow.Magnitude:                 -0.18
+	Slow.Magnitude:                 -0.25 / -0.29 / -0.33 / -0.37
 Primary
 	ARC:                            0
 	BasePower:                      0
@@ -34,15 +34,15 @@ Primary
 	Radius:                         375 / 425 / 475 / 525
 	Range:                          1300
 Secondary
-	ARC:                            1.5 / 1.66 / 1.82 / 1.98
-	BasePower:                      50 / 106 / 168 / 236
+	ARC:                            1.54 / 1.68 / 1.82 / 2.04
+	BasePower:                      38 / 81 / 128 / 179
 	BuffDuration:                   10
 	Cooldown:                       12
 	Cost:                           -55
 	Damage.Delay:                   2
 	Shots.Count:                    3 / 4 / 5 / 6
-	TOOLTIP.ARC:                    1.82 / 1.98 / 2.14 / 2.3
-	TOOLTIP.Damage:                 168 / 236 / 310 / 390
+	TOOLTIP.ARC:                    1.82 / 2.04 / 2.14 / 2.36
+	TOOLTIP.Damage:                 128 / 179 / 236 / 296
 Ultimate
 	ARC:                            2.51
 	ArmorShred.Duration:            8
@@ -70,8 +70,8 @@ CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
 MaxLevel:                       20
-MaxMoveSpeed:                   700
+MaxMoveSpeed:                   660
 VisionRadius:                   5000
-XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPBounty:                       38.5 - 404.455 (+ 19.2608 per lvl)
 XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

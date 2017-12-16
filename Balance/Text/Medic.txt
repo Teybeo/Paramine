@@ -15,7 +15,7 @@ MaxEnergy:                      293 - 777 (+ 25.4737 per lvl)
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        30
 BasicPenetrationRating:         0
-BasicResistanceRating:          21.1 - 46.1 (+ 1.31579 per lvl)
+BasicResistanceRating:          15 - 43.7 (+ 1.51053 per lvl)
 
 Alternate
 	ARC:                            1.04
@@ -29,30 +29,33 @@ Alternate
 	Duration:                       4
 	Radius:                         400
 	Range:                          1300
+	Slow.Duration:                  2
+	Slow.Magnitude:                 -0.25 / -0.3 / -0.35 / -0.4
 	TickRate:                       0.5
 Primary
-	ARC:                            0.19
-	ARC.PerTick:                    0.11
-	BasePower:                      35 / 56 / 77 / 98
+	ARC:                            0.21
+	ARC.PerTick:                    0.12
+	BasePower:                      53 / 76 / 99 / 123
 	Cooldown:                       1
 	Cost:                           -35 / -41 / -47 / -53
-	Damage.PerTick:                 6 / 9 / 12 / 15
+	Damage.PerTick:                 9 / 12 / 15 / 19
 	Duration:                       3
 	TickRate:                       0.5
 Secondary
-	ARC:                            0
-	BasePower:                      0
+	ARC:                            1.67
+	BasePower:                      82 / 129 / 176 / 222
 	Cooldown:                       14
 	Cost:                           -80 / -100 / -120 / -140
-	Duration:                       1 / 1.25 / 1.5 / 1.75
+	Duration:                       1.2 / 1.4 / 1.6 / 1.8
 	Target.Count:                   3 / 5 / 7 / 9
 Ultimate
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       1
 	Cost:                           0
+	HealPCT:                        0.3
 	Health.Reduction:               1
-	ManaMult:                       1.1 / 1 / 0.9
+	ManaMult:                       1 / 0.75 / 0.5
 	ManaRegen.MissingManaMult:      0.035
 	MaxMana.Bonus:                  0
 
@@ -75,8 +78,8 @@ CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
 MaxLevel:                       20
-MaxMoveSpeed:                   695
+MaxMoveSpeed:                   655
 VisionRadius:                   5000
-XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPBounty:                       38.5 - 404.455 (+ 19.2608 per lvl)
 XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

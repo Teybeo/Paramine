@@ -15,7 +15,7 @@ MaxEnergy:                      300 - 1250 (+ 50 per lvl)
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        30
 BasicPenetrationRating:         0
-BasicResistanceRating:          24 - 75.3 (+ 2.7 per lvl)
+BasicResistanceRating:          17 - 75.9 (+ 3.1 per lvl)
 
 Alternate
 	ARC:                            1
@@ -77,6 +77,6 @@ MaxCardLevel:                   20
 MaxLevel:                       20
 MaxMoveSpeed:                   700
 VisionRadius:                   5000
-XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPBounty:                       38.5 - 404.455 (+ 19.2608 per lvl)
 XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

@@ -5,55 +5,57 @@ AttackSpeedRating:              100 - 128.5 (+ 1.5 per lvl)
 BaseAttackTime:                 0.85
 CleaveRating:                   0.2
 LeftClickARC:                   1
-LeftClickBasePower:             60.8 - 109.5 (+ 2.56316 per lvl)
+LeftClickBasePower:             63.2 - 109.4 (+ 2.43158 per lvl)
 
 EnergyRegenRate:                1.27 - 2.79 (+ 0.08 per lvl)
-Health:                         741 - 2289 (+ 81.4737 per lvl)
-HealthRegenRate:                1.23 - 3.82 (+ 0.136316 per lvl)
+Health:                         741 - 2192 (+ 76.3684 per lvl)
+HealthRegenRate:                1.23 - 3.65 (+ 0.127368 per lvl)
 MaxEnergy:                      262 - 718 (+ 24 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        30
 BasicPenetrationRating:         0
-BasicResistanceRating:          34.8 - 78.4 (+ 2.29474 per lvl)
+BasicResistanceRating:          24.6 - 74.7 (+ 2.63684 per lvl)
 
 Alternate
 	ARC:                            1.67
 	BasePower:                      47 / 94 / 140 / 187
 	CancelDelayDuration:            0.25
-	Cooldown:                       8
-	Cost:                           -60
+	Cooldown:                       14
+	Cost:                           -50
+	Slow:                           -0.3
+	SlowDuration:                   1.5
 Primary
-	ARC:                            2.09
-	ARCEmpowered:                   2.61
-	BasePower:                      88 / 146 / 205 / 263
-	BasePowerEmpowered:             110 / 183 / 256 / 329
+	ARC:                            1.88
+	ARCEmpowered:                   2.35
+	BasePower:                      70 / 123 / 176 / 228
+	BasePowerEmpowered:             88 / 154 / 219 / 285
 	CancelDelayDuration:            0.15
 	CleaveRating:                   0.5
 	CleaveRatingEmpowered:          0.7 / 0.8 / 0.9 / 1
-	Cooldown:                       6
-	Cost:                           -50
+	Cooldown:                       4
+	Cost:                           -30
 	EmpoweredScalar:                0.25
 Secondary
-	ARC:                            1.88
-	ARCEmpowered:                   2.35
-	BasePower:                      76 / 129 / 181 / 234
-	BasePowerEmpowered:             95 / 161 / 227 / 293
+	ARC:                            1.67
+	ARCEmpowered:                   2.09
+	BasePower:                      70 / 117 / 164 / 211
+	BasePowerEmpowered:             88 / 146 / 205 / 263
 	CancelDelayDuration:            0.25
-	Cooldown:                       8
-	Cost:                           -75
+	Cooldown:                       11
+	Cost:                           -50
+	Empowered.Stun.Duration:        1.4 / 1.6 / 1.8 / 2
 	EmpoweredScalar:                0.25
 	Knockup:                        175
 	KnockupEmpowered:               175
-	Slow:                           -0.3
-	SlowDuration:                   1.5
+	Stun.Duration:                  0.5
 Ultimate
 	ARC:                            0
 	AmpedDuration:                  5
 	BasePower:                      0
 	Cooldown:                       20 / 15 / 10
 	CooldownRemoval:                0.4 / 0.7 / 1
-	Cost:                           -50
+	Cost:                           -30
 	EmpoweredTimeout:               10
 
 
@@ -75,8 +77,8 @@ CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
 MaxLevel:                       20
-MaxMoveSpeed:                   710
+MaxMoveSpeed:                   655
 VisionRadius:                   5000
-XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPBounty:                       38.5 - 404.455 (+ 19.2608 per lvl)
 XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

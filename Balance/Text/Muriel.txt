@@ -15,28 +15,28 @@ MaxEnergy:                      429 - 1085 (+ 34.5263 per lvl)
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        30
 BasicPenetrationRating:         0
-BasicResistanceRating:          16.3 - 49 (+ 1.72105 per lvl)
+BasicResistanceRating:          11.6 - 49.1 (+ 1.97368 per lvl)
 
 Alternate
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       7
-	Cost:                           -100
-	Duration.Abilitiy.Alternate:    2
-	Movespeed.Max.Duration:         2
-	Movespeed.Max.Magnitude:        0.22 / 0.26 / 0.3 / 0.34
+	Cost:                           -70
+	Duration.Abilitiy.Alternate:    2 / 2.25 / 2.5 / 2.75
+	Movespeed.Max.Duration:         2 / 2.25 / 2.5 / 2.75
+	Movespeed.Max.Magnitude:        0.35
 	Movespeed.Stack.Count:          10
-	Movespeed.Stack.Duration:       0.2
-	Movespeed.Stack.Magnitude:      0.022 / 0.026 / 0.03 / 0.034
-	Shield:                         94 / 140 / 187 / 234
+	Movespeed.Stack.Duration:       0.2 / 0.225 / 0.25 / 0.275
+	Movespeed.Stack.Magnitude:      0.035
+	Shield:                         99 / 146 / 193 / 240
 Primary
-	ARC:                            1.67
-	BasePower:                      94 / 140 / 187 / 234
+	ARC:                            2.72
+	BasePower:                      117 / 193 / 269 / 345
 	Cooldown:                       6
 	Cost:                           -75 / -85 / -95 / -105
 	Duration:                       3
 	Range:                          1800
-	Slow:                           -0.3 / -0.36 / -0.42 / -0.48
+	Slow:                           -0.3 / -0.34 / -0.38 / -0.42
 Secondary
 	ARC:                            1.25
 	BasePower:                      70 / 105 / 140 / 175
@@ -44,7 +44,7 @@ Secondary
 	Cost:                           -100 / -115 / -130 / -145
 	DelayDuration:                  1.05
 	Range:                          1600
-	Shield:                         205 / 310 / 415 / 521
+	Shield:                         216 / 322 / 427 / 532
 	Shield.Duration:                3
 	ShieldDuration:                 2
 Ultimate
@@ -54,8 +54,8 @@ Ultimate
 	Cost:                           -150 / -225 / -300
 	Shield:                         410 / 702 / 995
 	Shield.Duration:                3
-	Slow.Duration:                  2
-	Slow.Magnitude:                 -0.6
+	Slow.Duration:                  1.5
+	Slow.Magnitude:                 -0.75
 	Stun.Duration:                  1
 
 
@@ -77,8 +77,8 @@ CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
 MaxLevel:                       20
-MaxMoveSpeed:                   695
+MaxMoveSpeed:                   655
 VisionRadius:                   5000
-XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPBounty:                       38.5 - 404.455 (+ 19.2608 per lvl)
 XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

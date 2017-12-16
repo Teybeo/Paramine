@@ -4,7 +4,7 @@ AttackRating:                   260
 AttackSpeedRating:              100
 BaseAttackTime:                 1
 
-Health:                         2500
+Health:                         2800
 HealthRegenRate:                0
 
 AbilityResistanceRating:        1000
@@ -13,10 +13,10 @@ BasicResistanceRating:          50
 
 
 other
-	Reward.NumberOfCoins:           65
-	Reward.TeamCardPoints:          292.4
+	Reward.NumberOfCoins:           50
+	Reward.TeamCardPoints:          200
 
-CXPBounty:                      204
+CXPBounty:                      300
 CXPSpawnTime:                   1.5
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0

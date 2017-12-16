@@ -43,13 +43,13 @@ other
 	ExecuteThreshold.FlatHealth:    120
 	Reward.NumberOfCoins:           3
 
-CXPBounty:                      50
+CXPBounty:                      75
 CXPSpawnTime:                   0.3
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0
 MaxLevel:                       3
 MaxMoveSpeed:                   1000
 VisionRadius:                   2000
-XPBounty:                       15
+XPBounty:                       20
 XPToLevel:                      1
 

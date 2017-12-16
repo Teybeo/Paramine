@@ -5,7 +5,7 @@ AttackSpeedRating:              100 - 114.3 (+ 0.752632 per lvl)
 BaseAttackTime:                 0.9
 CleaveRating:                   0.2
 LeftClickARC:                   1
-LeftClickBasePower:             64.1 - 118.3 (+ 2.85263 per lvl)
+LeftClickBasePower:             66.7 - 118 (+ 2.7 per lvl)
 
 EnergyRegenRate:                1.52 - 3.04 (+ 0.08 per lvl)
 Health:                         702 - 2006 (+ 68.6316 per lvl)
@@ -15,7 +15,7 @@ MaxEnergy:                      337 - 793 (+ 24 per lvl)
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        30
 BasicPenetrationRating:         0
-BasicResistanceRating:          33.1 - 68.8 (+ 1.87895 per lvl)
+BasicResistanceRating:          23.4 - 64.5 (+ 2.16316 per lvl)
 
 Alternate
 	ARC:                            0
@@ -40,7 +40,7 @@ Secondary
 	BasePower:                      88 / 117 / 146 / 176
 	CloneDamageRadius:              300
 	CloneDuration:                  4
-	Cooldown:                       8
+	Cooldown:                       10
 	Cost:                           -90 / -100 / -110 / -120
 	Range:                          1400
 	ReactivateLockout:              0.75
@@ -50,18 +50,18 @@ Secondary
 	Slow:                           -80 / -140 / -200 / -260
 	SlowDuration:                   2
 Ultimate
-	ARC:                            2.09
-	ARC.Chain.Hero:                 0.84
-	ARC.Chain.NonHero:              0.42
-	BasePower:                      187 / 246 / 304
-	BasePower.Chain.Hero:           75 / 98 / 122
-	BasePower.Chain.NonHero:        37 / 49 / 61
+	ARC:                            1.76
+	ARC.Chain.Hero:                 0.7
+	ARC.Chain.NonHero:              0.26
+	BasePower:                      158 / 207 / 256
+	BasePower.Chain.Hero:           63 / 83 / 102
+	BasePower.Chain.NonHero:        24 / 31 / 38
 	Cooldown:                       140 / 125 / 110
 	Cost:                           -100 / -150 / -200
 	ExplosionRadius:                600
 	IceDuration:                    2
 	IceExplosionARC:                0.25
-	IceExplosionBasePower:          55 / 90 / 125
+	IceExplosionBasePower:          30 / 50 / 70
 	IceExplosionDuration:           0.25
 	IceRamp:                        1.5
 	InitialRadius:                  1200
@@ -92,8 +92,8 @@ CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
 MaxLevel:                       20
-MaxMoveSpeed:                   725
+MaxMoveSpeed:                   680
 VisionRadius:                   5000
-XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPBounty:                       38.5 - 404.455 (+ 19.2608 per lvl)
 XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

@@ -9,7 +9,7 @@ Health:                         620 - 699.8 (+ 4.2 per lvl)
 HealthRegenRate:                0
 MaxEnergy:                      0
 
-AbilityResistanceRating:        42 - 56 (+ 0.736842 per lvl)
+AbilityResistanceRating:        30 - 58 (+ 1.47368 per lvl)
 BasicResistanceRating:          0
 
 Alternate
@@ -44,12 +44,12 @@ other
 	ExecuteThreshold.FlatHealth:    120
 	Reward.NumberOfCoins:           3
 
-CXPBounty:                      68
+CXPBounty:                      75
 CXPSpawnTime:                   0.3
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0
 MaxLevel:                       15
-MaxMoveSpeed:                   700
+MaxMoveSpeed:                   660
 VisionRadius:                   2000
 XPBounty:                       18
 XPToLevel:                      1

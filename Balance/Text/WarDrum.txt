@@ -15,37 +15,42 @@ MaxEnergy:                      312 - 740 (+ 22.5263 per lvl)
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        30
 BasicPenetrationRating:         0
-BasicResistanceRating:          24 - 72.1 (+ 2.53158 per lvl)
+BasicResistanceRating:          17 - 72.2 (+ 2.90526 per lvl)
 
 Alternate
 	ARC:                            1.88
 	BasePower:                      88 / 140 / 193 / 246
 	Cooldown:                       8
 	Cost:                           -100 / -110 / -120 / -130
-	Stun:                           1 / 1.25 / 1.5 / 1.75
+	Stun:                           1.2 / 1.4 / 1.6 / 1.8
 Primary
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       12
 	Cost:                           -80
 	Movespeed.Max.Duration:         4
-	Movespeed.Max.Magnitude:        0.18 / 0.22 / 0.26 / 0.3
+	Movespeed.Max.Magnitude:        0.25 / 0.28 / 0.31 / 0.34
 	Movespeed.Stack.Count:          10
 	Movespeed.Stack.Duration:       0.4
-	Movespeed.Stack.Magnitude:      0.018 / 0.022 / 0.026 / 0.03
+	Movespeed.Stack.Magnitude:      0.025 / 0.028 / 0.031 / 0.034
 Secondary
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       1
 	Cost:                           -12 / -18 / -24 / -30
-	HealthRegen:                    20 / 30 / 40 / 50
+	Heal.AoE.PerSecond:             20 / 30 / 40 / 50
+	Heal.AoE.PerTick:               10 / 15 / 20 / 25
+	Heal.Self.PerSecond:            20 / 30 / 40 / 50
+	Heal.Self.PerTick:              10 / 15 / 20 / 25
+	TickRate:                       0.5
 Ultimate
-	ARC:                            4.6
-	BasePower:                      322 / 450 / 579
+	ARC:                            4.81
+	BasePower:                      339 / 474 / 608
 	Cooldown:                       100 / 85 / 70
 	Cost:                           -75 / -100 / -125
 	Duration:                       3
 	Slow:                           -0.5
+	Stun.Duration:                  1.5
 
 
 Jump
@@ -66,8 +71,8 @@ CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
 MaxLevel:                       20
-MaxMoveSpeed:                   695
+MaxMoveSpeed:                   655
 VisionRadius:                   5000
-XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPBounty:                       38.5 - 404.455 (+ 19.2608 per lvl)
 XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 
