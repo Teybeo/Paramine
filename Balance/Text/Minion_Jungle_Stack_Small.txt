@@ -9,6 +9,8 @@ Health:                         855 - 3847.5 (+ 157.5 per lvl)
 HealthRegenRate:                69
 MaxEnergy:                      0
 
+AbilityResistanceRating:        0
+BasicResistanceRating:          0
 
 Alternate
 	Cooldown:                       0

@@ -1,6 +1,6 @@
 Minion_Jungle_Sov_Small
 
-AttackRating:                   7
+AttackRating:                   6
 AttackSpeedRating:              100
 BaseAttackTime:                 0.5
 
@@ -9,6 +9,8 @@ Health:                         480
 HealthRegenRate:                180
 MaxEnergy:                      0
 
+AbilityResistanceRating:        0
+BasicResistanceRating:          0
 
 Alternate
 	Cooldown:                       0
@@ -40,7 +42,7 @@ other
 	EngagementDistance.Objectives:  1500
 	Reward.NumberOfCoins:           3
 
-CXPBounty:                      73
+CXPBounty:                      85
 CXPSpawnTime:                   0.3
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0

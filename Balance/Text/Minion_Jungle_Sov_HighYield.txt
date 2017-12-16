@@ -9,6 +9,8 @@ Health:                         1200 - 2950 (+ 92.1053 per lvl)
 HealthRegenRate:                1000
 MaxEnergy:                      0
 
+AbilityResistanceRating:        0
+BasicResistanceRating:          0
 
 Alternate
 	Cooldown:                       0
@@ -40,7 +42,7 @@ other
 	EngagementDistance.Objectives:  1500
 	Reward.NumberOfCoins:           8
 
-CXPBounty:                      800
+CXPBounty:                      650
 CXPSpawnTime:                   1.3
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0

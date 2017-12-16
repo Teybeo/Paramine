@@ -13,7 +13,7 @@ HealthRegenRate:                1.3625 - 5.4665 (+ 0.216 per lvl)
 MaxEnergy:                      280 - 1572 (+ 68 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        21.4 - 36.79 (+ 0.81 per lvl)
+AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
 BasicPenetrationRating:         0
 BasicResistanceRating:          8.72 - 29.05 (+ 1.07 per lvl)
 

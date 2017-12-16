@@ -21,11 +21,13 @@ Alternate
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       12 / 11 / 10 / 9
-	Cost:                           -35 / -40 / -45 / -50
-	Range:                          1600
+	Cost:                           -80
+	HealthRegen.Duration:           2
+	HealthRegen.Magnitude:          30 / 45 / 60 / 75
+	Range:                          1900
 	Tether.Range:                   2500
 Primary
-	ARC:                            0.6
+	ARC:                            0.8
 	BasePower:                      75 / 130 / 185 / 240
 	Blind.Duration:                 1.5 / 2 / 2.5 / 3
 	Cooldown:                       12
@@ -36,16 +38,17 @@ Secondary
 	Armor.Ability.Magnitude:        12 / 24 / 36 / 48
 	Armor.Basic.Magnitude:          12 / 24 / 36 / 48
 	Armor.Duration:                 3
-	BaseDamage.PerTick:             80 / 130 / 180 / 230
+	BaseDamage.PerTick:             8 / 13 / 18 / 23
 	BasePower:                      0
 	Buff.Stack.HealthRegen.Duration: 4
 	Buff.Stack.HealthRegen.Magnitude: 1 / 2 / 3 / 4
 	Buff.Stack.Max:                 20
-	Cooldown:                       14 / 13 / 12 / 11
+	Cooldown:                       14
 	Cost:                           -80 / -100 / -120 / -140
 	Duration:                       2.5
-	Slow.Duration:                  1 / 1.5 / 2 / 2.5
-	Slow.Magnitude:                 -200
+	Root.Duration:                  0.75 / 1 / 1.25 / 1.5
+	Slow.Duration:                  0.75
+	Slow.Magnitude:                 -35
 	TickRate:                       0.25
 Ultimate
 	ARC:                            0
@@ -61,7 +64,12 @@ Ultimate
 	Damage.PerTick:                 18 / 28 / 38
 	Duration:                       8 / 12 / 16
 	ManaRegen.Stack.Magnitude:      1.5 / 2.25 / 3
+	Movespeed.Max.Duration:         3
+	Movespeed.Max.Magnitude:        220
 	Movespeed.Slow:                 -150
+	Movespeed.Stack.Count:          20
+	Movespeed.Stack.Duration:       0.15
+	Movespeed.Stack.Magnitude:      11
 	TickRate:                       0.25
 
 

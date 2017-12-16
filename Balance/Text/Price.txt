@@ -18,24 +18,30 @@ BasicPenetrationRating:         0
 BasicResistanceRating:          18 - 56 (+ 2 per lvl)
 
 Alternate
-	ARC:                            0.2
-	BasePower:                      40 / 80 / 120 / 160
-	Cooldown:                       21 / 18 / 15 / 12
-	Cost:                           -75 / -80 / -85 / -90
-Primary
 	ARC:                            0.6
 	BasePower:                      60 / 105 / 150 / 195
 	Cooldown:                       10
-	Cost:                           -50 / -60 / -70 / -80
+	Cost:                           -75 / -80 / -85 / -90
+	Knockback.Distance.Max:         700
+Primary
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       0
+	Cost:                           0
+	Movespeed.Duration:             1.25
+	Movespeed.Magnitude:            100 / 150 / 200 / 250
+	Radius:                         3000 / 4000 / 5000 / 6000
 	ShredDuration:                  4
 Secondary
-	ARC:                            0.4
-	BasePower:                      40 / 60 / 80 / 100
-	Cooldown:                       20
-	Cost:                           -80
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       10 / 8 / 6 / 4
+	Cost:                           0
 	EnergyResist:                   0
 	MaxTraps:                       1 / 1 / 2 / 3
+	Penetration.Basic:              15 / 30 / 45 / 60
 	PhysicalResist:                 -5 / -10 / -15 / -20
+	Range:                          1700
 	RootDuration:                   2
 	TrapActivationDelay:            3.25
 	TrapDuration:                   90

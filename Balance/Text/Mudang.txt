@@ -50,7 +50,7 @@ Ultimate
 	Cooldown:                       90 / 75 / 60
 	Cost:                           -100
 	Stacks.Max:                     8
-	Stacks.Timeout:                 7
+	Stacks.Timeout:                 10
 
 
 Jump

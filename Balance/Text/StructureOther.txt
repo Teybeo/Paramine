@@ -1,0 +1,21 @@
+StructureOther
+
+
+Health:                         4000
+HealthRegenRate:                0
+
+
+
+
+other
+	Reward.NumberOfCoins:           1
+
+CXPBounty:                      150
+CXPSpawnTime:                   0.15
+CriticallyWoundedThresholdPCT:  0
+GainXPFromKills:                0
+MaxLevel:                       0
+VisionRadius:                   1500
+XPBounty:                       0
+XPToLevel:                      0
+

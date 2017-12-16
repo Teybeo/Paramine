@@ -28,8 +28,11 @@ Primary
 	BasePower:                      0
 	Cooldown:                       24 / 20 / 16 / 12
 	Cost:                           -75
-	MovementSpeed:                  65 / 90 / 115 / 140
-	SpeedBoostDuration:             2
+	Movespeed.Max.Duration:         2.5
+	Movespeed.Max.Magnitude:        125 / 150 / 175 / 200
+	Movespeed.Stack.Count:          10
+	Movespeed.Stack.Duration:       0.25
+	Movespeed.Stack.Magnitude:      12.5 / 15 / 17.5 / 20
 Secondary
 	ARC:                            0
 	BasePower:                      0

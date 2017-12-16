@@ -1,7 +1,7 @@
 TacticiaPlaced
 
 
-Health:                         4
+Health:                         200 - 3525 (+ 175 per lvl)
 HealthRegenRate:                0
 
 

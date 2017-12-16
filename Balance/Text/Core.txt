@@ -1,8 +1,8 @@
 Core
 
-AttackRating:                   320
-AttackSpeedRating:              100
-BaseAttackTime:                 0.8
+AttackRating:                   110
+AttackSpeedRating:              300
+BaseAttackTime:                 1
 
 Health:                         4000
 HealthRegenRate:                0

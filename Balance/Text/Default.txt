@@ -52,6 +52,16 @@ Utility
 other
 	Constant.Energy:                0
 	Constant.Physical:              0
+	Placeholder.Dynamic.1:          1 / 2 / 3 / 4
+	Placeholder.Dynamic.10:         10 / 20 / 30 / 40
+	Placeholder.Dynamic.100:        100 / 200 / 300 / 400
+	Placeholder.Dynamic.5:          5 / 10 / 15 / 20
+	Placeholder.Dynamic.50:         50 / 100 / 150 / 200
+	Placeholder.Static.1:           1
+	Placeholder.Static.10:          10
+	Placeholder.Static.100:         100
+	Placeholder.Static.5:           5
+	Placeholder.Static.50:          50
 
 CXPBounty:                      675
 CXPSpawnTime:                   1.5

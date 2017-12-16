@@ -35,8 +35,11 @@ Secondary
 	BasePower:                      50 / 90 / 130 / 170
 	Cooldown:                       22 / 18 / 14 / 10
 	Cost:                           -40
-	Duration:                       1
-	MovementSpeed:                  125
+	Movespeed.Max.Duration:         2.5
+	Movespeed.Max.Magnitude:        200
+	Movespeed.Stack.Count:          20
+	Movespeed.Stack.Duration:       0.125
+	Movespeed.Stack.Magnitude:      10
 Ultimate
 	ARC:                            3.125
 	BasePower:                      375 / 575 / 775

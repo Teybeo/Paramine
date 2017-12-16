@@ -1,7 +1,7 @@
 PyroPlaced
 
 
-Health:                         4 - 80 (+ 4 per lvl)
+Health:                         200 - 2575 (+ 125 per lvl)
 HealthRegenRate:                0
 
 

@@ -21,10 +21,10 @@
         15.0
     ],
     "Buff.Green.Magnitude.ExplosionDamage.Base": [
-        100.0
+        80.0
     ],
     "Buff.Green.Magnitude.ExplosionDamage.LevelDelta": [
-        15.0
+        13.0
     ],
     "Buff.Green.Magnitude.MovementSpeed": [
         20.0
@@ -33,7 +33,7 @@
         15.0
     ],
     "Buff.Green.Magnitude.ReflectDamage.Base": [
-        15.0
+        20.0
     ],
     "Buff.Green.Magnitude.ReflectDamage.LevelDelta": [
         0.0
@@ -93,13 +93,13 @@
         100.0
     ],
     "ReinforceTime.Sov.HighYield": [
-        240.0
+        300.0
     ],
     "ReinforceTime.Sov.White": [
         60.0
     ],
     "RespawnTime.Sov.Gold": [
-        150.0
+        120.0
     ],
     "RespawnTime.Sov.Green": [
         180.0
@@ -108,7 +108,7 @@
         120.0
     ],
     "RespawnTime.Sov.HighYield": [
-        240.0
+        300.0
     ],
     "RespawnTime.Sov.Mid": [
         120.0
@@ -120,7 +120,7 @@
         60.0
     ],
     "SpawnTime.Sov.Gold": [
-        90.0
+        180.0
     ],
     "SpawnTime.Sov.Green": [
         90.0

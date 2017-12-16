@@ -9,6 +9,8 @@ Health:                         1500
 HealthRegenRate:                0
 MaxEnergy:                      0
 
+AbilityResistanceRating:        0
+BasicResistanceRating:          0
 
 Alternate
 	Cooldown:                       0

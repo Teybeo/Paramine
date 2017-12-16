@@ -33,7 +33,7 @@ Secondary
 	Armor.Energy:                   0
 	Armor.Physical:                 4 / 8 / 12 / 16
 	BasePower:                      0
-	Cooldown:                       1
+	Cooldown:                       9 / 7 / 5 / 3
 	Cost:                           0
 	Health:                         70 / 140 / 210 / 280
 Ultimate

@@ -1,7 +1,7 @@
 Ward_Base
 
 
-Health:                         5
+Health:                         150
 HealthRegenRate:                0
 
 

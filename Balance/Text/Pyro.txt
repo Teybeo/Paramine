@@ -21,11 +21,13 @@ Alternate
 	ARC:                            0
 	Alternate.Ability.MovementSpeed: 100
 	BasePower:                      0
-	Cooldown:                       8
-	Cost:                           -45
+	Cooldown:                       1
+	Cost:                           0
 	Duration:                       2 / 2.66666 / 3.33332 / 3.99998
-	Proto.Buff.Duration:            4
-	Proto.Movespeed:                100 / 120 / 140 / 160
+	Proto.Duration:                 6 / 8 / 10 / 12
+	Proto.PerTick.ARC:              0.075
+	Proto.PerTick.BaseDamage:       8 / 10 / 12 / 14
+	Proto.TickRate:                 1
 Primary
 	ARC:                            2.5
 	BasePower:                      300 / 450 / 600 / 750
@@ -33,11 +35,9 @@ Primary
 	Cost:                           -65 / -75 / -85 / -95
 	Duration:                       10
 	Proto.Turret.AttackTime:        1.1
-	Proto.Turret.Count:             4 / 5 / 6 / 7
-	Proto.Turret.Damage.Primary:    28 / 42 / 56 / 70
-	Proto.Turret.Damage.Primary.ARC: 0.1 / 0.2 / 0.3 / 0.4
-	Proto.Turret.Damage.Splash:     8
-	Proto.Turret.Damage.Splash.ARC: 0.07
+	Proto.Turret.Count:             4
+	Proto.Turret.Damage.Primary:    18 / 32 / 46 / 60
+	Proto.Turret.Damage.Primary.ARC: 0.15
 	Proto.Turret.Duration:          36
 	Proto.Turret.Radius.Splash:     200
 	Proto.Turret.Range.Attack:      1400
@@ -60,14 +60,11 @@ Ultimate
 	Duration:                       2.5
 	Proto.Duration:                 4 / 5 / 6
 	Proto.Slow.Magnitude:           -120
-	Proto.Turret.CDR:               3 / 4.8 / 6
-	Proto.Turret.Damage.ARC:        0.0181818 / 0.0363636 / 0.0545455
-	Proto.Turret.DoT.Damage:        5.09091 / 7.63636 / 10.1818
+	Proto.Turret.Damage.ARC:        0.0272727
+	Proto.Turret.DoT.Damage:        3.27273 / 5.81818 / 8.36364
 	Proto.Turret.DoT.Interval:      0.2
 
 
-Charge
-	Cooldown:                       20
 Jump
 	Cooldown:                       1
 	Cost:                           0

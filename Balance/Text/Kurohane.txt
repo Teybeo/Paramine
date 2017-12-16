@@ -18,26 +18,29 @@ BasicPenetrationRating:         0
 BasicResistanceRating:          14 - 37.75 (+ 1.25 per lvl)
 
 Alternate
-	ARC:                            0
-	BasePower:                      0
-	Cooldown:                       18 / 15 / 12 / 9
-	Cost:                           -40
+	ARC:                            0.6
+	BasePower:                      75 / 115 / 155 / 195
+	Cooldown:                       6
+	Cost:                           -35 / -40 / -45 / -50
+	MovementSpeed:                  -400 / -460 / -520 / -580
 Passive
 	MovementSpeed:                  45
 Primary
 	ARC:                            0
 	BasePower:                      0
+	CheatDeath.FadeTime:            0.25
+	CheatDeath.Threshold:           0.35
 	Cooldown:                       15
 	Cost:                           -50
 	Duration:                       8 / 13 / 18 / 23
 	FadeTime:                       1.75
 	StealthAttackMultiplier:        2.5
 Secondary
-	ARC:                            0.6
-	BasePower:                      60 / 80 / 100 / 120
-	Cooldown:                       6
-	Cost:                           -35 / -40 / -45 / -50
-	MovementSpeed:                  -400 / -460 / -520 / -580
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       14 / 12 / 10 / 8
+	Cost:                           0
+	HealthRegen.Magnitude:          6 / 8 / 10 / 12
 Ultimate
 	ARC:                            0.4
 	BasePower:                      150 / 225 / 300
@@ -46,6 +49,8 @@ Ultimate
 	Duration:                       5 / 6 / 7
 
 
+CheatDeath
+	Cooldown:                       60
 Jump
 	Cooldown:                       1
 	Cost:                           0

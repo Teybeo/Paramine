@@ -31,7 +31,7 @@ Primary
 	Cooldown:                       10
 	Cost:                           -55
 	LMBRange.Basic.Primary:         600
-	Range:                          950
+	Range:                          750
 	StandingCastTime:               0.6
 	StunDuration:                   0.5
 	TargetDistanceOffset:           550
@@ -41,8 +41,8 @@ Secondary
 	BasePower:                      0
 	BonusCleave:                    1
 	BuffDuration:                   6
-	Cooldown:                       20 / 16 / 12 / 8
-	Cost:                           -20
+	Cooldown:                       21 / 18 / 15 / 12
+	Cost:                           -40
 	RangeBonus:                     1050
 Ultimate
 	ARC:                            0

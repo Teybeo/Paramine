@@ -20,10 +20,12 @@ BasicResistanceRating:          14 - 37.75 (+ 1.25 per lvl)
 Alternate
 	ARC:                            0
 	BasePower:                      0
-	Cooldown:                       12
-	Cost:                           -50
+	Cooldown:                       18
+	Cost:                           -80 / -90 / -100 / -110
 	DamageReductionMultiplier:      0.6 / 0.7 / 0.8 / 0.9
+	SelfSlow.Magnitude:             -250
 	Shield:                         2 / 2.66666 / 3.33332 / 3.99998
+	Slow.Duration:                  1
 Primary
 	ARC:                            0.8
 	BasePower:                      75 / 120 / 165 / 210
@@ -33,11 +35,13 @@ Primary
 	Cost:                           -65 / -70 / -75 / -80
 Secondary
 	ARC:                            0
+	AbilityResistanceRating:        50 / 65 / 80 / 95
 	BasePower:                      0
-	Cooldown:                       24 / 20 / 16 / 12
-	Cost:                           -100 / -120 / -140 / -160
+	Cooldown:                       0
+	Cost:                           0
 	Range:                          750
-	Shield.Duration:                3
+	RefreshDuration:                6 / 5 / 4 / 3
+	Shield.Duration:                4 / 5 / 6 / 7
 	ShieldWall.Duration:            4
 	Slow:                           -180
 Ultimate

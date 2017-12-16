@@ -18,41 +18,72 @@ BasicPenetrationRating:         0
 BasicResistanceRating:          8 - 27 (+ 1 per lvl)
 
 Alternate
-	A:                              1
 	ARC:                            0.625
-	B:                              1
 	BasePower:                      60 / 110 / 160 / 210
-	C:                              1
 	Cooldown:                       12
 	Cost:                           -65 / -70 / -75 / -80
-	D:                              1
+	Food.PerBite:                   25
+	Trough.Duration:                20 / 25 / 30 / 35
+	Trough.Melee.Full:              400
+	Trough.Melee.Hungry:            200
+	Trough.Melee.Stuffed:           700
+	Trough.Overeat.Explosion.Radius: 800
+	Trough.Range:                   1500
+	Trough.Ranged.Full:             200
+	Trough.Ranged.Hungry:           100
+	Trough.Ranged.Stuffed:          400
+	Trough.Taunt.Radius:            600 / 800 / 1000 / 1200
 Primary
-	A:                              1
 	ARC:                            1.25
-	B:                              1
 	BasePower:                      100 / 160 / 220 / 280
-	C:                              1
 	Cooldown:                       8
 	Cost:                           -100 / -115 / -130 / -145
-	D:                              1
+	Eject.Velocity:                 4000
+	Fuel.Magnitude:                 10000
+	Fuel.Rate:                      1000 / 750 / 500 / 250
+	Helicoptor.Movespeed.Horizontal: 2200
+	Helicoptor.Movespeed.Vertical:  1250
+	Helicoptor.Yaw.Rate:            180
+	Passenger.Count:                1 / 2 / 3 / 4
 Secondary
-	A:                              1
 	ARC:                            0.5
-	B:                              1
 	BasePower:                      60 / 100 / 140 / 180
-	C:                              1
 	Cooldown:                       22 / 19 / 16 / 13
 	Cost:                           -80 / -90 / -100 / -110
-	D:                              1
+	Llama.Damage:                   50 / 85 / 120 / 155
+	Llama.Health:                   300 / 500 / 700 / 900
+	Llama.Movespeed:                720 / 780 / 840 / 900
+	Summon.Llama.Count:             4 / 6 / 8 / 10
 Ultimate
-	A:                              1
 	ARC:                            3.125
-	B:                              1
 	BasePower:                      340 / 520 / 700
-	C:                              1
 	Cooldown:                       105 / 90 / 75
 	Cost:                           -100 / -125 / -150
-	D:                              1
+	MagaSword.Whirlwind.Cooldown:   4
+	MegaSword.InfiniteEdge.ARC:     0.6
+	MegaSword.InfiniteEdge.Cooldown: 10
+	MegaSword.InfiniteEdge.Damage:  60 / 100 / 140
+	MegaSword.LaceratingStrike.ARC: 0.4
+	MegaSword.LaceratingStrike.Cooldown: 6
+	MegaSword.LaceratingStrike.Damage: 25 / 50 / 75
+	MegaSword.MegaSlash.ARC:        0.6
+	MegaSword.MegaSlash.Cooldown:   6
+	MegaSword.MegaSlash.Damage:     80 / 120 / 160
+	MegaSword.ReavingBlade.ARC:     0.3
+	MegaSword.ReavingBlade.Cooldown: 7
+	MegaSword.ReavingBlade.Damage:  50 / 75 / 100
+	MegaSword.SkullBuster.ARC:      1.5
+	MegaSword.SkullBuster.Cooldown: 20
+	MegaSword.SkullBuster.Damage:   160 / 280 / 400
+	MegaSword.SkySlam.ARC:          1.2
+	MegaSword.SkySlam.Cooldown:     10
+	MegaSword.SkySlam.Damage:       100 / 200 / 300
+	MegaSword.SliceNDice.ARC:       0.2
+	MegaSword.SliceNDice.Cooldown:  3
+	MegaSword.SliceNDice.Damage:    40 / 60 / 80
+	MegaSword.Transform.Duration:   40 / 60 / 80
+	MegaSword.Whirlwind.ARC:        0.6
+	MegaSword.Whirlwind.Damage:     80 / 120 / 160
 
 
 Jump

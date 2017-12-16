@@ -20,34 +20,36 @@ BasicResistanceRating:          8 - 27 (+ 1 per lvl)
 Alternate
 	ARC:                            0
 	BasePower:                      0
-	Cooldown:                       16
-	Cost:                           -70 / -80 / -90 / -100
-	Duration:                       4
-	Magnitude:                      -0.3 / -0.4 / -0.5 / -0.6
-	Range:                          1500
+	Charge.Max:                     4
+	Cooldown:                       6
+	Cost:                           -20 / -24 / -28 / -32
+	Duration:                       3
+	Heal.Base:                      20 / 35 / 50 / 65
+	Heal.PerTick:                   4 / 6 / 8 / 10
+	TickRate:                       0.49
 Primary
-	ARC:                            0.5
-	BasePower:                      75 / 125 / 175 / 225
+	ARC:                            0.1
+	ARC.PerTick:                    0.05
+	BasePower:                      25 / 40 / 55 / 70
+	BasePower.PerTick:              5 / 6 / 7 / 8
+	Charge.Max:                     3
 	Cooldown:                       8
-	Cost:                           -50 / -60 / -70 / -80
-	Range:                          1750
-	SelfDamage.Multiplier:          1
+	Cost:                           -25 / -30 / -35 / -40
+	Duration:                       3
+	TickRate:                       0.49
 Secondary
 	ARC:                            0
 	BasePower:                      0
-	Cooldown:                       22 / 20 / 18 / 16
+	Charge.Max:                     1
+	Cooldown:                       12
 	Cost:                           -80 / -100 / -120 / -140
-	Duration:                       5
-	Range:                          1750
-	Reflect.Multiplier:             0.55 / 0.7 / 0.85 / 1
+	Duration:                       1.4 / 1.8 / 2.2 / 2.6
 Ultimate
 	ARC:                            0
-	AllyHeal.Multiplier:            0.2 / 0.3 / 0.4
 	BasePower:                      0
-	Cooldown:                       130 / 120 / 110
+	Cooldown:                       130 / 105 / 80
 	Cost:                           -100
 	Duration:                       5 / 6 / 7
-	Radius:                         1500
 
 
 Jump

@@ -32,6 +32,9 @@ Primary
 Secondary
 	ARC:                            0.9375
 	BasePower:                      65 / 90 / 115 / 140
+	BonusDamage.Duration:           9
+	BonusDamage.Max:                0.6
+	BonusDamage.Multiplier:         0.15
 	Cooldown:                       5
 	Cost:                           -60 / -70 / -80 / -90
 Ultimate

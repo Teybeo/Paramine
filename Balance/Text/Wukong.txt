@@ -28,6 +28,7 @@ Alternate
 Primary
 	ARC:                            0
 	Air.Airwalk.Duration:           1
+	Air.Airwalk.Movespeed:          250
 	Air.Cooldown:                   11.2 / 9.6 / 8 / 6.4
 	BasePower:                      0
 	Cooldown:                       14 / 12 / 10 / 8
@@ -41,8 +42,8 @@ Secondary
 	ARC:                            0
 	Air.GravityModifier:            0.75
 	BasePower:                      0
-	Cooldown:                       4 / 3 / 2 / 1
-	Cost:                           -10
+	Cooldown:                       5
+	Cost:                           0
 	Gold.Bonus.Chance:              0.1 / 0.15 / 0.2 / 0.25
 	Gold.Bonus.Magnitude:           100
 	Stone.CleaveRating:             0.4
@@ -50,7 +51,7 @@ Ultimate
 	ARC:                            0
 	BasePower:                      0
 	Clone.Attack.Count:             1 / 2 / 3
-	Clone.Attack.DamagePercent:     0.2 / 0.4 / 0.6
+	Clone.Attack.DamagePercent:     0.2 / 0.3 / 0.4
 	Clone.Lifetime:                 5
 	Cooldown:                       0
 	Cost:                           0

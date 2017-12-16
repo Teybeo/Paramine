@@ -26,7 +26,7 @@ Alternate
 Primary
 	ARC:                            0.25
 	BasePower:                      30 / 45 / 60 / 75
-	Cooldown:                       21 / 18 / 15 / 12
+	Cooldown:                       12
 	Cost:                           -25
 	MovementSpeed:                  -125 / -175 / -225 / -275
 	Silence:                        1.25 / 1.5 / 1.75 / 2

@@ -104,12 +104,6 @@
     "Casttime.MoveWhileCast.Travel": [
         3.0
     ],
-    "Casttime.Recall": [
-        8.0
-    ],
-    "Casttime.RecallWithPrimeHelix": [
-        4.0
-    ],
     "Casttime.Sprint": [
         2.0
     ],
@@ -118,6 +112,21 @@
     ],
     "Coin.LifeSpan": [
         60.0
+    ],
+    "Core.AttackSpeedDebuffMultiplier": [
+        0.33000001311302185
+    ],
+    "CXPScalar.Astrolabe.5v5": [
+        1.75
+    ],
+    "CXPScalar.Default": [
+        1.0
+    ],
+    "CXPScalar.Solstice.5v5": [
+        1.75
+    ],
+    "CXPSplit.Astrolabe.5v5": [
+        0.6000000238418579
     ],
     "CXPSplit.Default": [
         0.6000000238418579,
@@ -151,6 +160,9 @@
         0.0,
         0.0
     ],
+    "CXPSplit.Solstice.5v5": [
+        0.6000000238418579
+    ],
     "Deck.MaxCardCount": [
         40.0
     ],
@@ -168,6 +180,12 @@
     ],
     "Fountain.Mana.PercentRegen": [
         0.07999999821186066
+    ],
+    "GameMode.Astrolabe.5v5.DeathTimerCap": [
+        90.0
+    ],
+    "GameMode.Astrolabe.5v5.RecallCastTime": [
+        8.0
     ],
     "GameMode.MOBA.1v1.HeroStartingCardLevel": [
         1.0
@@ -205,11 +223,23 @@
     "GameMode.MOBA.3v3.SpawnerDelay.Lane": [
         30.0
     ],
+    "GameMode.MOBA.5v5.DeathTimerCap": [
+        90.0
+    ],
     "GameMode.MOBA.5v5.HeroStartingCardLevel": [
         1.0
     ],
     "GameMode.MOBA.5v5.HeroStartingLevel": [
         1.0
+    ],
+    "GameMode.MOBA.5v5.RecallCastTime": [
+        8.0
+    ],
+    "GameMode.Solstice.5v5.DeathTimerCap": [
+        30.0
+    ],
+    "GameMode.Solstice.5v5.RecallCastTime": [
+        4.0
     ],
     "Inhibitor.AdditionalReviveTime": [
         180.0
@@ -389,7 +419,7 @@
         3.799999952316284
     ],
     "PrimeHelix.BuffTime": [
-        120.0,
+        150.0,
         0.0,
         0.0,
         0.0,
@@ -421,7 +451,7 @@
         0.0
     ],
     "PrimeHelix.LifeSpan": [
-        120.0,
+        150.0,
         0.0,
         0.0,
         0.0,
@@ -453,7 +483,7 @@
         0.0
     ],
     "PrimeHelix.MaxLifeSpan": [
-        120.0,
+        150.0,
         0.0,
         0.0,
         0.0,
@@ -530,7 +560,7 @@
         260.0
     ],
     "Range.Minion.Melee": [
-        300.0
+        200.0
     ],
     "Range.Minion.Ranged": [
         1000.0
@@ -546,38 +576,6 @@
     ],
     "Respawn.DeathPenaltyStartTime": [
         60.0
-    ],
-    "Respawn.DeathTimerCap": [
-        81.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.7000000476837158,
-        1.7999999523162842,
-        1.899999976158142,
-        2.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
     ],
     "Respawn.MinRespawnTimer": [
         3.0
@@ -999,12 +997,85 @@
     "XPAssistTime.VerySlow": [
         30.0
     ],
+    "XPScalar.Astrolabe.5v5": [
+        1.75
+    ],
+    "XPScalar.Default": [
+        1.0
+    ],
+    "XPScalar.Solstice.5v5": [
+        1.75
+    ],
+    "XPSplit.Astrolabe.5v5": [
+        1.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
     "XPSplit.Default": [
         1.0,
         0.5,
         0.3330000042915344,
         0.25,
         0.20000000298023224,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "XPSplit.Solstice.5v5": [
+        1.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
         0.0,
         0.0,
         0.0,
