@@ -37,11 +37,13 @@ Primary
 Secondary
 	ARC:                            1.67
 	BasePower:                      94 / 140 / 187 / 234
-	Cooldown:                       8
+	Cooldown:                       11 / 10 / 9 / 8
 	Cost:                           -80
-	Duration:                       2.5 / 3 / 3.5 / 4
-	Movespeed.Max:                  0.4
-	Movespeed.Stacks.Max:           10
+	Movespeed.Max.Duration:         4
+	Movespeed.Max.Magnitude:        0.28 / 0.32 / 0.36 / 0.4
+	Movespeed.Stack.Count:          10
+	Movespeed.Stack.Duration:       0.4
+	Movespeed.Stack.Magnitude:      0.028 / 0.032 / 0.036 / 0.04
 	Regen.Duration:                 4
 	Regen.Magnitude:                6 / 12 / 18 / 24
 	Regen.Stacks.Max:               5

@@ -8,8 +8,8 @@ LeftClickARC:                   1
 LeftClickBasePower:             63.2 - 104.2 (+ 2.15789 per lvl)
 
 EnergyRegenRate:                1.32 - 2.46 (+ 0.06 per lvl)
-Health:                         733 - 2216 (+ 78.0526 per lvl)
-HealthRegenRate:                1.22 - 3.69 (+ 0.13 per lvl)
+Health:                         717 - 2201 (+ 78.1053 per lvl)
+HealthRegenRate:                1.2 - 3.67 (+ 0.13 per lvl)
 MaxEnergy:                      276 - 618 (+ 18 per lvl)
 
 AbilityPenetrationRating:       0
@@ -30,7 +30,7 @@ Passive
 Primary
 	ARC:                            2.09
 	BasePower:                      146 / 205 / 263 / 322
-	Cooldown:                       10
+	Cooldown:                       14
 	Cost:                           -90 / -100 / -110 / -120
 	Stun.Duration:                  1.2 / 1.6 / 2 / 2.4
 Secondary

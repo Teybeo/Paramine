@@ -29,15 +29,15 @@ Primary
 	BasePower:                      140 / 240 / 339 / 439
 	Cooldown:                       6
 	Cost:                           -110 / -120 / -130 / -140
-	Range:                          1750
+	Range:                          1950
 Secondary
 	ARC:                            1.67
 	BasePower:                      94 / 140 / 187 / 234
 	Cooldown:                       11
 	Cost:                           -110
 Ultimate
-	ARC:                            5.22
-	BasePower:                      410 / 556 / 702
+	ARC:                            6.89
+	BasePower:                      445 / 638 / 831
 	Cooldown:                       100 / 85 / 70
 	Cost:                           -125 / -200 / -275
 	DamageDuration:                 2.8

@@ -24,7 +24,7 @@ Alternate
 	BasePower:                      105 / 152 / 199 / 246
 	Cooldown:                       10
 	Cost:                           -50 / -55 / -60 / -65
-	Duration:                       5
+	Duration:                       3
 Primary
 	ARC:                            1.67
 	BasePower:                      99 / 146 / 193 / 240
@@ -40,8 +40,8 @@ Secondary
 	LifeSteal:                      7.5 / 10 / 12.5 / 15
 	LifeSteal.Personal:             7.5 / 10 / 12.5 / 15
 Ultimate
-	ARC:                            3.34
-	BasePower:                      234 / 328 / 421
+	ARC:                            2.93
+	BasePower:                      205 / 287 / 369
 	Cooldown:                       80 / 65 / 50
 	Cost:                           -75
 	Duration:                       0.55

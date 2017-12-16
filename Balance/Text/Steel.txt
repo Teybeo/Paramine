@@ -27,8 +27,8 @@ Alternate
 	Shield:                         2 / 2.66666 / 3.33332 / 3.99998
 	Slow.Duration:                  1
 Primary
-	ARC:                            1.67
-	BasePower:                      111 / 158 / 205 / 252
+	ARC:                            1.46
+	BasePower:                      111 / 152 / 193 / 234
 	Cooldown:                       9 / 8 / 7 / 6
 	Cost:                           -70
 	Stun.Duration:                  0.6 / 0.8 / 1 / 1.2
@@ -39,7 +39,7 @@ Secondary
 	Cooldown:                       24 / 20 / 16 / 12
 	Cost:                           0
 	Range:                          750
-	RefreshDuration:                6 / 5 / 4 / 3
+	RefreshDuration:                8 / 7 / 6 / 5
 	Shield.Duration:                4 / 5 / 6 / 7
 	ShieldWall.Duration:            4
 	Slow:                           -0.25
