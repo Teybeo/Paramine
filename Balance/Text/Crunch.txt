@@ -7,13 +7,13 @@ CleaveRating:                   0.2
 LeftClickARC:                   1
 LeftClickBasePower:             60.8 - 109.5 (+ 2.56316 per lvl)
 
-EnergyRegenRate:                1.27 - 2.41 (+ 0.06 per lvl)
+EnergyRegenRate:                1.27 - 2.79 (+ 0.08 per lvl)
 Health:                         741 - 2289 (+ 81.4737 per lvl)
 HealthRegenRate:                1.23 - 3.82 (+ 0.136316 per lvl)
-MaxEnergy:                      262 - 604 (+ 18 per lvl)
+MaxEnergy:                      262 - 718 (+ 24 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        25
+AbilityResistanceRating:        30
 BasicPenetrationRating:         0
 BasicResistanceRating:          34.8 - 78.4 (+ 2.29474 per lvl)
 

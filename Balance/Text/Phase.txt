@@ -13,14 +13,14 @@ HealthRegenRate:                0.91 - 2.87 (+ 0.103158 per lvl)
 MaxEnergy:                      390 - 903 (+ 27 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        25
+AbilityResistanceRating:        30
 BasicPenetrationRating:         0
 BasicResistanceRating:          19.2 - 51.9 (+ 1.72105 per lvl)
 
 Alternate
 	ARC:                            0
 	BasePower:                      0
-	Cooldown:                       14
+	Cooldown:                       12
 	Cost:                           -100
 	HealthRegen.Duration:           4
 	HealthRegen.Magnitude:          16 / 24 / 32 / 40
@@ -55,10 +55,10 @@ Ultimate
 	ARC:                            0
 	AttackSpeed.Stack.Magnitude:    3 / 5.3 / 7.5
 	BasePower:                      0
-	Buff.AttackSpeed:               80
+	Buff.AttackSpeed:               70 / 85 / 100
 	Buff.CooldownReduction:         0.5
 	Buff.Duration:                  3
-	Buff.ManaRegen:                 15
+	Buff.ManaRegen:                 15 / 30 / 45
 	Buff.Stack.Max:                 16
 	Cooldown:                       130 / 115 / 100
 	Cost:                           -100 / -150 / -200

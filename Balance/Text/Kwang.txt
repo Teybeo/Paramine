@@ -1,19 +1,19 @@
 Kwang
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 142.8 (+ 2.25263 per lvl)
+AttackSpeedRating:              100 - 117.1 (+ 0.9 per lvl)
 BaseAttackTime:                 0.85
 CleaveRating:                   0.1
 LeftClickARC:                   1
 LeftClickBasePower:             59.4 - 132.5 (+ 3.84737 per lvl)
 
 EnergyRegenRate:                1.41 - 2.5 (+ 0.0573684 per lvl)
-Health:                         686 - 2168 (+ 78 per lvl)
-HealthRegenRate:                1.14 - 3.61 (+ 0.13 per lvl)
+Health:                         686 - 2094 (+ 74.1053 per lvl)
+HealthRegenRate:                1.14 - 3.49 (+ 0.123684 per lvl)
 MaxEnergy:                      304 - 631 (+ 17.2105 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        25
+AbilityResistanceRating:        30
 BasicPenetrationRating:         0
 BasicResistanceRating:          25.2 - 80.6 (+ 2.91579 per lvl)
 
@@ -22,7 +22,7 @@ Alternate
 	Armor.Energy:                   20 / 40 / 60 / 80
 	Armor.Physical:                 20 / 40 / 60 / 80
 	BasePower:                      88 / 135 / 181 / 228
-	Cooldown:                       8
+	Cooldown:                       10
 	Cost:                           -75 / -85 / -95 / -105
 	Duration:                       2.5
 Primary
@@ -31,6 +31,7 @@ Primary
 	Cooldown:                       12
 	Cost:                           -100
 	Duration:                       1.75 / 2.25 / 2.75 / 3.25
+	Range:                          1300
 Secondary
 	ARC:                            0
 	BasePower:                      0
@@ -41,7 +42,7 @@ Secondary
 Ultimate
 	ARC:                            3.13
 	BasePower:                      211 / 298 / 386
-	Cooldown:                       85 / 75 / 65
+	Cooldown:                       110 / 95 / 80
 	Cost:                           -100
 	Duration:                       0.55
 	Slow:                           -250

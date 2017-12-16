@@ -13,7 +13,7 @@ HealthRegenRate:                0.96 - 2.94 (+ 0.104211 per lvl)
 MaxEnergy:                      425 - 995 (+ 30 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        25
+AbilityResistanceRating:        30
 BasicPenetrationRating:         0
 BasicResistanceRating:          19.2 - 57.7 (+ 2.02632 per lvl)
 
@@ -24,15 +24,15 @@ Alternate
 	Cost:                           -60
 	Slow:                           -125 / -185 / -245 / -305
 Primary
-	ARC:                            1.25
-	BasePower:                      70 / 105 / 140 / 175
+	ARC:                            1.88
+	BasePower:                      88 / 140 / 193 / 246
 	Cooldown:                       10
 	Cost:                           -100 / -110 / -120 / -130
 	Stun:                           0.5 / 1 / 1.5 / 2
 	StunRadius:                     180
 Secondary
-	ARC:                            1.88
-	BasePower:                      88 / 140 / 193 / 246
+	ARC:                            2.09
+	BasePower:                      105 / 164 / 222 / 281
 	Cooldown:                       10
 	Cost:                           -110 / -120 / -130 / -140
 	Duration:                       3

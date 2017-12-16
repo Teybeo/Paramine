@@ -13,9 +13,9 @@ HealthRegenRate:                1.17 - 3.48 (+ 0.121579 per lvl)
 MaxEnergy:                      337 - 793 (+ 24 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        25
+AbilityResistanceRating:        30
 BasicPenetrationRating:         0
-BasicResistanceRating:          38.3 - 81 (+ 2.24737 per lvl)
+BasicResistanceRating:          33.1 - 68.8 (+ 1.87895 per lvl)
 
 Alternate
 	ARC:                            0
@@ -31,8 +31,8 @@ Primary
 	Cooldown:                       22 / 20 / 18 / 16
 	Cost:                           -75
 	Range:                          1500
-	Range.Duration:                 0.7 / 0.73 / 0.76 / 0.79
-	Range.Force:                    2071.43 / 2123.29 / 2171.05 / 2215.19
+	Range.Duration:                 0.61 / 0.64 / 0.67 / 0.7
+	Range.Force:                    1885.25 / 1953.12 / 2014.93 / 2071.43
 	StandingCastTime:               0.25
 	WallDuration:                   7
 Secondary
@@ -56,7 +56,7 @@ Ultimate
 	BasePower:                      187 / 246 / 304
 	BasePower.Chain.Hero:           75 / 98 / 122
 	BasePower.Chain.NonHero:        37 / 49 / 61
-	Cooldown:                       130 / 110 / 90
+	Cooldown:                       140 / 125 / 110
 	Cost:                           -100 / -150 / -200
 	ExplosionRadius:                600
 	IceDuration:                    2
@@ -69,7 +69,7 @@ Ultimate
 	Radius.Initial:                 700
 	Slow:                           -250
 	Slow.Duration.Initial:          1.5
-	Slow.Initial:                   -250
+	Slow.Initial:                   -150
 	Stun.Duration.Chain:            0.5
 	Stun.Duration.Initial:          1
 

@@ -13,7 +13,7 @@ HealthRegenRate:                0.96 - 2.94 (+ 0.104211 per lvl)
 MaxEnergy:                      390 - 960 (+ 30 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        25
+AbilityResistanceRating:        30
 BasicPenetrationRating:         0
 BasicResistanceRating:          19.6 - 58.8 (+ 2.06316 per lvl)
 
@@ -34,7 +34,7 @@ Primary
 	Charge.Count:                   3
 	Charge.Refresh:                 7
 	Cooldown:                       2
-	Cost:                           -60 / -65 / -70 / -75
+	Cost:                           -50 / -54 / -58 / -62
 	Range:                          1500
 Secondary
 	ARC:                            0.84
@@ -71,7 +71,7 @@ CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
 MaxLevel:                       20
-MaxMoveSpeed:                   695
+MaxMoveSpeed:                   710
 VisionRadius:                   5000
 XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
 XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)

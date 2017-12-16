@@ -5,15 +5,15 @@ AttackSpeedRating:              100 - 134.2 (+ 1.8 per lvl)
 BaseAttackTime:                 0.8
 CleaveRating:                   0
 LeftClickARC:                   1
-LeftClickBasePower:             58.3 - 143.8 (+ 4.5 per lvl)
+LeftClickBasePower:             58.3 - 153.8 (+ 5.02632 per lvl)
 
 EnergyRegenRate:                1.15 - 1.91 (+ 0.04 per lvl)
-Health:                         592 - 1748 (+ 60.8421 per lvl)
-HealthRegenRate:                0.99 - 2.91 (+ 0.101053 per lvl)
+Health:                         633 - 1928 (+ 68.1579 per lvl)
+HealthRegenRate:                1.06 - 3.21 (+ 0.113158 per lvl)
 MaxEnergy:                      224 - 452 (+ 12 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        25
+AbilityResistanceRating:        30
 BasicPenetrationRating:         0
 BasicResistanceRating:          17.3 - 59.3 (+ 2.21053 per lvl)
 
