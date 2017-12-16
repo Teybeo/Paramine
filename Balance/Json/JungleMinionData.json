@@ -39,16 +39,16 @@
         0.0
     ],
     "Buff.Green.Magnitude.Shield.Base": [
-        200.0
+        180.0
     ],
     "Buff.Green.Magnitude.Shield.LevelDelta": [
-        25.0
+        20.0
     ],
     "Buff.Green.Magnitude.ShieldDecay.Base": [
-        3.3333332538604736
+        3.0
     ],
     "Buff.Green.Magnitude.ShieldDecay.LevelDelta": [
-        0.4166666567325592
+        0.3333333432674408
     ],
     "Buff.Mid.Duration": [
         30.0
@@ -57,7 +57,7 @@
         40.0
     ],
     "Buff.Mid.Duration.EnergyRegen": [
-        5.0
+        12.0
     ],
     "Buff.Mid.Duration.Invisibility": [
         40.0
@@ -69,13 +69,13 @@
         30.0
     ],
     "Buff.Mid.Magnitude.AbilityDamage": [
-        1.25
+        1.100000023841858
     ],
     "Buff.Mid.Magnitude.CooldownReduction": [
         0.4000000059604645
     ],
     "Buff.Mid.Magnitude.DoT": [
-        1.0
+        0.6000000238418579
     ],
     "Buff.Mid.Magnitude.DoTDuration": [
         1.2999999523162842
@@ -84,7 +84,7 @@
         0.4000000059604645
     ],
     "Buff.Mid.Magnitude.EnergyRegen": [
-        35.0
+        15.0
     ],
     "Buff.Mid.Magnitude.HealthRegen": [
         10.0
@@ -129,15 +129,15 @@
         120.0
     ],
     "SpawnTime.Sov.HighYield": [
-        600.0
+        420.0
     ],
     "SpawnTime.Sov.Mid": [
         180.0
     ],
     "SpawnTime.Sov.OrbPrime": [
-        900.0
+        600.0
     ],
     "SpawnTime.Sov.White": [
-        80.0
+        60.0
     ]
 }

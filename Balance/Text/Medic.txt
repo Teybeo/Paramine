@@ -1,43 +1,42 @@
 Medic
 
 AttackRating:                   0
-AttackSpeedRating:              100
-BaseAttackTime:                 1.2
+AttackSpeedRating:              100 - 120.9 (+ 1.1 per lvl)
+BaseAttackTime:                 0.9
 CleaveRating:                   0
-LeftClickARC:                   0.3
-LeftClickBasePower:             53 - 83.4 (+ 1.6 per lvl)
+LeftClickARC:                   1
+LeftClickBasePower:             52.92 - 76.176 (+ 1.224 per lvl)
 
-EnergyRegenRate:                1.3 - 6.43 (+ 0.27 per lvl)
-Health:                         500 - 1780.6 (+ 67.4 per lvl)
-HealthRegenRate:                1.25 - 5.05 (+ 0.2 per lvl)
-MaxEnergy:                      240 - 1247 (+ 53 per lvl)
+EnergyRegenRate:                1.075 - 2.69 (+ 0.085 per lvl)
+Health:                         566.048 - 1455.25 (+ 46.8 per lvl)
+HealthRegenRate:                0.962667 - 2.93867 (+ 0.104 per lvl)
+MaxEnergy:                      292.5 - 777 (+ 25.5 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          8 - 27 (+ 1 per lvl)
+BasicResistanceRating:          19.2 - 42.285 (+ 1.215 per lvl)
 
 Alternate
-	ARC:                            0.4
-	ARC.PerTick:                    0.025
-	ARC.Total:                      0.2
-	BasePower:                      25 / 40 / 55 / 70
-	Cooldown:                       10
+	ARC:                            1.04464
+	ARC.PerTick:                    0.261161
+	ARC.Total:                      2.08929
+	BasePower:                      58.5 / 87.75 / 117 / 146.25
+	Cooldown:                       7
 	Cost:                           -80 / -100 / -120 / -140
-	Damage.PerTick:                 6.25 / 10.625 / 15 / 19.375
-	Damage.Total:                   50 / 85 / 120 / 155
+	Damage.PerTick:                 14.625 / 21.9375 / 29.25 / 36.5625
+	Damage.Total:                   117 / 175.5 / 234 / 292.5
 	Duration:                       4
-	Heal.Magnitude:                 0
 	Radius:                         400
 	Range:                          1300
 	TickRate:                       0.5
 Primary
-	ARC:                            0.2
-	ARC.PerTick:                    0.0333333
-	BasePower:                      60 / 80 / 100 / 120
+	ARC:                            0.208929
+	ARC.PerTick:                    0.119048
+	BasePower:                      40.95 / 64.35 / 87.75 / 111.15
 	Cooldown:                       1
-	Cost:                           -60 / -80 / -100 / -120
-	Damage.PerTick:                 10 / 13.3333 / 16.6667 / 20
+	Cost:                           -60 / -70 / -80 / -90
+	Damage.PerTick:                 6.825 / 10.1583 / 13.4917 / 16.825
 	Duration:                       3
 	TickRate:                       0.5
 Secondary
@@ -45,15 +44,16 @@ Secondary
 	BasePower:                      0
 	Cooldown:                       14
 	Cost:                           -80 / -100 / -120 / -140
-	Duration:                       0.75 / 1 / 1.25 / 1.5
+	Duration:                       1 / 1.25 / 1.5 / 1.75
+	Target.Count:                   3 / 5 / 7 / 9
 Ultimate
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       1
 	Cost:                           0
-	Health.Reduction:               0
+	Health.Reduction:               1
 	ManaMult:                       1 / 0.8 / 0.6
-	ManaRegen.MissingManaMult:      0.02 / 0.04 / 0.06
+	ManaRegen.MissingManaMult:      0.03 / 0.04 / 0.05
 	MaxMana.Bonus:                  0
 
 
@@ -68,15 +68,15 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      675
+CXPBounty:                      455
 CXPSpawnTime:                   1.5
-CriticalDamageBonus:            1.5
+CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
-MaxLevel:                       15
-MaxMoveSpeed:                   720
+MaxLevel:                       20
+MaxMoveSpeed:                   695
 VisionRadius:                   5000
-XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
-XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

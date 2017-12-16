@@ -1,0 +1,21 @@
+StaticTrapPlaced
+
+
+Health:                         0
+HealthRegenRate:                0
+
+
+
+
+other
+	Reward.NumberOfCoins:           0
+
+CXPBounty:                      0
+CXPSpawnTime:                   0
+CriticallyWoundedThresholdPCT:  0
+GainXPFromKills:                0
+MaxLevel:                       0
+VisionRadius:                   0
+XPBounty:                       0
+XPToLevel:                      0
+

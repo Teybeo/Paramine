@@ -1,47 +1,47 @@
 TwinBlast
 
 AttackRating:                   0
-AttackSpeedRating:              100
-BaseAttackTime:                 1
+AttackSpeedRating:              100 - 151.3 (+ 2.7 per lvl)
+BaseAttackTime:                 0.8
 CleaveRating:                   0
-LeftClickARC:                   0.8
-LeftClickBasePower:             50 - 74.7 (+ 1.3 per lvl)
+LeftClickARC:                   1
+LeftClickBasePower:             52.38 - 117.217 (+ 3.4125 per lvl)
 
-EnergyRegenRate:                0.8 - 3.08 (+ 0.12 per lvl)
-Health:                         475 - 1691.57 (+ 64.03 per lvl)
-HealthRegenRate:                1.25 - 5.05 (+ 0.2 per lvl)
-MaxEnergy:                      225 - 1137 (+ 48 per lvl)
+EnergyRegenRate:                1.28 - 2.04 (+ 0.04 per lvl)
+Health:                         574.279 - 1684 (+ 58.4064 per lvl)
+HealthRegenRate:                0.957131 - 2.80667 (+ 0.097344 per lvl)
+MaxEnergy:                      264 - 492 (+ 12 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          18 - 56 (+ 2 per lvl)
+BasicResistanceRating:          17.28 - 61.4493 (+ 2.3247 per lvl)
 
 Alternate
 	ARC:                            0
 	BasePower:                      0
-	Cooldown:                       18 / 16 / 14 / 12
-	Cost:                           -85 / -90 / -95 / -100
+	Cooldown:                       4
+	Cost:                           -40 / -30 / -20 / -10
 Primary
 	ARC:                            0
 	BasePower:                      0
-	Cooldown:                       7
-	Cost:                           -45
+	Cooldown:                       4
+	Cost:                           -40
 	TripleShotHeroMultiplier:       0.3 / 0.35 / 0.4 / 0.45
 	TripleShotMinionMultiplier:     0.45
 Secondary
-	ARC:                            0.6
-	BasePower:                      50 / 80 / 110 / 140
-	Cooldown:                       14 / 12 / 10 / 8
-	Cost:                           -35 / -40 / -45 / -50
+	ARC:                            0.835714
+	BasePower:                      46.8 / 70.2 / 93.6 / 117
+	Cooldown:                       10
+	Cost:                           -30 / -32 / -34 / -36
 Ultimate
-	ARC:                            3
-	BasePower:                      300 / 480 / 660
+	ARC:                            6.42857
+	BasePower:                      351 / 561.6 / 772.2
 	Cooldown:                       90 / 70 / 50
 	Cost:                           -75
 	Duration:                       3
 	MovementSpeed:                  -75
-	ShotARC:                        0.1
+	ShotARC:                        0.214286
 	ShotCount:                      30
 	ShotDamage:                     10 / 16 / 22
 
@@ -57,15 +57,15 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      675
+CXPBounty:                      455
 CXPSpawnTime:                   1.5
-CriticalDamageBonus:            1.5
+CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
-MaxLevel:                       15
-MaxMoveSpeed:                   720
+MaxLevel:                       20
+MaxMoveSpeed:                   705
 VisionRadius:                   5000
-XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
-XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

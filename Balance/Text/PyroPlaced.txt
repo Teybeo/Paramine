@@ -1,7 +1,7 @@
 PyroPlaced
 
 
-Health:                         200 - 2575 (+ 125 per lvl)
+Health:                         220 - 3260 (+ 160 per lvl)
 HealthRegenRate:                0
 
 
@@ -10,12 +10,12 @@ HealthRegenRate:                0
 other
 	Reward.NumberOfCoins:           1
 
-CXPBounty:                      60
+CXPBounty:                      34
 CXPSpawnTime:                   0.25
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0
 MaxLevel:                       0
-VisionRadius:                   0
+VisionRadius:                   1500
 XPBounty:                       0
 XPToLevel:                      0
 

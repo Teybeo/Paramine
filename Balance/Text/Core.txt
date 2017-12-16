@@ -1,14 +1,14 @@
 Core
 
-AttackRating:                   110
+AttackRating:                   146.63
 AttackSpeedRating:              300
 BaseAttackTime:                 1
 
-Health:                         4000
+Health:                         5700
 HealthRegenRate:                0
 
 AbilityResistanceRating:        1000
-BasicResistanceRating:          80
+BasicResistanceRating:          125
 
 
 

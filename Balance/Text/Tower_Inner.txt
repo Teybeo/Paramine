@@ -1,22 +1,22 @@
 Tower_Inner
 
-AttackRating:                   200
+AttackRating:                   260
 AttackSpeedRating:              100
 BaseAttackTime:                 1
 
-Health:                         3200
+Health:                         2500
 HealthRegenRate:                0
 
 AbilityResistanceRating:        1000
-BasicResistanceRating:          45
+BasicResistanceRating:          50
 
 
 
 other
 	Reward.NumberOfCoins:           65
-	Reward.TeamCardPoints:          430
+	Reward.TeamCardPoints:          292.4
 
-CXPBounty:                      300
+CXPBounty:                      204
 CXPSpawnTime:                   1.5
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0

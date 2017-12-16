@@ -1,35 +1,35 @@
 Femme
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 153.2 (+ 2.8 per lvl)
-BaseAttackTime:                 1.2
+AttackSpeedRating:              100 - 142.75 (+ 2.25 per lvl)
+BaseAttackTime:                 0.8
 CleaveRating:                   0
-LeftClickARC:                   0.92
-LeftClickBasePower:             55 - 85.4 (+ 1.6 per lvl)
+LeftClickARC:                   1
+LeftClickBasePower:             54 - 118.125 (+ 3.375 per lvl)
 
-EnergyRegenRate:                0.8 - 3.08 (+ 0.12 per lvl)
-Health:                         513 - 1790.4 (+ 67.2315 per lvl)
-HealthRegenRate:                1.25 - 5.05 (+ 0.2 per lvl)
-MaxEnergy:                      225 - 1137 (+ 48 per lvl)
+EnergyRegenRate:                1.2096 - 1.8936 (+ 0.036 per lvl)
+Health:                         615.722 - 1841.04 (+ 64.4904 per lvl)
+HealthRegenRate:                1.0262 - 3.0684 (+ 0.107484 per lvl)
+MaxEnergy:                      242.88 - 448.08 (+ 10.8 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          18 - 61.7 (+ 2.3 per lvl)
+BasicResistanceRating:          17.28 - 50.9328 (+ 1.7712 per lvl)
 
 Alternate
 	ARC:                            0
 	AttackSpeedSlow:                -20 / -30 / -40 / -50
 	AttackSpeedSlowDuration:        3
 	BasePower:                      0
-	Cooldown:                       16 / 12 / 8 / 4
-	Cost:                           -60 / -65 / -70 / -75
+	Cooldown:                       10 / 8 / 6 / 4
+	Cost:                           -25
 	Range:                          500
 Primary
-	ARC:                            0.5
-	BasePower:                      80 / 130 / 180 / 230
+	ARC:                            1.04464
+	BasePower:                      87.75 / 117 / 146.25 / 175.5
 	Cooldown:                       10
-	Cost:                           -55
+	Cost:                           -75
 	LMBRange.Basic.Primary:         600
 	Range:                          750
 	StandingCastTime:               0.6
@@ -47,12 +47,12 @@ Secondary
 Ultimate
 	ARC:                            0
 	BasePower:                      0
-	BubbleDuration:                 5 / 5.5 / 6
+	BubbleDuration:                 4 / 4.5 / 5
 	BubbleRadius:                   500
 	Cooldown:                       90 / 65 / 40
 	Cost:                           -75
 	ProjectileSpeedMultiplier:      0.04
-	Slow:                           -250 / -300 / -350
+	Slow:                           -125
 
 
 Jump
@@ -66,15 +66,15 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      675
+CXPBounty:                      455
 CXPSpawnTime:                   1.5
-CriticalDamageBonus:            1.5
+CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
-MaxLevel:                       15
-MaxMoveSpeed:                   720
+MaxLevel:                       20
+MaxMoveSpeed:                   690
 VisionRadius:                   5000
-XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
-XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

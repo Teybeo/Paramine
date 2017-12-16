@@ -10,7 +10,7 @@ HealthRegenRate:                0
 other
 	Reward.NumberOfCoins:           1
 
-CXPBounty:                      80
+CXPBounty:                      54.4
 CXPSpawnTime:                   0.15
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0

@@ -1,49 +1,49 @@
 Kurohane
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 126.6 (+ 1.4 per lvl)
-BaseAttackTime:                 1
+AttackSpeedRating:              100 - 151.3 (+ 2.7 per lvl)
+BaseAttackTime:                 0.8
 CleaveRating:                   0.05
-LeftClickARC:                   0.6
-LeftClickBasePower:             52 - 71 (+ 1 per lvl)
+LeftClickARC:                   1
+LeftClickBasePower:             59.4 - 136.35 (+ 4.05 per lvl)
 
-EnergyRegenRate:                0.7 - 2.41 (+ 0.09 per lvl)
-Health:                         450 - 1603.3 (+ 60.7 per lvl)
-HealthRegenRate:                2 - 7.7 (+ 0.3 per lvl)
-MaxEnergy:                      200 - 884 (+ 36 per lvl)
+EnergyRegenRate:                1.228 - 2.178 (+ 0.05 per lvl)
+Health:                         548.72 - 1734.32 (+ 62.4 per lvl)
+HealthRegenRate:                0.914533 - 2.89053 (+ 0.104 per lvl)
+MaxEnergy:                      248.4 - 533.4 (+ 15 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          14 - 37.75 (+ 1.25 per lvl)
+BasicResistanceRating:          25.2 - 86.76 (+ 3.24 per lvl)
 
 Alternate
-	ARC:                            0.6
-	BasePower:                      75 / 115 / 155 / 195
-	Cooldown:                       6
-	Cost:                           -35 / -40 / -45 / -50
-	MovementSpeed:                  -400 / -460 / -520 / -580
+	ARC:                            2.08929
+	BasePower:                      128.7 / 187.2 / 245.7 / 304.2
+	Cooldown:                       4
+	Cost:                           -50 / -60 / -70 / -80
+	MovementSpeed:                  -275
 Passive
-	MovementSpeed:                  45
+	MovementSpeed:                  70
 Primary
 	ARC:                            0
 	BasePower:                      0
 	CheatDeath.FadeTime:            0.25
 	CheatDeath.Threshold:           0.35
-	Cooldown:                       15
+	Cooldown:                       8
 	Cost:                           -50
 	Duration:                       8 / 13 / 18 / 23
 	FadeTime:                       1.75
-	StealthAttackMultiplier:        2.5
+	StealthAttackMultiplier:        0.5 / 0.75 / 1 / 1.25
 Secondary
 	ARC:                            0
 	BasePower:                      0
-	Cooldown:                       14 / 12 / 10 / 8
+	Cooldown:                       12 / 10 / 8 / 6
 	Cost:                           0
 	HealthRegen.Magnitude:          6 / 8 / 10 / 12
 Ultimate
-	ARC:                            0.4
-	BasePower:                      150 / 225 / 300
+	ARC:                            2.08929
+	BasePower:                      146.25 / 204.75 / 263.25
 	Cooldown:                       110 / 100 / 90
 	Cost:                           -100
 	Duration:                       5 / 6 / 7
@@ -62,15 +62,15 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      675
+CXPBounty:                      455
 CXPSpawnTime:                   1.5
-CriticalDamageBonus:            1.5
+CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
-MaxLevel:                       15
-MaxMoveSpeed:                   720
+MaxLevel:                       20
+MaxMoveSpeed:                   680
 VisionRadius:                   5000
-XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
-XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

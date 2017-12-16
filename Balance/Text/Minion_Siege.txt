@@ -9,7 +9,7 @@ Health:                         620 - 694.2 (+ 3.90526 per lvl)
 HealthRegenRate:                0
 MaxEnergy:                      0
 
-AbilityResistanceRating:        0
+AbilityResistanceRating:        42 - 70 (+ 1.47368 per lvl)
 BasicResistanceRating:          0
 
 Alternate
@@ -28,27 +28,27 @@ Utility
 	Cooldown:                       0
 other
 	Aggro.AcquisitionRange:         1100
-	BasePower.CoreBonusDamage:      1.5
-	BasePower.CoreResist:           0
-	BasePower.HeroBonusDamage:      0.5
+	BasePower.CoreBonusDamage:      1.25
+	BasePower.CoreResist:           0.23
+	BasePower.HeroBonusDamage:      0.75
 	BasePower.HeroResist:           0
-	BasePower.InhibBonusDamage:     1.5
-	BasePower.InhibResist:          0
+	BasePower.InhibBonusDamage:     1.25
+	BasePower.InhibResist:          0.23
 	BasePower.MinionBonusDamage:    0.5
 	BasePower.MinionResist:         0
-	BasePower.TowerBonusDamage:     1.5
-	BasePower.TowerResist:          0
+	BasePower.TowerBonusDamage:     1.25
+	BasePower.TowerResist:          0.23
 	EngagementDistance.Heroes:      1500
 	EngagementDistance.Minions:     1500
 	EngagementDistance.Objectives:  1500
 	Reward.NumberOfCoins:           3
 
-CXPBounty:                      170
+CXPBounty:                      115.6
 CXPSpawnTime:                   0.6
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0
 MaxLevel:                       15
-MaxMoveSpeed:                   780
+MaxMoveSpeed:                   700
 VisionRadius:                   2000
 XPBounty:                       24
 XPToLevel:                      1

@@ -1,16 +1,16 @@
 Minion_Super
 
-AttackRating:                   70
+AttackRating:                   56
 AttackSpeedRating:              100
 BaseAttackTime:                 0.75
 
 EnergyRegenRate:                0
-Health:                         1500
+Health:                         1200
 HealthRegenRate:                0
 MaxEnergy:                      0
 
-AbilityResistanceRating:        0
-BasicResistanceRating:          0
+AbilityResistanceRating:        75
+BasicResistanceRating:          16
 
 Alternate
 	Cooldown:                       0
@@ -29,27 +29,27 @@ Utility
 other
 	Aggro.AcquisitionRange:         1100
 	BasePower.CoreBonusDamage:      1.25
-	BasePower.CoreResist:           0
+	BasePower.CoreResist:           0.23
 	BasePower.HeroBonusDamage:      1
 	BasePower.HeroResist:           0
 	BasePower.InhibBonusDamage:     1.25
-	BasePower.InhibResist:          0
-	BasePower.MinionBonusDamage:    1.25
+	BasePower.InhibResist:          0.23
+	BasePower.MinionBonusDamage:    2.5
 	BasePower.MinionResist:         0
 	BasePower.TowerBonusDamage:     1.25
-	BasePower.TowerResist:          0
+	BasePower.TowerResist:          0.23
 	EngagementDistance.Heroes:      1500
 	EngagementDistance.Minions:     1500
 	EngagementDistance.Objectives:  1500
 	Reward.NumberOfCoins:           1
 
-CXPBounty:                      140
+CXPBounty:                      0
 CXPSpawnTime:                   0.5
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0
 MaxLevel:                       15
-MaxMoveSpeed:                   780
+MaxMoveSpeed:                   700
 VisionRadius:                   2000
-XPBounty:                       12
+XPBounty:                       0
 XPToLevel:                      1
 

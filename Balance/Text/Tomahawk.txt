@@ -1,28 +1,28 @@
 Tomahawk
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 111.438 (+ 0.602 per lvl)
-BaseAttackTime:                 1.2
-CleaveRating:                   0.2
-LeftClickARC:                   0.65
-LeftClickBasePower:             58 - 77 (+ 1 per lvl)
+AttackSpeedRating:              100 - 125.65 (+ 1.35 per lvl)
+BaseAttackTime:                 0.85
+CleaveRating:                   0.1
+LeftClickARC:                   1
+LeftClickBasePower:             59.4 - 128.655 (+ 3.645 per lvl)
 
-EnergyRegenRate:                0.7 - 2.41 (+ 0.09 per lvl)
-Health:                         585 - 2086 (+ 79 per lvl)
-HealthRegenRate:                2 - 7.7 (+ 0.3 per lvl)
-MaxEnergy:                      200 - 884 (+ 36 per lvl)
+EnergyRegenRate:                1.228 - 1.988 (+ 0.04 per lvl)
+Health:                         644.746 - 2008.19 (+ 71.76 per lvl)
+HealthRegenRate:                1.07458 - 3.34698 (+ 0.1196 per lvl)
+MaxEnergy:                      248.4 - 476.4 (+ 12 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          14 - 37.75 (+ 1.25 per lvl)
+BasicResistanceRating:          27.72 - 89.28 (+ 3.24 per lvl)
 
 Alternate
-	ARC:                            0.25
-	BasePower:                      55 / 70 / 85 / 100
+	ARC:                            1.25357
+	BasePower:                      70.2 / 105.3 / 140.4 / 175.5
 	Cooldown:                       5
-	Cost:                           -80 / -65 / -50 / -35
-	Slow:                           -550
+	Cost:                           -65
+	Slow:                           -200 / -250 / -300 / -350
 	SlowDuration:                   1
 	Stacks.Count:                   3
 	Stun:                           0.25
@@ -31,21 +31,23 @@ Primary
 	Attacks:                        5
 	BasePower:                      0
 	BuffDuration:                   3
-	Cooldown:                       10
-	Cost:                           -60 / -65 / -70 / -75
-	DamageMultiplier:               0.6 / 0.675 / 0.75 / 0.825
+	Cooldown:                       7
+	Cost:                           -65
+	DamageMultiplier:               0.55 / 0.625 / 0.7 / 0.775
 Secondary
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       1
 	Cost:                           0
-	HealthRegeneration:             1 / 1.75 / 2.5 / 3.25
-	StacksDuration:                 2.2
+	HealthRegeneration:             0.9 / 1.8 / 2.7 / 3.6
+	StacksDuration:                 2
 Ultimate
-	ARC:                            0.8
-	BasePower:                      250 / 350 / 450
+	ARC:                            3.13393
+	BasePower:                      263.25 / 351 / 438.75
 	Cooldown:                       90 / 70 / 50
-	Cost:                           -75
+	Cost:                           -75 / -100 / -125
+	Slow.Duration:                  1
+	Slow.Magnitude:                 -100
 	Stacks.Count:                   6
 
 
@@ -60,15 +62,15 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      675
+CXPBounty:                      455
 CXPSpawnTime:                   1.5
-CriticalDamageBonus:            1.5
+CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
-MaxLevel:                       15
-MaxMoveSpeed:                   720
+MaxLevel:                       20
+MaxMoveSpeed:                   700
 VisionRadius:                   5000
-XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
-XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

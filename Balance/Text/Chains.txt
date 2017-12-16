@@ -1,47 +1,47 @@
 Chains
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 126.6 (+ 1.4 per lvl)
-BaseAttackTime:                 1.35
+AttackSpeedRating:              100
+BaseAttackTime:                 0.9
 CleaveRating:                   0.2
-LeftClickARC:                   0.5495
-LeftClickBasePower:             64.5 - 93 (+ 1.5 per lvl)
+LeftClickARC:                   1
+LeftClickBasePower:             67.5 - 121.65 (+ 2.85 per lvl)
 
-EnergyRegenRate:                0.7 - 2.41 (+ 0.09 per lvl)
-Health:                         585 - 2086 (+ 79 per lvl)
-HealthRegenRate:                2 - 7.7 (+ 0.3 per lvl)
-MaxEnergy:                      200 - 1055 (+ 45 per lvl)
+EnergyRegenRate:                1.4764 - 2.9964 (+ 0.08 per lvl)
+Health:                         818.748 - 2530.46 (+ 90.09 per lvl)
+HealthRegenRate:                1.2996 - 4.0166 (+ 0.143 per lvl)
+MaxEnergy:                      322.92 - 778.92 (+ 24 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          14 - 37.75 (+ 1.25 per lvl)
+BasicResistanceRating:          34.8 - 78.405 (+ 2.295 per lvl)
 
 Alternate
-	ARC:                            0.75
-	BasePower:                      75 / 125 / 175 / 225
+	ARC:                            1.67143
+	BasePower:                      93.6 / 140.4 / 187.2 / 234
 	Cooldown:                       14
 	Cost:                           -110
 	Range:                          1525
 Primary
-	ARC:                            0.25
-	BasePower:                      30 / 45 / 60 / 75
-	Cooldown:                       12
-	Cost:                           -25
-	MovementSpeed:                  -125 / -175 / -225 / -275
-	Silence:                        1.25 / 1.5 / 1.75 / 2
-	Slow:                           1.25 / 1.5 / 1.75 / 2
+	ARC:                            1.25357
+	BasePower:                      70.2 / 105.3 / 140.4 / 175.5
+	Cooldown:                       4
+	Cost:                           -40
+	MovementSpeed:                  -75 / -100 / -125 / -150
+	Silence:                        1.5
+	Slow:                           1.5
 Secondary
-	ARC:                            0.75
-	BasePower:                      100 / 160 / 220 / 280
-	Cooldown:                       12
-	Cost:                           -55
+	ARC:                            3.13393
+	BasePower:                      128.7 / 216.45 / 304.2 / 391.95
+	Cooldown:                       9 / 8 / 7 / 6
+	Cost:                           -80 / -90 / -100 / -110
 	Duration:                       5
 Ultimate
-	ARC:                            0.75
-	BasePower:                      200 / 280 / 360
+	ARC:                            3.13393
+	BasePower:                      210.6 / 298.35 / 386.1
 	Cooldown:                       105 / 90 / 75
-	Cost:                           -75
+	Cost:                           -75 / -100 / -125
 	Stun:                           1.5
 
 
@@ -56,15 +56,15 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      675
+CXPBounty:                      455
 CXPSpawnTime:                   1.5
-CriticalDamageBonus:            1.5
+CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
-MaxLevel:                       15
-MaxMoveSpeed:                   720
+MaxLevel:                       20
+MaxMoveSpeed:                   690
 VisionRadius:                   5000
-XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
-XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

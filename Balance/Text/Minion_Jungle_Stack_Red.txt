@@ -47,7 +47,7 @@ CXPSpawnTime:                   0.3 - 3.8 (+ 0.184211 per lvl)
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0
 MaxLevel:                       3
-MaxMoveSpeed:                   3900
+MaxMoveSpeed:                   3500
 VisionRadius:                   2000
 XPBounty:                       40 - 460 (+ 22.1053 per lvl)
 XPToLevel:                      1

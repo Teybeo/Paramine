@@ -1,0 +1,64 @@
+Boris
+
+AttackRating:                   0
+AttackSpeedRating:              100
+BaseAttackTime:                 0.85
+CleaveRating:                   0.2
+LeftClickARC:                   1
+LeftClickBasePower:             67.5 - 121.65 (+ 2.85 per lvl)
+
+EnergyRegenRate:                1.32 - 2.27 (+ 0.05 per lvl)
+Health:                         779.76 - 2409.96 (+ 85.8 per lvl)
+HealthRegenRate:                1.2996 - 4.0166 (+ 0.143 per lvl)
+MaxEnergy:                      276 - 561 (+ 15 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        25
+BasicPenetrationRating:         0
+BasicResistanceRating:          34.8 - 78.405 (+ 2.295 per lvl)
+
+Alternate
+	ARC:                            1.67143
+	BasePower:                      93.6 / 140.4 / 187.2 / 234
+	Cooldown:                       8
+	Cost:                           -40
+Primary
+	ARC:                            1.25357
+	BasePower:                      70.2 / 105.3 / 140.4 / 175.5
+	Cooldown:                       5
+	Cost:                           -55 / -60 / -65 / -70
+Secondary
+	ARC:                            1.67143
+	BasePower:                      93.6 / 140.4 / 187.2 / 234
+	Cooldown:                       10
+	Cost:                           -100
+Ultimate
+	ARC:                            0.883929
+	BasePower:                      59.4 / 84.15 / 108.9
+	Cooldown:                       105 / 90 / 75
+	Cost:                           -75 / -100 / -125
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      455
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       20
+MaxMoveSpeed:                   710
+VisionRadius:                   5000
+XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
+

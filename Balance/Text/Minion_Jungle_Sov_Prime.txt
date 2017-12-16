@@ -5,7 +5,7 @@ AttackSpeedRating:              100
 BaseAttackTime:                 0.8
 
 EnergyRegenRate:                0
-Health:                         8000 - 12900 (+ 257.895 per lvl)
+Health:                         9200 - 14835 (+ 296.579 per lvl)
 HealthRegenRate:                600
 MaxEnergy:                      0
 
@@ -42,14 +42,14 @@ other
 	EngagementDistance.Minions:     1500
 	EngagementDistance.Objectives:  1500
 	Reward.NumberOfCoins:           0
-	Reward.TeamCardPoints:          1200
+	Reward.TeamCardPoints:          816
 
 CXPBounty:                      0
 CXPSpawnTime:                   0.3
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0
 MaxLevel:                       5
-MaxMoveSpeed:                   3900
+MaxMoveSpeed:                   3500
 VisionRadius:                   2000
 XPBounty:                       600
 XPToLevel:                      1

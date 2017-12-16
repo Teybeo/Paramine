@@ -1,4 +1,48 @@
 {
+    "AttackTime.Max": [
+        3.0
+    ],
+    "AttackTime.Min": [
+        0.25
+    ],
+    "CardCollectionValue.Default": [
+        10.0,
+        50.0,
+        100.0,
+        250.0,
+        500.0,
+        750.0,
+        1250.0,
+        2500.0,
+        5000.0,
+        10000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "CardGoldCost.Default": [
+        500.0
+    ],
+    "CardPipCost.Default": [
+        0.0
+    ],
     "CardPoints": [
         3.0,
         6.0,
@@ -116,6 +160,76 @@
     "Core.AttackSpeedDebuffMultiplier": [
         0.33000001311302185
     ],
+    "CXPAssistBountyBonus.Default": [
+        0.009999999776482582
+    ],
+    "CXPBountyBonus.Default": [
+        0.009999999776482582
+    ],
+    "CXPDeathstreakBonus.Default": [
+        0.0,
+        -68.0,
+        -85.0,
+        -85.0,
+        -102.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "CXPKillstreakBonus.Default": [
+        0.0,
+        0.0,
+        122.0,
+        122.0,
+        122.0,
+        122.0,
+        122.0,
+        122.0,
+        122.0,
+        122.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
     "CXPScalar.Astrolabe.5v5": [
         1.75
     ],
@@ -129,11 +243,43 @@
         0.6000000238418579
     ],
     "CXPSplit.Default": [
-        0.6000000238418579,
-        0.30000001192092896,
+        0.4000000059604645,
         0.20000000298023224,
-        0.15000000596046448,
-        0.11999999731779099,
+        0.12999999523162842,
+        0.10000000149011612,
+        0.07999999821186066,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "CXPSplit.Hero": [
+        0.4000000059604645,
+        0.20000000298023224,
+        0.12999999523162842,
+        0.10000000149011612,
+        0.07999999821186066,
         0.0,
         0.0,
         0.0,
@@ -170,16 +316,16 @@
         0.75
     ],
     "Fountain.Health.FlatRegen": [
-        28.0
+        22.0
     ],
     "Fountain.Health.PercentRegen": [
-        0.10999999940395355
+        0.10000000149011612
     ],
     "Fountain.Mana.FlatRegen": [
-        15.0
+        12.0
     ],
     "Fountain.Mana.PercentRegen": [
-        0.07999999821186066
+        0.07000000029802322
     ],
     "GameMode.Astrolabe.5v5.DeathTimerCap": [
         90.0
@@ -187,14 +333,14 @@
     "GameMode.Astrolabe.5v5.RecallCastTime": [
         8.0
     ],
-    "GameMode.MOBA.1v1.HeroStartingCardLevel": [
-        1.0
+    "GameMode.MOBA.1v1.HeroStartingCXP": [
+        1000.0
     ],
     "GameMode.MOBA.1v1.HeroStartingLevel": [
         1.0
     ],
-    "GameMode.MOBA.1v1.Tutorial.HeroStartingCardLevel": [
-        1.0
+    "GameMode.MOBA.1v1.Tutorial.HeroStartingCXP": [
+        1000.0
     ],
     "GameMode.MOBA.1v1.Tutorial.HeroStartingLevel": [
         1.0
@@ -205,14 +351,14 @@
     "GameMode.MOBA.1v1.Tutorial.SpawnerDelay.Lane": [
         30.0
     ],
-    "GameMode.MOBA.2v2.HeroStartingCardLevel": [
-        1.0
+    "GameMode.MOBA.2v2.HeroStartingCXP": [
+        1000.0
     ],
     "GameMode.MOBA.2v2.HeroStartingLevel": [
         1.0
     ],
-    "GameMode.MOBA.3v3.HeroStartingCardLevel": [
-        4.0
+    "GameMode.MOBA.3v3.HeroStartingCXP": [
+        4000.0
     ],
     "GameMode.MOBA.3v3.HeroStartingLevel": [
         3.0
@@ -226,8 +372,8 @@
     "GameMode.MOBA.5v5.DeathTimerCap": [
         90.0
     ],
-    "GameMode.MOBA.5v5.HeroStartingCardLevel": [
-        1.0
+    "GameMode.MOBA.5v5.HeroStartingCXP": [
+        1000.0
     ],
     "GameMode.MOBA.5v5.HeroStartingLevel": [
         1.0
@@ -241,11 +387,14 @@
     "GameMode.Solstice.5v5.RecallCastTime": [
         4.0
     ],
+    "Gem.Tree.Branch.Pip.Cost": [
+        1000.0
+    ],
     "Inhibitor.AdditionalReviveTime": [
         180.0
     ],
     "InitialSpawnDelay.Lane": [
-        60.0
+        30.0
     ],
     "JungleBuff.AttackSpeed": [
         35.0
@@ -334,14 +483,20 @@
     "LevelTime.White": [
         120.0
     ],
+    "Minion.MegaBuff.Damage.PCT": [
+        1.399999976158142
+    ],
+    "Minion.MegaBuff.Health.PCT": [
+        1.25
+    ],
     "Movement.CombatSlow.AfterFall.DurationScalar": [
         1.0
     ],
     "Movement.CombatSlow.Melee.DurationMax.Hit": [
-        2.0
+        1.0
     ],
     "Movement.CombatSlow.Melee.DurationMax.Miss": [
-        2.0
+        1.0
     ],
     "Movement.CombatSlow.Melee.DurationMin.Hit": [
         0.6000000238418579
@@ -365,7 +520,7 @@
         275.0
     ],
     "Movement.CombatSlow.Ranged.DurationMax": [
-        2.0
+        1.0
     ],
     "Movement.CombatSlow.Ranged.DurationMin": [
         0.699999988079071
@@ -376,6 +531,9 @@
     "Movement.SpeedChangeOverTime": [
         0.0
     ],
+    "Objective.Tower.PenPCT": [
+        0.5
+    ],
     "Objectives.BackdoorDelay": [
         10.0
     ],
@@ -383,10 +541,10 @@
         0.800000011920929
     ],
     "Objectives.BonusArmor": [
-        70.0
+        150.0
     ],
     "Objectives.BonusArmorDuration": [
-        300.0
+        420.0
     ],
     "Pickup.Default": [
         5000.0
@@ -575,13 +733,13 @@
         2000.0
     ],
     "Respawn.DeathPenaltyStartTime": [
-        60.0
+        90.0
     ],
     "Respawn.MinRespawnTimer": [
-        3.0
+        4.0
     ],
     "Respawn.RespawnDelay": [
-        5.199999809265137
+        4.0
     ],
     "Rig.StartingHealthPct": [
         0.009999999776482582
@@ -841,22 +999,22 @@
         1.0
     ],
     "TeamXP.DripValue": [
-        6.0
+        4.099999904632568
     ],
     "TeamXP.Fast": [
         0.5
     ],
     "TeamXP.Large": [
-        10.0
+        13.600000381469727
     ],
     "TeamXP.Little": [
-        0.5
+        0.7200000286102295
     ],
     "TeamXP.Normal": [
-        90.0
+        24.0
     ],
     "TeamXP.Slow": [
-        15.0
+        5.0
     ],
     "TeamXP.VeryLittle": [
         0.0

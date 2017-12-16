@@ -4,11 +4,11 @@ AttackRating:                   320
 AttackSpeedRating:              100
 BaseAttackTime:                 0.8
 
-Health:                         4000
+Health:                         3750
 HealthRegenRate:                0
 
 AbilityResistanceRating:        1000
-BasicResistanceRating:          80
+BasicResistanceRating:          70
 
 
 

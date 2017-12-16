@@ -298,10 +298,10 @@
     ],
     "Bot.HealthPctToRunAwayMelee": [
         0.0,
+        0.0,
+        0.30000001192092896,
         0.25,
-        0.30000001192092896,
-        0.30000001192092896,
-        0.4000000059604645,
+        0.20000000298023224,
         0.0,
         0.0,
         0.0,
@@ -330,10 +330,10 @@
     ],
     "Bot.HealthPctToRunAwayRanged": [
         0.0,
+        0.0,
         0.20000000298023224,
         0.20000000298023224,
-        0.25,
-        0.3499999940395355,
+        0.15000000596046448,
         0.0,
         0.0,
         0.0,
@@ -425,36 +425,7 @@
         0.0
     ],
     "Bot.LowAbsoluteHealth": [
-        300.0,
-        300.0,
-        500.0,
-        500.0,
-        500.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
+        300.0
     ],
     "Bot.ManaPercentageToStartRegenning": [
         0.0,
@@ -491,6 +462,38 @@
     "Bot.MaxAbilityLevel": [
         -1.0
     ],
+    "Bot.MaxManaPercentageToUseOnMinions": [
+        0.5,
+        0.44999998807907104,
+        0.4000000059604645,
+        0.3499999940395355,
+        0.30000001192092896,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
     "Bot.PrimaryCooldownModifier": [
         1.600000023841858,
         1.4500000476837158,
@@ -524,9 +527,9 @@
         0.0
     ],
     "Bot.RecommendedAbilityRangeModifier": [
-        0.6000000238418579,
-        0.699999988079071,
+        0.75,
         0.800000011920929,
+        0.8500000238418579,
         0.8999999761581421,
         0.949999988079071,
         0.0,
@@ -559,7 +562,7 @@
         12.0,
         9.0,
         6.0,
-        4.0,
+        3.0,
         0.0,
         0.0,
         0.0,
@@ -586,6 +589,9 @@
         0.0,
         0.0,
         0.0
+    ],
+    "Bot.TacticallAssessmentRange": [
+        2500.0
     ],
     "DONTRENAMEROWHEADERS": [
         0.0
@@ -1261,5 +1267,137 @@
         0.0,
         0.0,
         0.0
+    ],
+    "Objective.Core.AbilityResistanceRating": [
+        1.0
+    ],
+    "Objective.Core.AttackHeight": [
+        1.0
+    ],
+    "Objective.Core.AttackRadius": [
+        1.0
+    ],
+    "Objective.Core.AttackRating": [
+        1.0
+    ],
+    "Objective.Core.AttackSpeedRating": [
+        1.0
+    ],
+    "Objective.Core.BaseAttackTime": [
+        1.0
+    ],
+    "Objective.Core.BasicResistanceRating": [
+        1.0
+    ],
+    "Objective.Core.HealthRegenRate": [
+        1.0
+    ],
+    "Objective.Core.MaxHealth": [
+        1.0
+    ],
+    "Objective.Core.TargetDelayTime": [
+        1.0
+    ],
+    "Objective.Core.VisionRadius": [
+        1.0
+    ],
+    "Objective.Inhib.AbilityResistanceRating": [
+        1.0
+    ],
+    "Objective.Inhib.AttackHeight": [
+        1.0
+    ],
+    "Objective.Inhib.AttackRadius": [
+        1.0
+    ],
+    "Objective.Inhib.AttackRating": [
+        1.0
+    ],
+    "Objective.Inhib.AttackSpeedRating": [
+        1.0
+    ],
+    "Objective.Inhib.BaseAttackTime": [
+        1.0
+    ],
+    "Objective.Inhib.BasicResistanceRating": [
+        1.0
+    ],
+    "Objective.Inhib.HealthRegenRate": [
+        1.0
+    ],
+    "Objective.Inhib.MaxHealth": [
+        1.0
+    ],
+    "Objective.Inhib.TargetDelayTime": [
+        1.0
+    ],
+    "Objective.Inhib.VisionRadius": [
+        1.0
+    ],
+    "Objective.Tower.Inner.AbilityResistanceRating": [
+        1.0
+    ],
+    "Objective.Tower.Inner.AttackHeight": [
+        1.0
+    ],
+    "Objective.Tower.Inner.AttackRadius": [
+        1.0
+    ],
+    "Objective.Tower.Inner.AttackRating": [
+        1.0
+    ],
+    "Objective.Tower.Inner.AttackSpeedRating": [
+        1.0
+    ],
+    "Objective.Tower.Inner.BaseAttackTime": [
+        1.0
+    ],
+    "Objective.Tower.Inner.BasicResistanceRating": [
+        1.0
+    ],
+    "Objective.Tower.Inner.HealthRegenRate": [
+        1.0
+    ],
+    "Objective.Tower.Inner.MaxHealth": [
+        1.0
+    ],
+    "Objective.Tower.Inner.TargetDelayTime": [
+        1.0
+    ],
+    "Objective.Tower.Inner.VisionRadius": [
+        1.0
+    ],
+    "Objective.Tower.Outer.AbilityResistanceRating": [
+        1.0
+    ],
+    "Objective.Tower.Outer.AttackHeight": [
+        1.0
+    ],
+    "Objective.Tower.Outer.AttackRadius": [
+        1.0
+    ],
+    "Objective.Tower.Outer.AttackRating": [
+        1.0
+    ],
+    "Objective.Tower.Outer.AttackSpeedRating": [
+        1.0
+    ],
+    "Objective.Tower.Outer.BaseAttackTime": [
+        1.0
+    ],
+    "Objective.Tower.Outer.BasicResistanceRating": [
+        1.0
+    ],
+    "Objective.Tower.Outer.HealthRegenRate": [
+        1.0
+    ],
+    "Objective.Tower.Outer.MaxHealth": [
+        1.0
+    ],
+    "Objective.Tower.Outer.TargetDelayTime": [
+        1.0
+    ],
+    "Objective.Tower.Outer.VisionRadius": [
+        1.0
     ]
 }

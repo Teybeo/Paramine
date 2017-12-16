@@ -2,55 +2,54 @@ Mambo
 
 AttackRating:                   0
 AttackSpeedRating:              100
-BaseAttackTime:                 1.2
+BaseAttackTime:                 0.95
 CleaveRating:                   0
-LeftClickARC:                   0.3
-LeftClickBasePower:             56.71 - 89.542 (+ 1.728 per lvl)
+LeftClickARC:                   1
+LeftClickBasePower:             52.92 - 91.68 (+ 2.04 per lvl)
 
-EnergyRegenRate:                1.404 - 6.8931 (+ 0.2889 per lvl)
-Health:                         520 - 1839.02 (+ 69.422 per lvl)
-HealthRegenRate:                1.3625 - 5.4665 (+ 0.216 per lvl)
-MaxEnergy:                      280 - 1572 (+ 68 per lvl)
+EnergyRegenRate:                1.7 - 3.353 (+ 0.087 per lvl)
+Health:                         606.48 - 1815.79 (+ 63.648 per lvl)
+HealthRegenRate:                1.0108 - 3.02632 (+ 0.10608 per lvl)
+MaxEnergy:                      390 - 885.9 (+ 26.1 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          8.72 - 29.05 (+ 1.07 per lvl)
+BasicResistanceRating:          19.2 - 57.675 (+ 2.025 per lvl)
 
 Alternate
-	ARC:                            1
-	BasePower:                      75 / 125 / 175 / 225
-	Cooldown:                       5
-	Cost:                           -90 / -95 / -100 / -105
+	ARC:                            1.88036
+	BasePower:                      87.75 / 140.4 / 193.05 / 245.7
+	Cooldown:                       3
+	Cost:                           -80 / -85 / -90 / -95
 	Range:                          1100
 Primary
-	ARC:                            0.12
-	BasePower:                      18 / 28 / 38 / 48
-	Cooldown:                       15
-	Cost:                           -100 / -115 / -130 / -145
+	ARC:                            0.585
+	BasePower:                      21.06 / 37.44 / 53.82 / 70.2
+	Cooldown:                       11
+	Cost:                           -110 / -120 / -130 / -140
 	Duration.DoT:                   8
-	Mark.Bonus.Duration:            12
 	Radius:                         500
 	Range:                          1100
 	Slow.Duration:                  1.5
-	Slow.Magnitude:                 -81.75
+	Slow.Magnitude:                 -75
 	TickRate.DoT:                   2
 Secondary
-	ARC:                            0.2675
-	BasePower:                      43.2 / 59.7 / 76.2 / 92.7
-	Cooldown:                       15
+	ARC:                            1.67143
+	BasePower:                      93.6 / 140.4 / 187.2 / 234
+	Cooldown:                       8
 	Cost:                           -80
 	Duration:                       2.5 / 3 / 3.5 / 4
-	Movespeed.Max:                  150
+	Movespeed.Max:                  250
 	Movespeed.Stacks.Max:           10
 	Regen.Duration:                 4
-	Regen.Magnitude:                6.48 / 13.08 / 19.68 / 26.28
+	Regen.Magnitude:                6 / 12 / 18 / 24
 	Regen.Stacks.Max:               5
 Ultimate
-	ARC:                            0.981
-	BasePower:                      192.6 / 279.8 / 367
-	Cooldown:                       90 / 80 / 70
-	Cost:                           -100
+	ARC:                            4.17857
+	BasePower:                      263.25 / 380.25 / 497.25
+	Cooldown:                       100 / 90 / 80
+	Cost:                           -100 / -140 / -180
 
 
 Jump
@@ -64,15 +63,15 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      675
+CXPBounty:                      455
 CXPSpawnTime:                   1.5
-CriticalDamageBonus:            1.5
+CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
-MaxLevel:                       15
-MaxMoveSpeed:                   720
+MaxLevel:                       20
+MaxMoveSpeed:                   695
 VisionRadius:                   5000
-XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
-XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

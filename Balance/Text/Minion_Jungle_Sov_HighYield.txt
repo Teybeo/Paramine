@@ -1,16 +1,16 @@
 Minion_Jungle_Sov_HighYield
 
-AttackRating:                   18
+AttackRating:                   25.2
 AttackSpeedRating:              100
 BaseAttackTime:                 0.4
 
 EnergyRegenRate:                0
-Health:                         1200 - 2950 (+ 92.1053 per lvl)
+Health:                         900 - 2650 (+ 92.1053 per lvl)
 HealthRegenRate:                1000
 MaxEnergy:                      0
 
-AbilityResistanceRating:        0
-BasicResistanceRating:          0
+AbilityResistanceRating:        60
+BasicResistanceRating:          65
 
 Alternate
 	Cooldown:                       0
@@ -42,12 +42,12 @@ other
 	EngagementDistance.Objectives:  1500
 	Reward.NumberOfCoins:           8
 
-CXPBounty:                      650
+CXPBounty:                      442
 CXPSpawnTime:                   1.3
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0
 MaxLevel:                       15
-MaxMoveSpeed:                   780
+MaxMoveSpeed:                   700
 VisionRadius:                   2000
 XPBounty:                       50
 XPToLevel:                      1

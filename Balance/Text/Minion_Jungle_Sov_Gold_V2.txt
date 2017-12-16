@@ -42,7 +42,7 @@ other
 	EngagementDistance.Objectives:  1500
 	Reward.NumberOfCoins:           3
 
-CXPBounty:                      300
+CXPBounty:                      204
 CXPSpawnTime:                   0.9
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0

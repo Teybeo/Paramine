@@ -42,12 +42,12 @@ other
 	EngagementDistance.Objectives:  1500
 	Reward.NumberOfCoins:           2
 
-CXPBounty:                      160
+CXPBounty:                      80
 CXPSpawnTime:                   0.3
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0
 MaxLevel:                       15
-MaxMoveSpeed:                   3900
+MaxMoveSpeed:                   3500
 VisionRadius:                   2000
 XPBounty:                       36
 XPToLevel:                      1

@@ -1,0 +1,54 @@
+Minion_Dummy
+
+AttackRating:                   100
+AttackSpeedRating:              100
+BaseAttackTime:                 1
+
+EnergyRegenRate:                0
+Health:                         100000
+HealthRegenRate:                0
+MaxEnergy:                      0
+
+AbilityResistanceRating:        0
+BasicResistanceRating:          0
+
+Alternate
+	Cooldown:                       0
+Primary
+	Cooldown:                       1
+Secondary
+	Cooldown:                       0
+Ultimate
+	Cooldown:                       0
+
+
+Jump
+	Cooldown:                       0
+Utility
+	Cooldown:                       0
+other
+	BasePower.CoreBonusDamage:      1
+	BasePower.CoreResist:           0
+	BasePower.HeroBonusDamage:      1
+	BasePower.HeroResist:           0
+	BasePower.InhibBonusDamage:     1
+	BasePower.InhibResist:          0
+	BasePower.MinionBonusDamage:    1
+	BasePower.MinionResist:         0
+	BasePower.TowerBonusDamage:     1
+	BasePower.TowerResist:          0
+	EngagementDistance.Heroes:      1500
+	EngagementDistance.Minions:     1500
+	EngagementDistance.Objectives:  1500
+	Reward.NumberOfCoins:           2
+
+CXPBounty:                      0
+CXPSpawnTime:                   0
+CriticallyWoundedThresholdPCT:  0
+GainXPFromKills:                0
+MaxLevel:                       15
+MaxMoveSpeed:                   700
+VisionRadius:                   2000
+XPBounty:                       0
+XPToLevel:                      1
+

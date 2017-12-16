@@ -1,43 +1,51 @@
 Grux
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 111.438 (+ 0.602 per lvl)
-BaseAttackTime:                 1.2
+AttackSpeedRating:              100 - 114.25 (+ 0.75 per lvl)
+BaseAttackTime:                 0.85
 CleaveRating:                   0.2
-LeftClickARC:                   0.7
-LeftClickBasePower:             58 - 77 (+ 1 per lvl)
+LeftClickARC:                   1
+LeftClickBasePower:             67.5 - 121.65 (+ 2.85 per lvl)
 
-EnergyRegenRate:                0.7 - 2.41 (+ 0.09 per lvl)
-Health:                         585 - 2086 (+ 79 per lvl)
-HealthRegenRate:                2 - 7.7 (+ 0.3 per lvl)
-MaxEnergy:                      200 - 884 (+ 36 per lvl)
+EnergyRegenRate:                1.32 - 2.1465 (+ 0.0435 per lvl)
+Health:                         779.76 - 2409.96 (+ 85.8 per lvl)
+HealthRegenRate:                1.2996 - 4.0166 (+ 0.143 per lvl)
+MaxEnergy:                      276 - 523.95 (+ 13.05 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          14 - 37.75 (+ 1.25 per lvl)
+BasicResistanceRating:          34.8 - 78.405 (+ 2.295 per lvl)
 
 Alternate
-	ARC:                            0.6
-	BasePower:                      60 / 80 / 100 / 120
-	Cooldown:                       5
-	Cost:                           -25
-Primary
-	ARC:                            0.3
-	BasePower:                      75 / 120 / 165 / 210
-	Cooldown:                       14
-	Cost:                           -70 / -75 / -80 / -85
-Secondary
-	ARC:                            0.25
-	BasePower:                      40 / 80 / 120 / 160
-	Cooldown:                       16 / 14 / 12 / 10
+	ARC:                            0.835714
+	ARC.PerTick:                    0.0928571
+	BaseDamage.PerTick:             5.2 / 7.8 / 10.4 / 13
+	BasePower:                      46.8 / 70.2 / 93.6 / 117
+	Cooldown:                       3
 	Cost:                           -40
+	Duration:                       4
+	Slow.Duration:                  1
+	Slow.Magnitude.PerStack:        -30
+	TickRate:                       0.5
+Primary
+	ARC:                            1.4625
+	BasePower:                      87.75 / 128.7 / 169.65 / 210.6
+	Cooldown:                       10
+	Cost:                           -90
+Secondary
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       14 / 12 / 10 / 8
+	Cost:                           -30
 Ultimate
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       90 / 70 / 50
 	Cost:                           -75
-	Damage:                         25 / 50 / 75
+	Damage:                         22 / 44 / 66
+	DamageResist.Base:              0.06 / 0.08 / 0.1
+	DamageResist.Stacks:            0.01 / 0.02 / 0.03
 	Duration:                       8
 
 
@@ -52,15 +60,15 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      675
+CXPBounty:                      455
 CXPSpawnTime:                   1.5
-CriticalDamageBonus:            1.5
+CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
-MaxLevel:                       15
-MaxMoveSpeed:                   720
+MaxLevel:                       20
+MaxMoveSpeed:                   710
 VisionRadius:                   5000
-XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
-XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

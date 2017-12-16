@@ -1,50 +1,51 @@
 Hammer
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 126.6 (+ 1.4 per lvl)
-BaseAttackTime:                 1.5
+AttackSpeedRating:              100 - 108.55 (+ 0.45 per lvl)
+BaseAttackTime:                 0.95
 CleaveRating:                   0.2
-LeftClickARC:                   0.7
-LeftClickBasePower:             70 - 108 (+ 2 per lvl)
+LeftClickARC:                   1
+LeftClickBasePower:             65.475 - 118.001 (+ 2.7645 per lvl)
 
-EnergyRegenRate:                0.7 - 2.41 (+ 0.09 per lvl)
-Health:                         485.55 - 1731.38 (+ 65.57 per lvl)
-HealthRegenRate:                2 - 7.7 (+ 0.3 per lvl)
-MaxEnergy:                      200 - 884 (+ 36 per lvl)
+EnergyRegenRate:                1.3384 - 2.2884 (+ 0.05 per lvl)
+Health:                         647.201 - 1951.36 (+ 68.64 per lvl)
+HealthRegenRate:                1.07867 - 3.25227 (+ 0.1144 per lvl)
+MaxEnergy:                      281.52 - 566.52 (+ 15 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          14 - 37.75 (+ 1.25 per lvl)
+BasicResistanceRating:          27.84 - 71.445 (+ 2.295 per lvl)
 
 Alternate
 	ARC:                            0
 	BasePower:                      0
-	Cooldown:                       16 / 14 / 12 / 10
-	Cost:                           -45
+	Cooldown:                       14 / 12 / 10 / 8
+	Cost:                           -30
 Primary
-	ARC:                            0.2
-	BasePower:                      70 / 85 / 100 / 115
-	Cooldown:                       5
-	Cost:                           -25
+	ARC:                            0.417857
+	BasePower:                      81.9 / 105.3 / 128.7 / 152.1
+	Cooldown:                       3
+	Cost:                           -35
 	DamageBonus.Breakpoints:        0 / 10 / 25 / 45
 	DamageBonus.Stacks:             1
 	HealthBonus.Breakpoints:        0 / 20 / 30 / 40
 	HealthBonus.Stacks:             3
 	StackBreakpoints:               20 / 50 / 90 / 140
 Secondary
-	ARC:                            0.5
-	BasePower:                      75 / 120 / 165 / 210
-	Cooldown:                       17 / 15 / 13 / 11
-	Cost:                           -80 / -90 / -100 / -110
+	ARC:                            2.08929
+	BasePower:                      87.75 / 146.25 / 204.75 / 263.25
+	Cooldown:                       12
+	Cost:                           -110
+	Range:                          1600
 	RootDuration:                   1
-	Slow:                           -160 / -200 / -240 / -280
-	SlowDuration:                   2
+	Slow:                           -120
+	SlowDuration:                   1
 Ultimate
-	ARC:                            0.75
-	BasePower:                      190 / 260 / 330
+	ARC:                            2.08929
+	BasePower:                      146.25 / 204.75 / 263.25
 	Cooldown:                       30
-	Cost:                           -100
+	Cost:                           -75
 
 
 Jump
@@ -58,15 +59,15 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      675
+CXPBounty:                      455
 CXPSpawnTime:                   1.5
-CriticalDamageBonus:            1.5
+CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
-MaxLevel:                       15
-MaxMoveSpeed:                   720
+MaxLevel:                       20
+MaxMoveSpeed:                   710
 VisionRadius:                   5000
-XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
-XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

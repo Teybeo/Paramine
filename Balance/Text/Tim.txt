@@ -7,15 +7,15 @@ CleaveRating:                   0
 LeftClickARC:                   1
 LeftClickBasePower:             58 - 96 (+ 2 per lvl)
 
-EnergyRegenRate:                0.8 - 3.08 (+ 0.12 per lvl)
-Health:                         475 - 1691.57 (+ 64.03 per lvl)
-HealthRegenRate:                1.25 - 5.05 (+ 0.2 per lvl)
-MaxEnergy:                      225 - 1137 (+ 48 per lvl)
+EnergyRegenRate:                1.28 - 2.04 (+ 0.04 per lvl)
+Health:                         592.04 - 1748 (+ 60.84 per lvl)
+HealthRegenRate:                0.986733 - 2.91333 (+ 0.1014 per lvl)
+MaxEnergy:                      264 - 492 (+ 12 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          18 - 56 (+ 2 per lvl)
+BasicResistanceRating:          17.28 - 59.346 (+ 2.214 per lvl)
 
 Alternate
 	ARC:                            0
@@ -63,15 +63,15 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      675
+CXPBounty:                      455
 CXPSpawnTime:                   1.5
-CriticalDamageBonus:            1.5
+CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
-MaxLevel:                       15
-MaxMoveSpeed:                   720
+MaxLevel:                       20
+MaxMoveSpeed:                   700
 VisionRadius:                   5000
-XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
-XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

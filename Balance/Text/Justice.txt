@@ -1,0 +1,64 @@
+Justice
+
+AttackRating:                   0
+AttackSpeedRating:              100 - 114.25 (+ 0.75 per lvl)
+BaseAttackTime:                 0.9
+CleaveRating:                   0.2
+LeftClickARC:                   1
+LeftClickBasePower:             67.5 - 121.65 (+ 2.85 per lvl)
+
+EnergyRegenRate:                1.32 - 2.27 (+ 0.05 per lvl)
+Health:                         701.784 - 2087.45 (+ 72.93 per lvl)
+HealthRegenRate:                1.16964 - 3.61494 (+ 0.1287 per lvl)
+MaxEnergy:                      276 - 561 (+ 15 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        25
+BasicPenetrationRating:         0
+BasicResistanceRating:          31.32 - 70.5645 (+ 2.0655 per lvl)
+
+Alternate
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       14 / 12 / 10 / 8
+	Cost:                           -45
+Primary
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       22 / 20 / 18 / 16
+	Cost:                           -60
+Secondary
+	ARC:                            1.88036
+	BasePower:                      87.75 / 140.4 / 193.05 / 245.7
+	Cooldown:                       8
+	Cost:                           -100
+Ultimate
+	ARC:                            2.08929
+	BasePower:                      187.2 / 245.7 / 304.2
+	Cooldown:                       130 / 110 / 90
+	Cost:                           -100 / -150 / -200
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      455
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       20
+MaxMoveSpeed:                   710
+VisionRadius:                   5000
+XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
+

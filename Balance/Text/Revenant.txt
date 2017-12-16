@@ -1,55 +1,56 @@
 Revenant
 
 AttackRating:                   0
-AttackSpeedRating:              0 - 102 (+ 5.36842 per lvl)
+AttackSpeedRating:              100 - 147.5 (+ 2.5 per lvl)
 BaseAttackTime:                 0.5
 CleaveRating:                   0
-LeftClickARC:                   0.8
-LeftClickBasePower:             50 - 69 (+ 1 per lvl)
+LeftClickARC:                   1
+LeftClickBasePower:             52.92 - 166.92 (+ 6 per lvl)
 
-EnergyRegenRate:                0.8 - 3.08 (+ 0.12 per lvl)
-Health:                         475 - 1691.57 (+ 64.03 per lvl)
-HealthRegenRate:                1.25 - 5.05 (+ 0.2 per lvl)
-MaxEnergy:                      225 - 1137 (+ 48 per lvl)
+EnergyRegenRate:                1.368 - 2.698 (+ 0.07 per lvl)
+Health:                         609.801 - 1858.24 (+ 65.7072 per lvl)
+HealthRegenRate:                1.01634 - 3.09706 (+ 0.109512 per lvl)
+MaxEnergy:                      290.4 - 689.4 (+ 21 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          18 - 56 (+ 2 per lvl)
+BasicResistanceRating:          17.28 - 59.346 (+ 2.214 per lvl)
 
 Alternate
-	ARC:                            1
+	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       0
 	Cost:                           0
 	Damage.Bonus.ARC:               0.5
 	Damage.Bonus.Base:              25 / 50 / 75 / 100
+	Damage.PCTBonus:                0.5 / 1 / 1.5 / 2
 	Duration:                       2 / 3 / 4 / 5
-	MaxRating.Reload:               270
+	MaxRating.Reload:               300
 	PhysDamageReduction:            0.5
 Primary
-	ARC:                            1.25
-	BasePower:                      115 / 190 / 265 / 340
+	ARC:                            3.13393
+	BasePower:                      175.5 / 263.25 / 351 / 438.75
 	Cooldown:                       12
-	Cost:                           -90 / -105 / -120 / -135
+	Cost:                           -100 / -110 / -120 / -130
 	MissileCount:                   10
-	Range:                          1500
+	Range:                          1400
 	StandingCastTime:               0.5
 Secondary
-	ARC:                            0.15
-	BasePower:                      75 / 100 / 125 / 150
+	ARC:                            0.174107
+	BasePower:                      87.75 / 117 / 146.25 / 175.5
 	Cooldown:                       6
-	Cost:                           -50 / -60 / -70 / -80
+	Cost:                           -50
 	Duration:                       5
 	MarkCount:                      3 / 4 / 5 / 6
-	MarkDamage:                     25
+	MarkDamage:                     29.25
 	Range:                          1300
 Ultimate
 	ARC:                            0
-	BasePower:                      20 / 40 / 60
+	BasePower:                      23.4
 	BonusBounty:                    600 / 800 / 1000
 	Cooldown:                       110 / 100 / 90
-	Cost:                           -75
+	Cost:                           -100
 	Duration:                       6 / 7 / 8
 
 
@@ -64,15 +65,15 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      675
+CXPBounty:                      455
 CXPSpawnTime:                   1.5
-CriticalDamageBonus:            1.5
+CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
-MaxLevel:                       15
-MaxMoveSpeed:                   720
+MaxLevel:                       20
+MaxMoveSpeed:                   700
 VisionRadius:                   5000
-XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
-XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

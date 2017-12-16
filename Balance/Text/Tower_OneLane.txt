@@ -14,7 +14,7 @@ BasicResistanceRating:          165
 
 other
 	Reward.NumberOfCoins:           50
-	Reward.TeamCardPoints:          100
+	Reward.TeamCardPoints:          50
 
 CXPBounty:                      0
 CXPSpawnTime:                   1.5

@@ -2,50 +2,50 @@ WarDrum
 
 AttackRating:                   0
 AttackSpeedRating:              100
-BaseAttackTime:                 1.5
+BaseAttackTime:                 1.05
 CleaveRating:                   0.2
-LeftClickARC:                   0.3
-LeftClickBasePower:             70 - 108 (+ 2 per lvl)
+LeftClickARC:                   1
+LeftClickBasePower:             63.504 - 141.024 (+ 4.08 per lvl)
 
-EnergyRegenRate:                1.3 - 6.43 (+ 0.27 per lvl)
-Health:                         500 - 1780.6 (+ 67.4 per lvl)
-HealthRegenRate:                1.25 - 5.05 (+ 0.2 per lvl)
-MaxEnergy:                      280 - 1572 (+ 68 per lvl)
+EnergyRegenRate:                1.44 - 2.865 (+ 0.075 per lvl)
+Health:                         693.12 - 2056.56 (+ 71.76 per lvl)
+HealthRegenRate:                0.962667 - 2.93867 (+ 0.104 per lvl)
+MaxEnergy:                      312 - 739.5 (+ 22.5 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          8 - 27 (+ 1 per lvl)
+BasicResistanceRating:          24 - 72.0938 (+ 2.53125 per lvl)
 
 Alternate
-	ARC:                            1
-	BasePower:                      85 / 130 / 175 / 220
-	Cooldown:                       14
-	Cost:                           -90 / -105 / -120 / -135
-	Stun:                           0.9 / 1.1 / 1.3 / 1.5
+	ARC:                            1.88036
+	BasePower:                      87.75 / 140.4 / 193.05 / 245.7
+	Cooldown:                       8
+	Cost:                           -100 / -110 / -120 / -130
+	Stun:                           1 / 1.25 / 1.5 / 1.75
 Primary
 	ARC:                            0
 	BasePower:                      0
-	Cooldown:                       24 / 20 / 16 / 12
-	Cost:                           -75
-	Movespeed.Max.Duration:         2.5
+	Cooldown:                       12
+	Cost:                           -80
+	Movespeed.Max.Duration:         4
 	Movespeed.Max.Magnitude:        125 / 150 / 175 / 200
 	Movespeed.Stack.Count:          10
-	Movespeed.Stack.Duration:       0.25
+	Movespeed.Stack.Duration:       0.4
 	Movespeed.Stack.Magnitude:      12.5 / 15 / 17.5 / 20
 Secondary
 	ARC:                            0
 	BasePower:                      0
-	Cooldown:                       2
-	Cost:                           -11 / -22 / -33 / -44
-	HealthRegen:                    10 / 20 / 30 / 40
+	Cooldown:                       1
+	Cost:                           -12 / -18 / -24 / -30
+	HealthRegen:                    24 / 36 / 48 / 60
 Ultimate
-	ARC:                            1.2
-	BasePower:                      280 / 390 / 500
+	ARC:                            5.22321
+	BasePower:                      351 / 497.25 / 643.5
 	Cooldown:                       100 / 85 / 70
-	Cost:                           -100 / -125 / -150
+	Cost:                           -75 / -100 / -125
 	Duration:                       3
-	Slow:                           -500
+	Slow:                           -350
 
 
 Jump
@@ -59,15 +59,15 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      675
+CXPBounty:                      455
 CXPSpawnTime:                   1.5
-CriticalDamageBonus:            1.5
+CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
-MaxLevel:                       15
-MaxMoveSpeed:                   720
+MaxLevel:                       20
+MaxMoveSpeed:                   695
 VisionRadius:                   5000
-XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
-XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 

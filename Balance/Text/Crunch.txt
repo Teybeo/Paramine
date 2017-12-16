@@ -1,51 +1,51 @@
 Crunch
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 138 (+ 2 per lvl)
-BaseAttackTime:                 1.2
+AttackSpeedRating:              100 - 128.5 (+ 1.5 per lvl)
+BaseAttackTime:                 0.85
 CleaveRating:                   0.2
-LeftClickARC:                   0.7
-LeftClickBasePower:             58 - 73.2 (+ 0.8 per lvl)
+LeftClickARC:                   1
+LeftClickBasePower:             60.75 - 109.485 (+ 2.565 per lvl)
 
-EnergyRegenRate:                0.7 - 2.41 (+ 0.09 per lvl)
-Health:                         585 - 2086 (+ 79 per lvl)
-HealthRegenRate:                2 - 7.7 (+ 0.3 per lvl)
-MaxEnergy:                      200 - 884 (+ 36 per lvl)
+EnergyRegenRate:                1.274 - 2.414 (+ 0.06 per lvl)
+Health:                         740.772 - 2289.46 (+ 81.51 per lvl)
+HealthRegenRate:                1.23462 - 3.81577 (+ 0.13585 per lvl)
+MaxEnergy:                      262.2 - 604.2 (+ 18 per lvl)
 
 AbilityPenetrationRating:       0
-AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          14 - 37.75 (+ 1.25 per lvl)
+BasicResistanceRating:          34.8 - 78.405 (+ 2.295 per lvl)
 
 Alternate
-	ARC:                            0.25
-	BasePower:                      40 / 80 / 120 / 160
+	ARC:                            1.67143
+	BasePower:                      46.8 / 93.6 / 140.4 / 187.2
 	CancelDelayDuration:            0.25
-	Cooldown:                       12
-	Cost:                           -65 / -70 / -75 / -80
+	Cooldown:                       8
+	Cost:                           -60
 Primary
-	ARC:                            0.75
-	ARCEmpowered:                   0.9375
-	BasePower:                      75 / 125 / 175 / 225
-	BasePowerEmpowered:             93.75 / 156.25 / 218.75 / 281.25
+	ARC:                            2.08929
+	ARCEmpowered:                   2.61161
+	BasePower:                      87.75 / 146.25 / 204.75 / 263.25
+	BasePowerEmpowered:             109.688 / 182.812 / 255.938 / 329.062
 	CancelDelayDuration:            0.15
 	CleaveRating:                   0.5
 	CleaveRatingEmpowered:          0.7 / 0.8 / 0.9 / 1
 	Cooldown:                       6
-	Cost:                           -30
+	Cost:                           -50
 	EmpoweredScalar:                0.25
 Secondary
-	ARC:                            0.5
-	ARCEmpowered:                   0.625
-	BasePower:                      70 / 115 / 160 / 205
-	BasePowerEmpowered:             87.5 / 143.75 / 200 / 256.25
+	ARC:                            1.88036
+	ARCEmpowered:                   2.35045
+	BasePower:                      76.05 / 128.7 / 181.35 / 234
+	BasePowerEmpowered:             95.0625 / 160.875 / 226.688 / 292.5
 	CancelDelayDuration:            0.25
-	Cooldown:                       10
-	Cost:                           -40
+	Cooldown:                       8
+	Cost:                           -75
 	EmpoweredScalar:                0.25
-	Knockup:                        225
-	KnockupEmpowered:               225
-	Slow:                           -200 / -250 / -300 / -350
+	Knockup:                        175
+	KnockupEmpowered:               175
+	Slow:                           -200
 	SlowDuration:                   1.5
 Ultimate
 	ARC:                            0
@@ -68,15 +68,15 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      675
+CXPBounty:                      455
 CXPSpawnTime:                   1.5
-CriticalDamageBonus:            1.5
+CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25
 GainXPFromKills:                1
 MaxCardLevel:                   20
-MaxLevel:                       15
-MaxMoveSpeed:                   720
+MaxLevel:                       20
+MaxMoveSpeed:                   710
 VisionRadius:                   5000
-XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
-XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+XPBounty:                       55 - 340.594 (+ 15.0313 per lvl)
+XPToLevel:                      110 - 425.742 (+ 16.618 per lvl)
 
