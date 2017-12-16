@@ -1,25 +1,25 @@
 Shrapnel
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 145.6 (+ 2.4 per lvl)
+AttackSpeedRating:              100 - 151.3 (+ 2.7 per lvl)
 BaseAttackTime:                 0.85
 CleaveRating:                   0
 LeftClickARC:                   1
-LeftClickBasePower:             54 - 125.25 (+ 3.75 per lvl)
+LeftClickBasePower:             56.16 - 134.535 (+ 4.125 per lvl)
 
 EnergyRegenRate:                1.288 - 2.808 (+ 0.08 per lvl)
-Health:                         592.04 - 1748 (+ 60.84 per lvl)
-HealthRegenRate:                0.986733 - 2.91333 (+ 0.1014 per lvl)
+Health:                         639.403 - 1910.96 (+ 66.924 per lvl)
+HealthRegenRate:                1.06567 - 3.18493 (+ 0.11154 per lvl)
 MaxEnergy:                      356.4 - 812.4 (+ 24 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          17.28 - 59.346 (+ 2.214 per lvl)
+BasicResistanceRating:          18.144 - 60.21 (+ 2.214 per lvl)
 
 Alternate
 	ARC:                            1.04464
-	BasePower:                      46.8 / 76.05 / 105.3 / 134.55
+	BasePower:                      54.99 / 84.24 / 113.49 / 142.74
 	Cooldown:                       6
 	Cost:                           -75 / -90 / -105 / -120
 	Range:                          1800
