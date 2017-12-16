@@ -32,15 +32,15 @@ Primary
 	BasePower:                      0
 	BuffDuration:                   3
 	Cooldown:                       7
-	Cost:                           -30
-	DamageMultiplier:               0.7 / 0.8 / 0.9 / 1
+	Cost:                           -45
+	DamageMultiplier:               0.55 / 0.625 / 0.7 / 0.775
 Secondary
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       1
 	Cost:                           0
 	HealthRegeneration:             0.9 / 1.8 / 2.7 / 3.6
-	StacksDuration:                 2
+	StacksDuration:                 1.5
 Ultimate
 	ARC:                            3.13
 	BasePower:                      263 / 351 / 439
