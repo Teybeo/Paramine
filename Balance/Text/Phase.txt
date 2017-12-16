@@ -23,38 +23,43 @@ Alternate
 	Cooldown:                       12 / 11 / 10 / 9
 	Cost:                           -35 / -40 / -45 / -50
 	Range:                          1600
-	Tether.Range:                   2100
-	Tether.Stack.HealthRegen.Magnitude: 2 / 3 / 4 / 5
-	Tether.Stack.Interval:          15
-	Tether.Stack.Max:               3
+	Tether.Range:                   2500
 Primary
 	ARC:                            0.6
 	BasePower:                      75 / 130 / 185 / 240
 	Blind.Duration:                 1.5 / 2 / 2.5 / 3
 	Cooldown:                       12
-	Cost:                           -80 / -100 / -120 / -140
+	Cost:                           -70 / -80 / -90 / -100
 	Radius:                         450
 Secondary
-	ARC:                            0
+	ARC:                            0.1
 	Armor.Ability.Magnitude:        12 / 24 / 36 / 48
 	Armor.Basic.Magnitude:          12 / 24 / 36 / 48
 	Armor.Duration:                 3
+	BaseDamage.PerTick:             80 / 130 / 180 / 230
 	BasePower:                      0
 	Buff.Stack.HealthRegen.Duration: 4
 	Buff.Stack.HealthRegen.Magnitude: 1 / 2 / 3 / 4
 	Buff.Stack.Max:                 20
-	Cooldown:                       16 / 15 / 14 / 13
-	Cost:                           -70 / -80 / -90 / -100
+	Cooldown:                       14 / 13 / 12 / 11
+	Cost:                           -80 / -100 / -120 / -140
+	Duration:                       2.5
+	Slow.Duration:                  1 / 1.5 / 2 / 2.5
+	Slow.Magnitude:                 -200
+	TickRate:                       0.25
 Ultimate
-	ARC:                            2.5
+	ARC:                            0
 	AttackSpeed.Stack.Magnitude:    3 / 5.25 / 7.5
 	BasePower:                      0
+	Buff.AttackSpeed:               80
+	Buff.CooldownReduction:         0.5
 	Buff.Duration:                  3
+	Buff.ManaRegen:                 75
 	Buff.Stack.Max:                 16
-	Cooldown:                       110 / 100 / 90
-	Cost:                           -100 / -125 / -150
+	Cooldown:                       130 / 120 / 110
+	Cost:                           -100
 	Damage.PerTick:                 18 / 28 / 38
-	Duration:                       4
+	Duration:                       8 / 12 / 16
 	ManaRegen.Stack.Magnitude:      1.5 / 2.25 / 3
 	Movespeed.Slow:                 -150
 	TickRate:                       0.25
@@ -63,8 +68,6 @@ Ultimate
 Jump
 	Cooldown:                       1
 	Cost:                           0
-Pull
-	Cost:                           -75
 Recall
 	Cooldown:                       3
 TravelMode

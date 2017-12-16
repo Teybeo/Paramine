@@ -2,9 +2,9 @@ Revenant
 
 AttackRating:                   0
 AttackSpeedRating:              0 - 102 (+ 5.36842 per lvl)
-BaseAttackTime:                 1.2
+BaseAttackTime:                 0.5
 CleaveRating:                   0
-LeftClickARC:                   0.7
+LeftClickARC:                   0.8
 LeftClickBasePower:             50 - 69 (+ 1 per lvl)
 
 EnergyRegenRate:                0.8 - 3.08 (+ 0.12 per lvl)
@@ -22,8 +22,8 @@ Alternate
 	BasePower:                      0
 	Cooldown:                       0
 	Cost:                           0
-	Damage.Bonus.ARC:               0.4
-	Damage.Bonus.Base:              15 / 30 / 45 / 60
+	Damage.Bonus.ARC:               0.5
+	Damage.Bonus.Base:              25 / 50 / 75 / 100
 	Duration:                       2 / 3 / 4 / 5
 	MaxRating.Reload:               270
 	PhysDamageReduction:            0.5
@@ -47,7 +47,7 @@ Secondary
 Ultimate
 	ARC:                            0
 	BasePower:                      20 / 40 / 60
-	BonusBounty:                    200 / 300 / 400
+	BonusBounty:                    600 / 800 / 1000
 	Cooldown:                       110 / 100 / 90
 	Cost:                           -75
 	Duration:                       6 / 7 / 8

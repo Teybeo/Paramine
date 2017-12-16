@@ -89,9 +89,9 @@ Potion.Cooldown: 15
 Potion.Duration: 15
 Potion.HPS: 6
 Potion.MPS: 3.8
-PrimeHelix.BuffTime: 150 | 0 | 0 | 0 | 0 | 0 | 75 | 75 | 75 | 100 | 100 | 100 | 125 | 125 | 125
-PrimeHelix.LifeSpan: 150 | 0 | 0 | 0 | 0 | 0 | 0.2 | 0.2 | 0.2 | 0.25 | 0.25 | 0.25 | 0.3 | 0.3 | 0.3
-PrimeHelix.MaxLifeSpan: 150 | 0 | 0 | 0 | 0 | 0 | 0.003 | 0.003 | 0.003 | 0.004 | 0.004 | 0.004 | 0.005 | 0.005 | 0.005
+PrimeHelix.BuffTime: 120 | 0 | 0 | 0 | 0 | 0 | 75 | 75 | 75 | 100 | 100 | 100 | 125 | 125 | 125
+PrimeHelix.LifeSpan: 120 | 0 | 0 | 0 | 0 | 0 | 0.2 | 0.2 | 0.2 | 0.25 | 0.25 | 0.25 | 0.3 | 0.3 | 0.3
+PrimeHelix.MaxLifeSpan: 120 | 0 | 0 | 0 | 0 | 0 | 0.003 | 0.003 | 0.003 | 0.004 | 0.004 | 0.004 | 0.005 | 0.005 | 0.005
 PrimeHelix.ReturnToBaseTime: 30
 PrimeHelixTime: 0
 Projectile.Default: 6000
@@ -113,9 +113,9 @@ Range.Minion.RangedObjective: 1200
 Range.Short: 1000
 Range.Turret: 2000
 Respawn.DeathPenaltyStartTime: 60
-Respawn.DeathTimerCap: 90 | 0 | 0 | 0 | 0 | 0 | 1.7 | 1.8 | 1.9 | 2
+Respawn.DeathTimerCap: 81 | 0 | 0 | 0 | 0 | 0 | 1.7 | 1.8 | 1.9 | 2
 Respawn.MinRespawnTimer: 3
-Respawn.RespawnDelay: 5.8
+Respawn.RespawnDelay: 5.2
 Rig.StartingHealthPct: 0.01
 Root.Default: 2
 Root.Long: 3
