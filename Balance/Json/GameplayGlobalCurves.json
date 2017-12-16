@@ -390,6 +390,9 @@
     "Gem.Tree.Branch.Pip.Cost": [
         1000.0
     ],
+    "HeroMaxLevel": [
+        20.0
+    ],
     "Inhibitor.AdditionalReviveTime": [
         180.0
     ],

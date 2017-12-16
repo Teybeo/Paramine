@@ -462,6 +462,9 @@
     "Bot.MaxAbilityLevel": [
         -1.0
     ],
+    "Bot.MaxLevel": [
+        -1.0
+    ],
     "Bot.MaxManaPercentageToUseOnMinions": [
         0.5,
         0.44999998807907104,

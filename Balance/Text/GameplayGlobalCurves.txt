@@ -51,6 +51,7 @@ GameMode.MOBA.5v5.RecallCastTime: 8
 GameMode.Solstice.5v5.DeathTimerCap: 30
 GameMode.Solstice.5v5.RecallCastTime: 4
 Gem.Tree.Branch.Pip.Cost: 1000
+HeroMaxLevel: 20
 Inhibitor.AdditionalReviveTime: 180
 InitialSpawnDelay.Lane: 30
 JungleBuff.AttackSpeed: 35
