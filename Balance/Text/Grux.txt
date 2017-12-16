@@ -1,27 +1,27 @@
 Grux
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 114.25 (+ 0.75 per lvl)
+AttackSpeedRating:              100 - 114.3 (+ 0.752632 per lvl)
 BaseAttackTime:                 0.85
 CleaveRating:                   0.2
 LeftClickARC:                   1
-LeftClickBasePower:             67.5 - 121.65 (+ 2.85 per lvl)
+LeftClickBasePower:             67.5 - 121.6 (+ 2.84737 per lvl)
 
-EnergyRegenRate:                1.32 - 2.1465 (+ 0.0435 per lvl)
-Health:                         779.76 - 2409.96 (+ 85.8 per lvl)
-HealthRegenRate:                1.2996 - 4.0166 (+ 0.143 per lvl)
-MaxEnergy:                      276 - 523.95 (+ 13.05 per lvl)
+EnergyRegenRate:                1.32 - 2.15 (+ 0.0436842 per lvl)
+Health:                         780 - 2410 (+ 85.7895 per lvl)
+HealthRegenRate:                1.3 - 4.02 (+ 0.143158 per lvl)
+MaxEnergy:                      276 - 524 (+ 13.0526 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          34.8 - 78.405 (+ 2.295 per lvl)
+BasicResistanceRating:          34.8 - 78.4 (+ 2.29474 per lvl)
 
 Alternate
-	ARC:                            0.835714
+	ARC:                            0.84
 	ARC.PerTick:                    0.0928571
 	BaseDamage.PerTick:             5.2 / 7.8 / 10.4 / 13
-	BasePower:                      46.8 / 70.2 / 93.6 / 117
+	BasePower:                      47 / 70 / 94 / 117
 	Cooldown:                       3
 	Cost:                           -40
 	Duration:                       4
@@ -29,8 +29,8 @@ Alternate
 	Slow.Magnitude.PerStack:        -30
 	TickRate:                       0.5
 Primary
-	ARC:                            1.4625
-	BasePower:                      87.75 / 128.7 / 169.65 / 210.6
+	ARC:                            1.46
+	BasePower:                      88 / 129 / 170 / 211
 	Cooldown:                       10
 	Cost:                           -90
 Secondary
@@ -60,7 +60,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

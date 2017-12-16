@@ -1,25 +1,25 @@
 Tomahawk
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 125.65 (+ 1.35 per lvl)
+AttackSpeedRating:              100 - 125.7 (+ 1.35263 per lvl)
 BaseAttackTime:                 0.85
 CleaveRating:                   0.1
 LeftClickARC:                   1
-LeftClickBasePower:             59.4 - 128.655 (+ 3.645 per lvl)
+LeftClickBasePower:             59.4 - 128.7 (+ 3.64737 per lvl)
 
-EnergyRegenRate:                1.228 - 1.988 (+ 0.04 per lvl)
-Health:                         644.746 - 2008.19 (+ 71.76 per lvl)
-HealthRegenRate:                1.07458 - 3.34698 (+ 0.1196 per lvl)
-MaxEnergy:                      248.4 - 476.4 (+ 12 per lvl)
+EnergyRegenRate:                1.23 - 1.99 (+ 0.04 per lvl)
+Health:                         645 - 2008 (+ 71.7368 per lvl)
+HealthRegenRate:                1.07 - 3.35 (+ 0.12 per lvl)
+MaxEnergy:                      248 - 476 (+ 12 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          27.72 - 89.28 (+ 3.24 per lvl)
+BasicResistanceRating:          27.7 - 89.3 (+ 3.24211 per lvl)
 
 Alternate
-	ARC:                            1.25357
-	BasePower:                      70.2 / 105.3 / 140.4 / 175.5
+	ARC:                            1.25
+	BasePower:                      70 / 105 / 140 / 175
 	Cooldown:                       5
 	Cost:                           -65
 	Slow:                           -200 / -250 / -300 / -350
@@ -42,8 +42,8 @@ Secondary
 	HealthRegeneration:             0.9 / 1.8 / 2.7 / 3.6
 	StacksDuration:                 2
 Ultimate
-	ARC:                            3.13393
-	BasePower:                      263.25 / 351 / 438.75
+	ARC:                            3.13
+	BasePower:                      263 / 351 / 439
 	Cooldown:                       90 / 70 / 50
 	Cost:                           -75 / -100 / -125
 	Slow.Duration:                  1
@@ -62,7 +62,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

@@ -5,22 +5,22 @@ AttackSpeedRating:              100 - 134.2 (+ 1.8 per lvl)
 BaseAttackTime:                 0.85
 CleaveRating:                   0.1
 LeftClickARC:                   1
-LeftClickBasePower:             56.43 - 110.295 (+ 2.835 per lvl)
+LeftClickBasePower:             56.4 - 110.3 (+ 2.83684 per lvl)
 
 EnergyRegenRate:                1.09 - 1.85 (+ 0.04 per lvl)
-Health:                         589.874 - 1701.37 (+ 58.5 per lvl)
-HealthRegenRate:                0.983123 - 2.83562 (+ 0.0975 per lvl)
+Health:                         590 - 1701 (+ 58.4737 per lvl)
+HealthRegenRate:                0.98 - 2.84 (+ 0.0978947 per lvl)
 MaxEnergy:                      207 - 435 (+ 12 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          22.68 - 65.772 (+ 2.268 per lvl)
+BasicResistanceRating:          22.7 - 65.8 (+ 2.26842 per lvl)
 
 Alternate
-	ARC:                            1.88036
+	ARC:                            1.88
 	Air.DamageMod:                  0
-	BasePower:                      87.75 / 140.4 / 193.05 / 245.7
+	BasePower:                      88 / 140 / 193 / 246
 	Cooldown:                       12 / 11 / 10 / 9
 	Cost:                           -90
 	Range:                          900
@@ -34,7 +34,7 @@ Primary
 	Cooldown:                       14 / 13 / 12 / 11
 	Cost:                           0
 	Force:                          1000
-	Stone.ARC:                      1.07143
+	Stone.ARC:                      1.07
 	Stone.BasePower:                60 / 90 / 120 / 150
 	Stone.Slow.Duration:            2
 	Stone.Slow.Magnitude:           -125
@@ -69,7 +69,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

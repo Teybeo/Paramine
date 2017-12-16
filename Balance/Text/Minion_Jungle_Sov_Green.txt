@@ -1,15 +1,15 @@
 Minion_Jungle_Sov_Green
 
-AttackRating:                   16
+AttackRating:                   21
 AttackSpeedRating:              100
-BaseAttackTime:                 0.75
+BaseAttackTime:                 0.8
 
 EnergyRegenRate:                0
-Health:                         1190
+Health:                         1500
 HealthRegenRate:                270
 MaxEnergy:                      0
 
-AbilityResistanceRating:        42
+AbilityResistanceRating:        40
 BasicResistanceRating:          20
 
 Alternate
@@ -42,13 +42,13 @@ other
 	EngagementDistance.Objectives:  1500
 	Reward.NumberOfCoins:           5
 
-CXPBounty:                      90
+CXPBounty:                      200
 CXPSpawnTime:                   0.9
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0
 MaxLevel:                       3
 MaxMoveSpeed:                   1000
 VisionRadius:                   2000
-XPBounty:                       44
+XPBounty:                       45
 XPToLevel:                      1
 

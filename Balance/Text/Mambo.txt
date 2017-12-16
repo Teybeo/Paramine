@@ -5,27 +5,27 @@ AttackSpeedRating:              100
 BaseAttackTime:                 0.95
 CleaveRating:                   0
 LeftClickARC:                   1
-LeftClickBasePower:             52.92 - 91.68 (+ 2.04 per lvl)
+LeftClickBasePower:             52.9 - 91.7 (+ 2.04211 per lvl)
 
-EnergyRegenRate:                1.7 - 3.353 (+ 0.087 per lvl)
-Health:                         606.48 - 1815.79 (+ 63.648 per lvl)
-HealthRegenRate:                1.0108 - 3.02632 (+ 0.10608 per lvl)
-MaxEnergy:                      390 - 885.9 (+ 26.1 per lvl)
+EnergyRegenRate:                1.7 - 3.35 (+ 0.0868421 per lvl)
+Health:                         606 - 1816 (+ 63.6842 per lvl)
+HealthRegenRate:                1.01 - 3.03 (+ 0.106316 per lvl)
+MaxEnergy:                      390 - 886 (+ 26.1053 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          19.2 - 57.675 (+ 2.025 per lvl)
+BasicResistanceRating:          19.2 - 57.7 (+ 2.02632 per lvl)
 
 Alternate
-	ARC:                            1.88036
-	BasePower:                      87.75 / 140.4 / 193.05 / 245.7
+	ARC:                            1.88
+	BasePower:                      88 / 140 / 193 / 246
 	Cooldown:                       3
 	Cost:                           -80 / -85 / -90 / -95
 	Range:                          1100
 Primary
-	ARC:                            0.585
-	BasePower:                      21.06 / 37.44 / 53.82 / 70.2
+	ARC:                            0.58
+	BasePower:                      21 / 37 / 54 / 70
 	Cooldown:                       11
 	Cost:                           -110 / -120 / -130 / -140
 	Duration.DoT:                   8
@@ -35,8 +35,8 @@ Primary
 	Slow.Magnitude:                 -75
 	TickRate.DoT:                   2
 Secondary
-	ARC:                            1.67143
-	BasePower:                      93.6 / 140.4 / 187.2 / 234
+	ARC:                            1.67
+	BasePower:                      94 / 140 / 187 / 234
 	Cooldown:                       8
 	Cost:                           -80
 	Duration:                       2.5 / 3 / 3.5 / 4
@@ -46,8 +46,8 @@ Secondary
 	Regen.Magnitude:                6 / 12 / 18 / 24
 	Regen.Stacks.Max:               5
 Ultimate
-	ARC:                            4.17857
-	BasePower:                      263.25 / 380.25 / 497.25
+	ARC:                            4.18
+	BasePower:                      263 / 380 / 497
 	Cooldown:                       100 / 90 / 80
 	Cost:                           -100 / -140 / -180
 
@@ -63,7 +63,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

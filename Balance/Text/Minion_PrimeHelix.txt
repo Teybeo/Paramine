@@ -27,6 +27,8 @@ Jump
 Utility
 	Cooldown:                       0
 other
+	Ability.HomingProj.Count.Max:   10
+	Ability.HomingProj.Damage:      95 / 100 / 105 / 110
 	BasePower.CoreBonusDamage:      1
 	BasePower.CoreResist:           0
 	BasePower.HeroBonusDamage:      1

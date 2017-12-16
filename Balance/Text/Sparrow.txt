@@ -5,21 +5,21 @@ AttackSpeedRating:              100 - 157 (+ 3 per lvl)
 BaseAttackTime:                 0.8
 CleaveRating:                   0
 LeftClickARC:                   1
-LeftClickBasePower:             50.22 - 107.22 (+ 3 per lvl)
+LeftClickBasePower:             50.2 - 107.2 (+ 3 per lvl)
 
 EnergyRegenRate:                1.28 - 2.04 (+ 0.04 per lvl)
-Health:                         592.04 - 1748 (+ 60.84 per lvl)
-HealthRegenRate:                0.986733 - 2.91333 (+ 0.1014 per lvl)
+Health:                         592 - 1748 (+ 60.8421 per lvl)
+HealthRegenRate:                0.99 - 2.91 (+ 0.101053 per lvl)
 MaxEnergy:                      264 - 492 (+ 12 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          17.28 - 59.346 (+ 2.214 per lvl)
+BasicResistanceRating:          17.3 - 59.3 (+ 2.21053 per lvl)
 
 Alternate
-	ARC:                            1.88036
-	BasePower:                      87.75 / 140.4 / 193.05 / 245.7
+	ARC:                            1.88
+	BasePower:                      88 / 140 / 193 / 246
 	Cooldown:                       6
 	Cost:                           -80 / -90 / -100 / -110
 	MaxChargeDuration:              1.2
@@ -27,8 +27,8 @@ Alternate
 	StacksDuration:                 3
 	StacksMax:                      5
 Primary
-	ARC:                            2.08929
-	BasePower:                      117 / 175.5 / 234 / 292.5
+	ARC:                            2.09
+	BasePower:                      117 / 176 / 234 / 293
 	Cooldown:                       12
 	Cost:                           -75
 	DamageDuration:                 4
@@ -58,7 +58,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

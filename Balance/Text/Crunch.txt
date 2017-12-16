@@ -5,29 +5,29 @@ AttackSpeedRating:              100 - 128.5 (+ 1.5 per lvl)
 BaseAttackTime:                 0.85
 CleaveRating:                   0.2
 LeftClickARC:                   1
-LeftClickBasePower:             60.75 - 109.485 (+ 2.565 per lvl)
+LeftClickBasePower:             60.8 - 109.5 (+ 2.56316 per lvl)
 
-EnergyRegenRate:                1.274 - 2.414 (+ 0.06 per lvl)
-Health:                         740.772 - 2289.46 (+ 81.51 per lvl)
-HealthRegenRate:                1.23462 - 3.81577 (+ 0.13585 per lvl)
-MaxEnergy:                      262.2 - 604.2 (+ 18 per lvl)
+EnergyRegenRate:                1.27 - 2.41 (+ 0.06 per lvl)
+Health:                         741 - 2289 (+ 81.4737 per lvl)
+HealthRegenRate:                1.23 - 3.82 (+ 0.136316 per lvl)
+MaxEnergy:                      262 - 604 (+ 18 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          34.8 - 78.405 (+ 2.295 per lvl)
+BasicResistanceRating:          34.8 - 78.4 (+ 2.29474 per lvl)
 
 Alternate
-	ARC:                            1.67143
-	BasePower:                      46.8 / 93.6 / 140.4 / 187.2
+	ARC:                            1.67
+	BasePower:                      47 / 94 / 140 / 187
 	CancelDelayDuration:            0.25
 	Cooldown:                       8
 	Cost:                           -60
 Primary
-	ARC:                            2.08929
-	ARCEmpowered:                   2.61161
-	BasePower:                      87.75 / 146.25 / 204.75 / 263.25
-	BasePowerEmpowered:             109.688 / 182.812 / 255.938 / 329.062
+	ARC:                            2.09
+	ARCEmpowered:                   2.61
+	BasePower:                      88 / 146 / 205 / 263
+	BasePowerEmpowered:             110 / 183 / 256 / 329
 	CancelDelayDuration:            0.15
 	CleaveRating:                   0.5
 	CleaveRatingEmpowered:          0.7 / 0.8 / 0.9 / 1
@@ -35,10 +35,10 @@ Primary
 	Cost:                           -50
 	EmpoweredScalar:                0.25
 Secondary
-	ARC:                            1.88036
-	ARCEmpowered:                   2.35045
-	BasePower:                      76.05 / 128.7 / 181.35 / 234
-	BasePowerEmpowered:             95.0625 / 160.875 / 226.688 / 292.5
+	ARC:                            1.88
+	ARCEmpowered:                   2.35
+	BasePower:                      76 / 129 / 181 / 234
+	BasePowerEmpowered:             95 / 161 / 227 / 293
 	CancelDelayDuration:            0.25
 	Cooldown:                       8
 	Cost:                           -75
@@ -68,7 +68,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

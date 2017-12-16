@@ -1,21 +1,21 @@
 Ice
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 114.25 (+ 0.75 per lvl)
+AttackSpeedRating:              100 - 114.3 (+ 0.752632 per lvl)
 BaseAttackTime:                 0.9
 CleaveRating:                   0.2
 LeftClickARC:                   1
-LeftClickBasePower:             64.125 - 118.275 (+ 2.85 per lvl)
+LeftClickBasePower:             64.1 - 118.3 (+ 2.85263 per lvl)
 
-EnergyRegenRate:                1.5224 - 3.0424 (+ 0.08 per lvl)
-Health:                         701.784 - 2005.94 (+ 68.64 per lvl)
-HealthRegenRate:                1.16964 - 3.47909 (+ 0.12155 per lvl)
-MaxEnergy:                      336.72 - 792.72 (+ 24 per lvl)
+EnergyRegenRate:                1.52 - 3.04 (+ 0.08 per lvl)
+Health:                         702 - 2006 (+ 68.6316 per lvl)
+HealthRegenRate:                1.17 - 3.48 (+ 0.121579 per lvl)
+MaxEnergy:                      337 - 793 (+ 24 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          38.28 - 81.0129 (+ 2.2491 per lvl)
+BasicResistanceRating:          38.3 - 81 (+ 2.24737 per lvl)
 
 Alternate
 	ARC:                            0
@@ -36,8 +36,8 @@ Primary
 	StandingCastTime:               0.25
 	WallDuration:                   7
 Secondary
-	ARC:                            1.04464
-	BasePower:                      87.75 / 117 / 146.25 / 175.5
+	ARC:                            1.04
+	BasePower:                      88 / 117 / 146 / 176
 	CloneDamageRadius:              300
 	CloneDuration:                  4
 	Cooldown:                       8
@@ -50,12 +50,12 @@ Secondary
 	Slow:                           -80 / -140 / -200 / -260
 	SlowDuration:                   2
 Ultimate
-	ARC:                            2.08929
-	ARC.Chain.Hero:                 0.835714
-	ARC.Chain.NonHero:              0.417857
-	BasePower:                      187.2 / 245.7 / 304.2
-	BasePower.Chain.Hero:           74.88 / 98.28 / 121.68
-	BasePower.Chain.NonHero:        37.44 / 49.14 / 60.84
+	ARC:                            2.09
+	ARC.Chain.Hero:                 0.84
+	ARC.Chain.NonHero:              0.42
+	BasePower:                      187 / 246 / 304
+	BasePower.Chain.Hero:           75 / 98 / 122
+	BasePower.Chain.NonHero:        37 / 49 / 61
 	Cooldown:                       130 / 110 / 90
 	Cost:                           -100 / -150 / -200
 	ExplosionRadius:                600
@@ -85,7 +85,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

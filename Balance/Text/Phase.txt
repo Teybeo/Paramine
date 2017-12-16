@@ -5,17 +5,17 @@ AttackSpeedRating:              100
 BaseAttackTime:                 0.95
 CleaveRating:                   0
 LeftClickARC:                   1
-LeftClickBasePower:             52.92 - 91.68 (+ 2.04 per lvl)
+LeftClickBasePower:             52.9 - 91.7 (+ 2.04211 per lvl)
 
-EnergyRegenRate:                1.7 - 3.22 (+ 0.08 per lvl)
-Health:                         548.72 - 1675.04 (+ 59.28 per lvl)
-HealthRegenRate:                0.914533 - 2.79173 (+ 0.0988 per lvl)
-MaxEnergy:                      390 - 846 (+ 24 per lvl)
+EnergyRegenRate:                1.7 - 3.41 (+ 0.09 per lvl)
+Health:                         549 - 1722 (+ 61.7368 per lvl)
+HealthRegenRate:                0.91 - 2.87 (+ 0.103158 per lvl)
+MaxEnergy:                      390 - 903 (+ 27 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          19.2 - 51.9038 (+ 1.72125 per lvl)
+BasicResistanceRating:          19.2 - 51.9 (+ 1.72105 per lvl)
 
 Alternate
 	ARC:                            0
@@ -23,22 +23,22 @@ Alternate
 	Cooldown:                       14
 	Cost:                           -100
 	HealthRegen.Duration:           4
-	HealthRegen.Magnitude:          12 / 18 / 24 / 30
+	HealthRegen.Magnitude:          16 / 24 / 32 / 40
 	Range:                          1800
 	Tether.Range:                   2200
 Primary
-	ARC:                            1.88036
-	BasePower:                      87.75 / 140.4 / 193.05 / 245.7
+	ARC:                            1.88
+	BasePower:                      88 / 140 / 193 / 246
 	Blind.Duration:                 1.25 / 1.5 / 1.75 / 2
-	Cooldown:                       12
+	Cooldown:                       10
 	Cost:                           -90 / -100 / -110 / -120
 	Radius:                         450
 Secondary
-	ARC:                            0.142857
+	ARC:                            0.18
 	Armor.Ability.Magnitude:        12 / 24 / 36 / 48
 	Armor.Basic.Magnitude:          12 / 24 / 36 / 48
 	Armor.Duration:                 3
-	BaseDamage.PerTick:             8 / 12 / 16 / 20
+	BaseDamage.PerTick:             10 / 15 / 20 / 25
 	BasePower:                      0
 	Buff.Stack.HealthRegen.Duration: 4
 	Buff.Stack.HealthRegen.Magnitude: 1 / 2 / 3 / 4
@@ -53,7 +53,7 @@ Secondary
 	TickRate:                       0.25
 Ultimate
 	ARC:                            0
-	AttackSpeed.Stack.Magnitude:    3 / 5.25 / 7.5
+	AttackSpeed.Stack.Magnitude:    3 / 5.3 / 7.5
 	BasePower:                      0
 	Buff.AttackSpeed:               80
 	Buff.CooldownReduction:         0.5
@@ -85,7 +85,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

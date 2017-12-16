@@ -1,33 +1,33 @@
 Kwang
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 142.75 (+ 2.25 per lvl)
+AttackSpeedRating:              100 - 142.8 (+ 2.25263 per lvl)
 BaseAttackTime:                 0.85
 CleaveRating:                   0.1
 LeftClickARC:                   1
-LeftClickBasePower:             59.4 - 132.503 (+ 3.8475 per lvl)
+LeftClickBasePower:             59.4 - 132.5 (+ 3.84737 per lvl)
 
-EnergyRegenRate:                1.412 - 2.5045 (+ 0.0575 per lvl)
-Health:                         685.9 - 2167.9 (+ 78 per lvl)
-HealthRegenRate:                1.14317 - 3.61317 (+ 0.13 per lvl)
-MaxEnergy:                      303.6 - 631.35 (+ 17.25 per lvl)
+EnergyRegenRate:                1.41 - 2.5 (+ 0.0573684 per lvl)
+Health:                         686 - 2168 (+ 78 per lvl)
+HealthRegenRate:                1.14 - 3.61 (+ 0.13 per lvl)
+MaxEnergy:                      304 - 631 (+ 17.2105 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          25.2 - 80.604 (+ 2.916 per lvl)
+BasicResistanceRating:          25.2 - 80.6 (+ 2.91579 per lvl)
 
 Alternate
-	ARC:                            1.67143
+	ARC:                            1.67
 	Armor.Energy:                   20 / 40 / 60 / 80
 	Armor.Physical:                 20 / 40 / 60 / 80
-	BasePower:                      87.75 / 134.55 / 181.35 / 228.15
+	BasePower:                      88 / 135 / 181 / 228
 	Cooldown:                       8
 	Cost:                           -75 / -85 / -95 / -105
 	Duration:                       2.5
 Primary
-	ARC:                            1.67143
-	BasePower:                      70.2 / 117 / 163.8 / 210.6
+	ARC:                            1.67
+	BasePower:                      70 / 117 / 164 / 211
 	Cooldown:                       12
 	Cost:                           -100
 	Duration:                       1.75 / 2.25 / 2.75 / 3.25
@@ -39,8 +39,8 @@ Secondary
 	LifeSteal:                      7.5 / 10 / 12.5 / 15
 	LifeSteal.Personal:             7.5 / 10 / 12.5 / 15
 Ultimate
-	ARC:                            3.13393
-	BasePower:                      210.6 / 298.35 / 386.1
+	ARC:                            3.13
+	BasePower:                      211 / 298 / 386
 	Cooldown:                       85 / 75 / 65
 	Cost:                           -100
 	Duration:                       0.55
@@ -59,7 +59,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

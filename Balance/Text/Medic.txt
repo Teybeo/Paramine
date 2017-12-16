@@ -5,38 +5,38 @@ AttackSpeedRating:              100 - 120.9 (+ 1.1 per lvl)
 BaseAttackTime:                 0.9
 CleaveRating:                   0
 LeftClickARC:                   1
-LeftClickBasePower:             52.92 - 76.176 (+ 1.224 per lvl)
+LeftClickBasePower:             52.9 - 76.2 (+ 1.22632 per lvl)
 
-EnergyRegenRate:                1.075 - 2.69 (+ 0.085 per lvl)
-Health:                         566.048 - 1455.25 (+ 46.8 per lvl)
-HealthRegenRate:                0.962667 - 2.93867 (+ 0.104 per lvl)
-MaxEnergy:                      292.5 - 777 (+ 25.5 per lvl)
+EnergyRegenRate:                1.08 - 2.69 (+ 0.0847368 per lvl)
+Health:                         566 - 1384 (+ 43.0526 per lvl)
+HealthRegenRate:                0.94 - 2.31 (+ 0.0721053 per lvl)
+MaxEnergy:                      293 - 777 (+ 25.4737 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          19.2 - 42.285 (+ 1.215 per lvl)
+BasicResistanceRating:          19.2 - 42.3 (+ 1.21579 per lvl)
 
 Alternate
-	ARC:                            1.04464
-	ARC.PerTick:                    0.261161
-	ARC.Total:                      2.08929
-	BasePower:                      58.5 / 87.75 / 117 / 146.25
+	ARC:                            1.04
+	ARC.PerTick:                    0.26
+	ARC.Total:                      2.09
+	BasePower:                      59 / 88 / 117 / 146
 	Cooldown:                       7
 	Cost:                           -80 / -100 / -120 / -140
-	Damage.PerTick:                 14.625 / 21.9375 / 29.25 / 36.5625
-	Damage.Total:                   117 / 175.5 / 234 / 292.5
+	Damage.PerTick:                 15 / 22 / 29 / 37
+	Damage.Total:                   117 / 176 / 234 / 293
 	Duration:                       4
 	Radius:                         400
 	Range:                          1300
 	TickRate:                       0.5
 Primary
-	ARC:                            0.752143
-	ARC.PerTick:                    0.107143
-	BasePower:                      35.1 / 56.16 / 77.22 / 98.28
+	ARC:                            0.19
+	ARC.PerTick:                    0.11
+	BasePower:                      35 / 56 / 77 / 98
 	Cooldown:                       1
 	Cost:                           -35 / -41 / -47 / -53
-	Damage.PerTick:                 5.85 / 8.85 / 11.85 / 14.85
+	Damage.PerTick:                 6 / 9 / 12 / 15
 	Duration:                       3
 	TickRate:                       0.5
 Secondary
@@ -52,8 +52,8 @@ Ultimate
 	Cooldown:                       1
 	Cost:                           0
 	Health.Reduction:               1
-	ManaMult:                       1 / 0.8 / 0.6
-	ManaRegen.MissingManaMult:      0.03 / 0.04 / 0.05
+	ManaMult:                       1.1 / 1 / 0.9
+	ManaRegen.MissingManaMult:      0.035
 	MaxMana.Bonus:                  0
 
 
@@ -68,7 +68,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

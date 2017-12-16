@@ -161,10 +161,10 @@
         0.33000001311302185
     ],
     "CXPAssistBountyBonus.Default": [
-        0.009999999776482582
+        0.006000000052154064
     ],
     "CXPBountyBonus.Default": [
-        0.009999999776482582
+        0.006000000052154064
     ],
     "CXPDeathstreakBonus.Default": [
         0.0,
@@ -851,7 +851,7 @@
         0.0
     ],
     "SpawnerDelay.JungleWhite": [
-        70.0,
+        90.0,
         120.0,
         0.0,
         0.0,
@@ -966,7 +966,7 @@
         600.0
     ],
     "SpawnTime.Sov.White": [
-        80.0
+        90.0
     ],
     "Structure.Debuff.DamageScalar": [
         0.25
@@ -1014,10 +1014,10 @@
         0.7200000286102295
     ],
     "TeamXP.Normal": [
-        24.0
+        6.0
     ],
     "TeamXP.Slow": [
-        5.0
+        1.0
     ],
     "TeamXP.VeryLittle": [
         0.0

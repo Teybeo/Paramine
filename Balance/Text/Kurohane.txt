@@ -1,25 +1,25 @@
 Kurohane
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 147.025 (+ 2.475 per lvl)
+AttackSpeedRating:              100 - 147 (+ 2.47368 per lvl)
 BaseAttackTime:                 0.8
 CleaveRating:                   0.05
 LeftClickARC:                   1
-LeftClickBasePower:             56.43 - 114.143 (+ 3.0375 per lvl)
+LeftClickBasePower:             56.4 - 114.1 (+ 3.03684 per lvl)
 
-EnergyRegenRate:                1.228 - 2.178 (+ 0.05 per lvl)
-Health:                         548.72 - 1734.32 (+ 62.4 per lvl)
-HealthRegenRate:                0.914533 - 2.89053 (+ 0.104 per lvl)
-MaxEnergy:                      248.4 - 533.4 (+ 15 per lvl)
+EnergyRegenRate:                1.23 - 2.18 (+ 0.05 per lvl)
+Health:                         549 - 1734 (+ 62.3684 per lvl)
+HealthRegenRate:                0.91 - 2.89 (+ 0.104211 per lvl)
+MaxEnergy:                      248 - 533 (+ 15 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          20.16 - 69.408 (+ 2.592 per lvl)
+BasicResistanceRating:          20.2 - 69.4 (+ 2.58947 per lvl)
 
 Alternate
-	ARC:                            2.08929
-	BasePower:                      128.7 / 187.2 / 245.7 / 304.2
+	ARC:                            2.09
+	BasePower:                      129 / 187 / 246 / 304
 	Cooldown:                       4
 	Cost:                           -50 / -60 / -70 / -80
 	MovementSpeed:                  -275
@@ -42,11 +42,13 @@ Secondary
 	Cost:                           0
 	HealthRegen.Magnitude:          6 / 8 / 10 / 12
 Ultimate
-	ARC:                            2.08929
-	BasePower:                      146.25 / 204.75 / 263.25
+	ARC:                            2.09
+	BasePower:                      146 / 205 / 263
 	Cooldown:                       110 / 100 / 90
 	Cost:                           -100
 	Duration:                       5 / 6 / 7
+	Slow.Duration:                  2
+	Slow.Magnitude:                 -250
 
 
 CheatDeath
@@ -62,7 +64,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

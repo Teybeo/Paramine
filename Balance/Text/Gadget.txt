@@ -5,28 +5,28 @@ AttackSpeedRating:              100
 BaseAttackTime:                 0.95
 CleaveRating:                   0
 LeftClickARC:                   1
-LeftClickBasePower:             52.92 - 91.68 (+ 2.04 per lvl)
+LeftClickBasePower:             52.9 - 91.7 (+ 2.04211 per lvl)
 
-EnergyRegenRate:                1.713 - 3.803 (+ 0.11 per lvl)
-Health:                         577.6 - 1763.2 (+ 62.4 per lvl)
-HealthRegenRate:                0.962667 - 2.93867 (+ 0.104 per lvl)
-MaxEnergy:                      393.9 - 1020.9 (+ 33 per lvl)
+EnergyRegenRate:                1.71 - 3.8 (+ 0.11 per lvl)
+Health:                         578 - 1763 (+ 62.3684 per lvl)
+HealthRegenRate:                0.96 - 2.94 (+ 0.104211 per lvl)
+MaxEnergy:                      394 - 1021 (+ 33 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          19.2 - 57.675 (+ 2.025 per lvl)
+BasicResistanceRating:          19.2 - 57.7 (+ 2.02632 per lvl)
 
 Alternate
-	ARC:                            3.13393
-	BasePower:                      128.7 / 216.45 / 304.2 / 391.95
+	ARC:                            3.13
+	BasePower:                      129 / 216 / 304 / 392
 	Cooldown:                       8
 	Cost:                           -100 / -110 / -120 / -130
 	Duration:                       3
 	Slow:                           -180 / -250 / -320 / -390
 Primary
-	ARC:                            3.55179
-	BasePower:                      140.4 / 239.85 / 339.3 / 438.75
+	ARC:                            3.55
+	BasePower:                      140 / 240 / 339 / 439
 	Cooldown:                       6
 	Cost:                           -100 / -110 / -120 / -130
 	Duration:                       2.5
@@ -42,8 +42,8 @@ Secondary
 	Movespeed.Stack.Duration:       0.2
 	Movespeed.Stack.Magnitude:      8.75 / 10 / 11.25 / 12.5
 Ultimate
-	ARC:                            6.26786
-	BasePower:                      409.5 / 585 / 760.5
+	ARC:                            6.27
+	BasePower:                      410 / 585 / 761
 	Cooldown:                       110 / 95 / 80
 	Cost:                           -150 / -225 / -300
 	Damage.TickIncrease:            0.75
@@ -63,7 +63,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

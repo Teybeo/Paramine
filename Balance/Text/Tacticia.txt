@@ -5,34 +5,34 @@ AttackSpeedRating:              100
 BaseAttackTime:                 0.95
 CleaveRating:                   0
 LeftClickARC:                   1
-LeftClickBasePower:             52.92 - 91.68 (+ 2.04 per lvl)
+LeftClickBasePower:             52.9 - 91.7 (+ 2.04211 per lvl)
 
-EnergyRegenRate:                1.435 - 3.335 (+ 0.1 per lvl)
-Health:                         600.704 - 1715.17 (+ 58.656 per lvl)
-HealthRegenRate:                0.962667 - 2.93867 (+ 0.104 per lvl)
-MaxEnergy:                      370.5 - 940.5 (+ 30 per lvl)
+EnergyRegenRate:                1.43 - 3.34 (+ 0.100526 per lvl)
+Health:                         601 - 1715 (+ 58.6316 per lvl)
+HealthRegenRate:                0.96 - 2.94 (+ 0.104211 per lvl)
+MaxEnergy:                      371 - 941 (+ 30 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          17.28 - 53.8312 (+ 1.92375 per lvl)
+BasicResistanceRating:          17.3 - 53.8 (+ 1.92105 per lvl)
 
 Alternate
-	ARC:                            3.13393
-	BasePower:                      128.7 / 216.45 / 304.2 / 391.95
+	ARC:                            3.13
+	BasePower:                      129 / 216 / 304 / 392
 	Cooldown:                       5
 	Cost:                           -100 / -110 / -120 / -130
 	Range:                          1300
 Primary
-	ARC:                            1.88036
-	BasePower:                      87.75 / 140.4 / 193.05 / 245.7
+	ARC:                            1.67
+	BasePower:                      82 / 129 / 176 / 222
 	Cooldown:                       10
 	Cost:                           -100 / -110 / -120 / -130
 	ManaRestore:                    5
 	Stun:                           1 / 1.4 / 1.8 / 2.2
 Secondary
-	ARC:                            1.25357
-	BasePower:                      70.2 / 105.3 / 140.4 / 175.5
+	ARC:                            1.25
+	BasePower:                      70 / 105 / 140 / 175
 	Cooldown:                       45
 	Cost:                           -110 / -130 / -150 / -170
 	Duration:                       20
@@ -56,7 +56,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

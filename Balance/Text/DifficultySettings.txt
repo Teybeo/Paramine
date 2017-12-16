@@ -1,50 +1,54 @@
-Bot.AdditionalTimeToSpendAtHomeBase: 20 | 15 | 10 | 5
-Bot.AvailableCardPointsModifier: 0.3 | 0.55 | 0.7 | 0.85 | 1
-Bot.CooldownModifier: 2 | 1.75 | 1.5 | 1.25 | 1
-Bot.EnemySelectionRange: 3000 | 3000 | 4000 | 5000 | 6000
-Bot.HealthPctToRunAwayMelee: 0 | 0 | 0.3 | 0.25 | 0.2
-Bot.HealthPctToRunAwayRanged: 0 | 0 | 0.2 | 0.2 | 0.15
-Bot.HealthPercentageToStartHealing: 0 | 0.8 | 0.85 | 0.9 | 0.95
-Bot.HorizontalAngleDeviation: 20 | 9 | 6 | 3
+Bot.AdditionalTimeToSpendAtHomeBase: 16 | 8
+Bot.AvailableCardPointsModifier: 0.5 | 0.75 | 1 | 1 | 1 | 1 | 1
+Bot.Buff.BasePower: 0 | 0 | 0 | 10 | 20 | 30 | 60
+Bot.Buff.Health: 0 | 0 | 0 | 0.3 | 0.6 | 1.2 | 1.8
+Bot.Buff.HealthRegen: 0 | 0 | 0 | 0.5 | 1 | 3 | 9
+Bot.Buff.ManaRegen: 0 | 0 | 0 | 0.5 | 1 | 3 | 9
+Bot.CooldownModifier: 2 | 1.5 | 1 | 1 | 1 | 1 | 1
+Bot.EnemySelectionRange: 3000 | 4000 | 5000 | 6000 | 6000 | 6000 | 6000
+Bot.HealthPctToRunAwayMelee: 0 | 0 | 0.35 | 0.35 | 0.4 | 0.4 | 0.4
+Bot.HealthPctToRunAwayRanged: 0 | 0 | 0.35 | 0.35 | 0.35 | 0.35 | 0.35
+Bot.HealthPercentageToStartHealing: 0 | 0.8 | 0.85 | 0.9 | 0.95 | 0.95 | 0.95
+Bot.HorizontalAngleDeviation: 20 | 10
 Bot.LowAbsoluteHealth: 300
-Bot.ManaPercentageToStartRegenning: 0 | 0.65 | 0.7 | 0.75 | 0.8
+Bot.ManaPercentageToStartRegenning: 0 | 0.65 | 0.7 | 0.75 | 0.8 | 0.8 | 0.8
 Bot.MaxAbilityLevel: -1
 Bot.MaxLevel: -1
-Bot.MaxManaPercentageToUseOnMinions: 0.5 | 0.45 | 0.4 | 0.35 | 0.3
-Bot.PrimaryCooldownModifier: 1.6 | 1.45 | 1.3 | 1.15 | 1
-Bot.RecommendedAbilityRangeModifier: 0.75 | 0.8 | 0.85 | 0.9 | 0.95
-Bot.StrategyObjectiveAssigningDelay: 12 | 9 | 6 | 3
-Bot.TacticallAssessmentRange: 2500
-Bot.bAllowRecallingBack: 0 | 0 | 1 | 1 | 1
-Bot.bAvoidAoEAttacks: 0 | 0 | 0 | 1 | 1
-Bot.bAvoidBeingDamagedByTowers: 0 | 1 | 1 | 1 | 1
+Bot.MaxManaPercentageToUseOnMinions: 0.6 | 0.55 | 0.5 | 0.45 | 0.4 | 0.4 | 0.4
+Bot.PrimaryCooldownModifier: 1.6 | 1.3 | 1 | 1 | 1 | 1 | 1
+Bot.RecommendedAbilityRangeModifier: 0.75 | 0.825 | 0.95 | 0.95 | 0.95 | 0.95 | 0.95
+Bot.StrategyObjectiveAssigningDelay: 12 | 6
+Bot.TacticallAssessmentRange: 2000 | 3000 | 4000 | 4000 | 4000 | 4000 | 4000
+Bot.bAllowRecallingBack: 0 | 0 | 1 | 1 | 1 | 1 | 1
+Bot.bAvoidAoEAttacks: 0 | 0 | 1 | 1 | 1 | 1 | 1
+Bot.bAvoidBeingDamagedByTowers: 0 | 1 | 1 | 1 | 1 | 1 | 1
 Bot.bCanPlaceAndUseRigs: 1
-Bot.bCanUseActiveCards: 0 | 1 | 1 | 1 | 1
-Bot.bCanUseUlt: 0 | 0 | 1 | 1 | 1
+Bot.bCanUseActiveCards: 0 | 1 | 1 | 1 | 1 | 1 | 1
+Bot.bCanUseUlt: 0 | 0 | 1 | 1 | 1 | 1 | 1
 Bot.bPlayerAsLastResortTarget: 1
 Bot.bUseMapLogic: 1
-DONTRENAMEROWHEADERS: 0
-Minion.Jungle.Boss.Damage: 0.5 | 0.62 | 0.75 | 0.87 | 1
-Minion.Jungle.Boss.Health: 0.4 | 0.55 | 0.7 | 0.85 | 1
-Minion.Jungle.Boss.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1
-Minion.Jungle.Buff.Damage: 0.5 | 0.62 | 0.75 | 0.87 | 1
-Minion.Jungle.Buff.Health: 0.4 | 0.55 | 0.7 | 0.85 | 1
-Minion.Jungle.Buff.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1
-Minion.Jungle.Henchman.Damage: 0.5 | 0.62 | 0.75 | 0.87 | 1
-Minion.Jungle.Henchman.Health: 0.4 | 0.55 | 0.7 | 0.85 | 1
-Minion.Jungle.Henchman.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1
-Minion.Lane.Melee.Damage: 0.5 | 0.62 | 0.75 | 0.87 | 1
-Minion.Lane.Melee.Health: 0.4 | 0.55 | 0.7 | 0.85 | 1
-Minion.Lane.Melee.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1
-Minion.Lane.Ranged.Damage: 0.5 | 0.62 | 0.75 | 0.87 | 1
-Minion.Lane.Ranged.Health: 0.4 | 0.55 | 0.7 | 0.85 | 1
-Minion.Lane.Ranged.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1
-Minion.Lane.Siege.Damage: 0.5 | 0.62 | 0.75 | 0.87 | 1
-Minion.Lane.Siege.Health: 0.4 | 0.55 | 0.7 | 0.85 | 1
-Minion.Lane.Siege.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1
-Minion.Lane.Super.Damage: 0.5 | 0.62 | 0.75 | 0.87 | 1
-Minion.Lane.Super.Health: 0.4 | 0.55 | 0.7 | 0.85 | 1
-Minion.Lane.Super.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1
+DONTRENAMEROWHEADERS...PVP=VETERAN!: 0
+Minion.Jungle.Boss.Damage: 0.5 | 0.75 | 1 | 1 | 1 | 1 | 1
+Minion.Jungle.Boss.Health: 0.4 | 0.75 | 1 | 1 | 1 | 1.5 | 2
+Minion.Jungle.Boss.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1 | 1 | 1
+Minion.Jungle.Buff.Damage: 0.5 | 0.75 | 1 | 1 | 1 | 1 | 1
+Minion.Jungle.Buff.Health: 0.4 | 0.7 | 1 | 1 | 1 | 1 | 1
+Minion.Jungle.Buff.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1 | 1 | 1
+Minion.Jungle.Henchman.Damage: 0.5 | 0.75 | 1 | 1 | 1 | 1 | 1
+Minion.Jungle.Henchman.Health: 0.4 | 0.75 | 1 | 1 | 1 | 1 | 1
+Minion.Jungle.Henchman.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1 | 1 | 1
+Minion.Lane.Melee.Damage: 0.5 | 0.75 | 1 | 1 | 1 | 1 | 1
+Minion.Lane.Melee.Health: 0.4 | 0.7 | 1 | 1 | 1 | 1 | 1
+Minion.Lane.Melee.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1 | 1 | 1
+Minion.Lane.Ranged.Damage: 0.5 | 0.75 | 1 | 1 | 1 | 1 | 1
+Minion.Lane.Ranged.Health: 0.4 | 0.7 | 1 | 1 | 1 | 1 | 1
+Minion.Lane.Ranged.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1 | 1 | 1
+Minion.Lane.Siege.Damage: 0.5 | 0.75 | 1 | 1 | 1 | 1 | 1
+Minion.Lane.Siege.Health: 0.4 | 0.7 | 1 | 1 | 1 | 1 | 1
+Minion.Lane.Siege.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1 | 1 | 1
+Minion.Lane.Super.Damage: 0.5 | 0.75 | 1 | 1 | 1 | 2 | 4
+Minion.Lane.Super.Health: 0.4 | 0.7 | 1 | 1 | 1 | 1.5 | 2
+Minion.Lane.Super.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1 | 1 | 1
 Objective.Core.AbilityResistanceRating: 1
 Objective.Core.AttackHeight: 1
 Objective.Core.AttackRadius: 1
@@ -52,40 +56,40 @@ Objective.Core.AttackRating: 1
 Objective.Core.AttackSpeedRating: 1
 Objective.Core.BaseAttackTime: 1
 Objective.Core.BasicResistanceRating: 1
-Objective.Core.HealthRegenRate: 1
-Objective.Core.MaxHealth: 1
+Objective.Core.HealthRegenRate: 1 | 1 | 1 | 1 | 1 | 2 | 3
+Objective.Core.MaxHealth: 1 | 1 | 1 | 1 | 1 | 3 | 4
 Objective.Core.TargetDelayTime: 1
 Objective.Core.VisionRadius: 1
 Objective.Inhib.AbilityResistanceRating: 1
 Objective.Inhib.AttackHeight: 1
 Objective.Inhib.AttackRadius: 1
-Objective.Inhib.AttackRating: 1
+Objective.Inhib.AttackRating: 1 | 1 | 1 | 1 | 1 | 2 | 3
 Objective.Inhib.AttackSpeedRating: 1
 Objective.Inhib.BaseAttackTime: 1
 Objective.Inhib.BasicResistanceRating: 1
-Objective.Inhib.HealthRegenRate: 1
-Objective.Inhib.MaxHealth: 1
+Objective.Inhib.HealthRegenRate: 1 | 1 | 1 | 1 | 1 | 2 | 3
+Objective.Inhib.MaxHealth: 1 | 1 | 1 | 1 | 1 | 2 | 3
 Objective.Inhib.TargetDelayTime: 1
 Objective.Inhib.VisionRadius: 1
 Objective.Tower.Inner.AbilityResistanceRating: 1
 Objective.Tower.Inner.AttackHeight: 1
 Objective.Tower.Inner.AttackRadius: 1
-Objective.Tower.Inner.AttackRating: 1
+Objective.Tower.Inner.AttackRating: 1 | 1 | 1 | 1 | 1 | 2 | 4
 Objective.Tower.Inner.AttackSpeedRating: 1
 Objective.Tower.Inner.BaseAttackTime: 1
 Objective.Tower.Inner.BasicResistanceRating: 1
 Objective.Tower.Inner.HealthRegenRate: 1
-Objective.Tower.Inner.MaxHealth: 1
+Objective.Tower.Inner.MaxHealth: 1 | 1 | 1 | 1 | 1 | 1.5 | 3
 Objective.Tower.Inner.TargetDelayTime: 1
 Objective.Tower.Inner.VisionRadius: 1
 Objective.Tower.Outer.AbilityResistanceRating: 1
 Objective.Tower.Outer.AttackHeight: 1
 Objective.Tower.Outer.AttackRadius: 1
-Objective.Tower.Outer.AttackRating: 1
-Objective.Tower.Outer.AttackSpeedRating: 1
-Objective.Tower.Outer.BaseAttackTime: 1
+Objective.Tower.Outer.AttackRating: 1 | 1 | 1 | 1 | 1 | 2 | 4
+Objective.Tower.Outer.AttackSpeedRating: 1 | 1 | 1 | 1 | 1 | 1 | 3
+Objective.Tower.Outer.BaseAttackTime: 1 | 1 | 1 | 1 | 1 | 1 | 3
 Objective.Tower.Outer.BasicResistanceRating: 1
 Objective.Tower.Outer.HealthRegenRate: 1
-Objective.Tower.Outer.MaxHealth: 1
+Objective.Tower.Outer.MaxHealth: 1 | 1 | 1 | 1 | 1 | 1.5 | 3
 Objective.Tower.Outer.TargetDelayTime: 1
 Objective.Tower.Outer.VisionRadius: 1

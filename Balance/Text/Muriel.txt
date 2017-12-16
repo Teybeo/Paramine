@@ -5,17 +5,17 @@ AttackSpeedRating:              100
 BaseAttackTime:                 0.95
 CleaveRating:                   0
 LeftClickARC:                   1
-LeftClickBasePower:             52.92 - 91.68 (+ 2.04 per lvl)
+LeftClickBasePower:             52.9 - 91.7 (+ 2.04211 per lvl)
 
-EnergyRegenRate:                1.765 - 3.95 (+ 0.115 per lvl)
-Health:                         560.272 - 1651.02 (+ 57.408 per lvl)
-HealthRegenRate:                0.962667 - 2.93867 (+ 0.104 per lvl)
-MaxEnergy:                      429 - 1084.5 (+ 34.5 per lvl)
+EnergyRegenRate:                1.76 - 3.95 (+ 0.115263 per lvl)
+Health:                         560 - 1651 (+ 57.4211 per lvl)
+HealthRegenRate:                0.96 - 2.94 (+ 0.104211 per lvl)
+MaxEnergy:                      429 - 1085 (+ 34.5263 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          16.32 - 49.0238 (+ 1.72125 per lvl)
+BasicResistanceRating:          16.3 - 49 (+ 1.72105 per lvl)
 
 Alternate
 	ARC:                            0
@@ -28,23 +28,23 @@ Alternate
 	Movespeed.Stack.Count:          10
 	Movespeed.Stack.Duration:       0.2
 	Movespeed.Stack.Magnitude:      15 / 17.5 / 20 / 22.5
-	Shield:                         93.6 / 140.4 / 187.2 / 234
+	Shield:                         94 / 140 / 187 / 234
 Primary
-	ARC:                            1.67143
-	BasePower:                      93.6 / 140.4 / 187.2 / 234
+	ARC:                            1.67
+	BasePower:                      94 / 140 / 187 / 234
 	Cooldown:                       6
 	Cost:                           -75 / -85 / -95 / -105
 	Duration:                       3
 	Range:                          1800
 	Slow:                           -200 / -250 / -300 / -350
 Secondary
-	ARC:                            1.25357
-	BasePower:                      70.2 / 105.3 / 140.4 / 175.5
+	ARC:                            1.25
+	BasePower:                      70 / 105 / 140 / 175
 	Cooldown:                       10
 	Cost:                           -100 / -115 / -130 / -145
 	DelayDuration:                  1.05
 	Range:                          1600
-	Shield:                         204.75 / 310.05 / 415.35 / 520.65
+	Shield:                         205 / 310 / 415 / 521
 	Shield.Duration:                2.5
 	ShieldDuration:                 2
 Ultimate
@@ -52,7 +52,7 @@ Ultimate
 	BasePower:                      0
 	Cooldown:                       130 / 120 / 110
 	Cost:                           -150 / -225 / -300
-	Shield:                         409.5 / 702 / 994.5
+	Shield:                         410 / 702 / 995
 	Shield.Duration:                3
 	Slow.Duration:                  2
 	Slow.Magnitude:                 -400
@@ -70,7 +70,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

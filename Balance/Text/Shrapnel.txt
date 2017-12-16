@@ -5,21 +5,21 @@ AttackSpeedRating:              100 - 151.3 (+ 2.7 per lvl)
 BaseAttackTime:                 0.85
 CleaveRating:                   0
 LeftClickARC:                   1
-LeftClickBasePower:             56.16 - 134.535 (+ 4.125 per lvl)
+LeftClickBasePower:             56.2 - 134.5 (+ 4.12105 per lvl)
 
-EnergyRegenRate:                1.288 - 2.808 (+ 0.08 per lvl)
-Health:                         639.403 - 1910.96 (+ 66.924 per lvl)
-HealthRegenRate:                1.06567 - 3.18493 (+ 0.11154 per lvl)
-MaxEnergy:                      356.4 - 812.4 (+ 24 per lvl)
+EnergyRegenRate:                1.29 - 2.81 (+ 0.08 per lvl)
+Health:                         639 - 1911 (+ 66.9474 per lvl)
+HealthRegenRate:                1.07 - 3.18 (+ 0.111053 per lvl)
+MaxEnergy:                      356 - 812 (+ 24 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          18.144 - 60.21 (+ 2.214 per lvl)
+BasicResistanceRating:          18.1 - 60.2 (+ 2.21579 per lvl)
 
 Alternate
-	ARC:                            1.04464
-	BasePower:                      54.99 / 84.24 / 113.49 / 142.74
+	ARC:                            1.04
+	BasePower:                      55 / 84 / 113 / 143
 	Cooldown:                       6
 	Cost:                           -75 / -90 / -105 / -120
 	Range:                          1800
@@ -34,20 +34,20 @@ Primary
 	Radius:                         375 / 425 / 475 / 525
 	Range:                          1300
 Secondary
-	ARC:                            1.5 / 1.66071 / 1.82143 / 1.98214
+	ARC:                            1.5 / 1.66 / 1.82 / 1.98
 	BasePower:                      50 / 106 / 168 / 236
 	BuffDuration:                   10
 	Cooldown:                       12
 	Cost:                           -55
 	Damage.Delay:                   2
 	Shots.Count:                    3 / 4 / 5 / 6
-	TOOLTIP.ARC:                    1.82143 / 1.98214 / 2.14286 / 2.30357
+	TOOLTIP.ARC:                    1.82 / 1.98 / 2.14 / 2.3
 	TOOLTIP.Damage:                 168 / 236 / 310 / 390
 Ultimate
-	ARC:                            2.50714
+	ARC:                            2.51
 	ArmorShred.Duration:            8
 	ArmorShred.Magnitude:           -15 / -30 / -45
-	BasePower:                      140.4 / 210.6 / 280.8
+	BasePower:                      140 / 211 / 281
 	Cooldown:                       90 / 60 / 30
 	Cost:                           -100 / -125 / -150
 
@@ -63,7 +63,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

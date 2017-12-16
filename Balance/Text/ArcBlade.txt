@@ -1,21 +1,21 @@
 ArcBlade
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 121.375 (+ 1.125 per lvl)
+AttackSpeedRating:              100 - 121.4 (+ 1.12632 per lvl)
 BaseAttackTime:                 0.85
 CleaveRating:                   0.1
 LeftClickARC:                   1
-LeftClickBasePower:             59.4 - 136.35 (+ 4.05 per lvl)
+LeftClickBasePower:             59.4 - 136.4 (+ 4.05263 per lvl)
 
 EnergyRegenRate:                1.32 - 2.27 (+ 0.05 per lvl)
-Health:                         651.605 - 1985.41 (+ 70.2 per lvl)
-HealthRegenRate:                1.14317 - 3.61317 (+ 0.13 per lvl)
+Health:                         652 - 1985 (+ 70.1579 per lvl)
+HealthRegenRate:                1.14 - 3.61 (+ 0.13 per lvl)
 MaxEnergy:                      276 - 561 (+ 15 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          25.2 - 86.76 (+ 3.24 per lvl)
+BasicResistanceRating:          25.2 - 86.8 (+ 3.24211 per lvl)
 
 Alternate
 	ARC:                            0
@@ -33,15 +33,15 @@ Primary
 	DamageBonus:                    0.45 / 0.7 / 0.95 / 1.2
 	Distance:                       800
 Secondary
-	ARC:                            2.08929
-	BasePower:                      117 / 175.5 / 234 / 292.5
+	ARC:                            2.09
+	BasePower:                      117 / 176 / 234 / 293
 	Cooldown:                       12
 	Cost:                           -80 / -90 / -100 / -110
 	Duration:                       2
 	Slow:                           -175
 Ultimate
-	ARC:                            3.55179
-	BasePower:                      263.25 / 362.7 / 462.15
+	ARC:                            3.55
+	BasePower:                      263 / 363 / 462
 	Cooldown:                       90 / 70 / 50
 	Cost:                           -70 / -105 / -140
 
@@ -57,7 +57,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25

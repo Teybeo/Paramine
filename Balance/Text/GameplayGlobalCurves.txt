@@ -1,7 +1,7 @@
 AttackTime.Max: 3
 AttackTime.Min: 0.25
-CXPAssistBountyBonus.Default: 0.01
-CXPBountyBonus.Default: 0.01
+CXPAssistBountyBonus.Default: 0.006
+CXPBountyBonus.Default: 0.006
 CXPDeathstreakBonus.Default: 0 | -68 | -85 | -85 | -102
 CXPKillstreakBonus.Default: 0 | 0 | 122 | 122 | 122 | 122 | 122 | 122 | 122 | 122
 CXPScalar.Astrolabe.5v5: 1.75
@@ -169,11 +169,11 @@ SpawnTime.Sov.HighYield: 120
 SpawnTime.Sov.Lane: 55
 SpawnTime.Sov.Mid: 150
 SpawnTime.Sov.OrbPrime: 600
-SpawnTime.Sov.White: 80
+SpawnTime.Sov.White: 90
 SpawnerDelay.JungleBlack: 240
 SpawnerDelay.JungleBlue: 150 | 360
 SpawnerDelay.JungleRed: 150 | 360
-SpawnerDelay.JungleWhite: 70 | 120
+SpawnerDelay.JungleWhite: 90 | 120
 SpawnerDelay.Lane: 30
 SpawnerDelay.PrimeHelix: 600 | 360
 Structure.Debuff.DamageScalar: 0.25
@@ -191,8 +191,8 @@ TeamXP.DripValue: 4.1
 TeamXP.Fast: 0.5
 TeamXP.Large: 13.6
 TeamXP.Little: 0.72
-TeamXP.Normal: 24
-TeamXP.Slow: 5
+TeamXP.Normal: 6
+TeamXP.Slow: 1
 TeamXP.VeryLittle: 0
 TeamXP.VerySlow: 0
 Temp.DamageRamp10: 1.1 | 1.2 | 1.3 | 1.4 | 1.5 | 1.6

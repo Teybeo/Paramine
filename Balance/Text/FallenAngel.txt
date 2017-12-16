@@ -1,25 +1,25 @@
 FallenAngel
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 142.75 (+ 2.25 per lvl)
+AttackSpeedRating:              100 - 142.8 (+ 2.25263 per lvl)
 BaseAttackTime:                 0.85
 CleaveRating:                   0.1
 LeftClickARC:                   1
-LeftClickBasePower:             59.4 - 136.35 (+ 4.05 per lvl)
+LeftClickBasePower:             59.4 - 136.4 (+ 4.05263 per lvl)
 
 EnergyRegenRate:                1.32 - 2.27 (+ 0.05 per lvl)
-Health:                         685.9 - 2093.8 (+ 74.1 per lvl)
-HealthRegenRate:                1.14317 - 3.61317 (+ 0.13 per lvl)
+Health:                         686 - 2094 (+ 74.1053 per lvl)
+HealthRegenRate:                1.14 - 3.61 (+ 0.13 per lvl)
 MaxEnergy:                      276 - 561 (+ 15 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          25.2 - 86.76 (+ 3.24 per lvl)
+BasicResistanceRating:          25.2 - 86.8 (+ 3.24211 per lvl)
 
 Alternate
-	ARC:                            1.88036
-	BasePower:                      87.75 / 140.4 / 193.05 / 245.7
+	ARC:                            1.88
+	BasePower:                      88 / 140 / 193 / 246
 	Cooldown:                       8
 	Cost:                           -75
 	Slow:                           -125
@@ -35,8 +35,8 @@ Primary
 	SearchRadius:                   400
 	SlashDelayDuration:             0.2
 Secondary
-	ARC:                            1.88036
-	BasePower:                      87.75 / 140.4 / 193.05 / 245.7
+	ARC:                            1.88
+	BasePower:                      88 / 140 / 193 / 246
 	Cooldown:                       12
 	Cost:                           -65
 	DamageRadius:                   250
@@ -70,7 +70,7 @@ Utility
 	Cooldown:                       1
 	Cost:                           0
 
-CXPBounty:                      455
+CXPBounty:                      550
 CXPSpawnTime:                   1.5
 CriticalDamageBonus:            1
 CriticallyWoundedThresholdPCT:  0.25
