@@ -42,10 +42,11 @@ Secondary
 	ARC:                            0
 	Air.GravityModifier:            0.75
 	BasePower:                      0
-	Cooldown:                       5
+	Cooldown:                       1
 	Cost:                           0
-	Gold.Bonus.Chance:              0.1 / 0.15 / 0.2 / 0.25
-	Gold.Bonus.Magnitude:           100
+	Gold.Bonus.Chance:              0.25
+	Gold.Bonus.Magnitude:           40 / 60 / 80 / 100
+	Heal.Bonus.Magnitude:           40 / 60 / 80 / 100
 	Stone.CleaveRating:             0.4
 Ultimate
 	ARC:                            0
