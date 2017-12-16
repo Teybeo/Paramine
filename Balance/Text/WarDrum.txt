@@ -1,0 +1,70 @@
+WarDrum
+
+AttackRating:                   0
+AttackSpeedRating:              100
+BaseAttackTime:                 1.5
+CleaveRating:                   0.2
+LeftClickARC:                   0.3
+LeftClickBasePower:             70 - 108 (+ 2 per lvl)
+
+EnergyRegenRate:                1.3 - 6.43 (+ 0.27 per lvl)
+Health:                         500 - 1780.6 (+ 67.4 per lvl)
+HealthRegenRate:                1.25 - 5.05 (+ 0.2 per lvl)
+MaxEnergy:                      280 - 1572 (+ 68 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+BasicPenetrationRating:         0
+BasicResistanceRating:          8 - 27 (+ 1 per lvl)
+
+Alternate
+	ARC:                            1
+	BasePower:                      85 / 130 / 175 / 220
+	Cooldown:                       14
+	Cost:                           -90 / -105 / -120 / -135
+	Stun:                           0.9 / 1.1 / 1.3 / 1.5
+Primary
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       24 / 20 / 16 / 12
+	Cost:                           -75
+	MovementSpeed:                  65 / 90 / 115 / 140
+	SpeedBoostDuration:             2
+Secondary
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       2
+	Cost:                           -11 / -22 / -33 / -44
+	HealthRegen:                    10 / 20 / 30 / 40
+Ultimate
+	ARC:                            1.2
+	BasePower:                      280 / 390 / 500
+	Cooldown:                       100 / 85 / 70
+	Cost:                           -100 / -125 / -150
+	Duration:                       3
+	Slow:                           -500
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      675
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1.5
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       15
+MaxMoveSpeed:                   720
+VisionRadius:                   5000
+XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
+XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+

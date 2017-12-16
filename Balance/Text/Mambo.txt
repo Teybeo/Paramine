@@ -1,0 +1,78 @@
+Mambo
+
+AttackRating:                   0
+AttackSpeedRating:              100
+BaseAttackTime:                 1.2
+CleaveRating:                   0
+LeftClickARC:                   0.3
+LeftClickBasePower:             56.71 - 89.542 (+ 1.728 per lvl)
+
+EnergyRegenRate:                1.404 - 6.8931 (+ 0.2889 per lvl)
+Health:                         520 - 1839.02 (+ 69.422 per lvl)
+HealthRegenRate:                1.3625 - 5.4665 (+ 0.216 per lvl)
+MaxEnergy:                      280 - 1572 (+ 68 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        21.4 - 36.79 (+ 0.81 per lvl)
+BasicPenetrationRating:         0
+BasicResistanceRating:          8.72 - 29.05 (+ 1.07 per lvl)
+
+Alternate
+	ARC:                            1
+	BasePower:                      75 / 125 / 175 / 225
+	Cooldown:                       5
+	Cost:                           -75 / -85 / -95 / -105
+	Range:                          1100
+Primary
+	ARC:                            0.12
+	BasePower:                      20 / 32 / 44 / 56
+	Cooldown:                       15
+	Cost:                           -80 / -90 / -100 / -110
+	Duration.DoT:                   8
+	Mark.Bonus.Duration:            12
+	Radius:                         500
+	Range:                          1100
+	Slow.Duration:                  1.5
+	Slow.Magnitude:                 -81.75
+	TickRate.DoT:                   2
+Secondary
+	ARC:                            0.2675
+	BasePower:                      43.2 / 59.7 / 76.2 / 92.7
+	Cooldown:                       15
+	Cost:                           -100 / -120 / -140 / -160
+	Duration:                       2.5 / 3 / 3.5 / 4
+	Movespeed.Max:                  150
+	Movespeed.Stacks.Max:           10
+	Regen.Duration:                 4
+	Regen.Magnitude:                6.48 / 13.08 / 19.68 / 26.28
+	Regen.Stacks.Max:               5
+Ultimate
+	ARC:                            0.981
+	BasePower:                      192.6 / 279.8 / 367
+	Cooldown:                       90 / 80 / 70
+	Cost:                           -100
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      675
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1.5
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       15
+MaxMoveSpeed:                   720
+VisionRadius:                   5000
+XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
+XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+

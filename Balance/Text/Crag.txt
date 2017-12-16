@@ -1,0 +1,64 @@
+Crag
+
+AttackRating:                   0
+AttackSpeedRating:              100 - 126.6 (+ 1.4 per lvl)
+BaseAttackTime:                 1.35
+CleaveRating:                   0.2
+LeftClickARC:                   0.7
+LeftClickBasePower:             64.5 - 93 (+ 1.5 per lvl)
+
+EnergyRegenRate:                0.8 - 3.536 (+ 0.144 per lvl)
+Health:                         585 - 2086 (+ 79 per lvl)
+HealthRegenRate:                1.17 - 4.172 (+ 0.158 per lvl)
+MaxEnergy:                      200 - 884 (+ 36 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+BasicPenetrationRating:         0
+BasicResistanceRating:          14 - 37.75 (+ 1.25 per lvl)
+
+Alternate
+	ARC:                            0.5
+	BasePower:                      80 / 160 / 240 / 320
+	Cooldown:                       12 / 11 / 10 / 9
+	Cost:                           -36.9 / -38.85 / -40.8 / -42.75
+Primary
+	ARC:                            0.5
+	BasePower:                      80 / 160 / 240 / 320
+	Cooldown:                       12 / 11 / 10 / 9
+	Cost:                           -36.9 / -38.85 / -40.8 / -42.75
+Secondary
+	ARC:                            0.5
+	BasePower:                      100 / 200 / 300 / 400
+	Cooldown:                       17 / 16 / 15 / 14
+	Cost:                           -40.5 / -42.775 / -45.05 / -47.325
+Ultimate
+	ARC:                            1.5
+	BasePower:                      400 / 500 / 600
+	Cooldown:                       100 / 90 / 80
+	Cost:                           -100
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      675
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1.5
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       15
+MaxMoveSpeed:                   720
+VisionRadius:                   5000
+XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
+XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+

@@ -1,0 +1,72 @@
+Sparrow
+
+AttackRating:                   0
+AttackSpeedRating:              100 - 153.2 (+ 2.8 per lvl)
+BaseAttackTime:                 1.2
+CleaveRating:                   0
+LeftClickARC:                   1
+LeftClickBasePower:             50 - 69 (+ 1 per lvl)
+
+EnergyRegenRate:                0.8 - 3.08 (+ 0.12 per lvl)
+Health:                         475 - 1691.57 (+ 64.03 per lvl)
+HealthRegenRate:                1.25 - 5.05 (+ 0.2 per lvl)
+MaxEnergy:                      225 - 1137 (+ 48 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+BasicPenetrationRating:         0
+BasicResistanceRating:          18 - 56 (+ 2 per lvl)
+
+Alternate
+	ARC:                            0.75
+	BasePower:                      75 / 125 / 175 / 225
+	Cooldown:                       9
+	Cost:                           -80 / -90 / -100 / -110
+	MaxChargeDuration:              1.2
+	Range:                          2500
+	StacksDuration:                 3
+	StacksMax:                      5
+Primary
+	ARC:                            0.25
+	BasePower:                      40 / 80 / 120 / 160
+	Cooldown:                       12
+	Cost:                           -90 / -105 / -120 / -135
+	DamageDuration:                 4
+Secondary
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       1
+	Cost:                           0
+	PercentBonusDamage:             0.03 / 0.05 / 0.07 / 0.09
+Ultimate
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       100 / 85 / 70
+	Cost:                           -50
+	DamageSplit:                    0.5 / 0.7 / 0.9
+	Duration:                       7
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      675
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1.5
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       15
+MaxMoveSpeed:                   720
+VisionRadius:                   5000
+XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
+XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+

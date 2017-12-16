@@ -1,0 +1,75 @@
+Sword
+
+AttackRating:                   0
+AttackSpeedRating:              100 - 111.438 (+ 0.602 per lvl)
+BaseAttackTime:                 1.2
+CleaveRating:                   0.2
+LeftClickARC:                   0.7
+LeftClickBasePower:             58 - 77 (+ 1 per lvl)
+
+EnergyRegenRate:                0.7 - 2.41 (+ 0.09 per lvl)
+Health:                         550 - 1959.8 (+ 74.2 per lvl)
+HealthRegenRate:                2 - 7.7 (+ 0.3 per lvl)
+MaxEnergy:                      200 - 884 (+ 36 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+BasicPenetrationRating:         0
+BasicResistanceRating:          14 - 37.75 (+ 1.25 per lvl)
+
+Alternate
+	ARC:                            0.4
+	BasePower:                      75 / 120 / 165 / 210
+	Cooldown:                       18 / 15 / 12 / 9
+	Cost:                           -55 / -60 / -65 / -70
+Primary
+	ARC:                            0.75
+	BasePower:                      100 / 160 / 220 / 280
+	Cooldown:                       12
+	Cost:                           -60 / -65 / -70 / -75
+	Duration:                       5
+Secondary
+	ARC:                            0
+	Armor.Energy:                   0
+	Armor.Physical:                 4 / 8 / 12 / 16
+	BasePower:                      0
+	Cooldown:                       1
+	Cost:                           0
+	Health:                         70 / 140 / 210 / 280
+Ultimate
+	ARC:                            0.5
+	BasePower:                      180 / 260 / 340
+	Cooldown:                       180 / 130 / 80
+	Cost:                           0
+	Duration:                       3
+	Health:                         0.5 / 0.6 / 0.7
+	MaxRadiusSlow:                  -125
+	MinRadiusSlow:                  -550
+	RadiusDamage:                   900
+	RadiusSlow:                     900
+	SlowDuration:                   3.4
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      675
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1.5
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       15
+MaxMoveSpeed:                   720
+VisionRadius:                   5000
+XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
+XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+

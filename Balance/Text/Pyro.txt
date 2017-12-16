@@ -1,0 +1,93 @@
+Pyro
+
+AttackRating:                   0
+AttackSpeedRating:              100
+BaseAttackTime:                 1.2
+CleaveRating:                   0.1
+LeftClickARC:                   0.3
+LeftClickBasePower:             53 - 83.4 (+ 1.6 per lvl)
+
+EnergyRegenRate:                1.3 - 6.43 (+ 0.27 per lvl)
+Health:                         500 - 1780.6 (+ 67.4 per lvl)
+HealthRegenRate:                1.25 - 5.05 (+ 0.2 per lvl)
+MaxEnergy:                      280 - 1572 (+ 68 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+BasicPenetrationRating:         0
+BasicResistanceRating:          8 - 27 (+ 1 per lvl)
+
+Alternate
+	ARC:                            0
+	Alternate.Ability.MovementSpeed: 100
+	BasePower:                      0
+	Cooldown:                       8
+	Cost:                           -45
+	Duration:                       2 / 2.66666 / 3.33332 / 3.99998
+	Proto.Buff.Duration:            4
+	Proto.Movespeed:                100 / 120 / 140 / 160
+Primary
+	ARC:                            2.5
+	BasePower:                      300 / 450 / 600 / 750
+	Cooldown:                       12
+	Cost:                           -65 / -75 / -85 / -95
+	Duration:                       10
+	Proto.Turret.AttackTime:        1.1
+	Proto.Turret.Count:             4 / 5 / 6 / 7
+	Proto.Turret.Damage.Primary:    28 / 42 / 56 / 70
+	Proto.Turret.Damage.Primary.ARC: 0.1 / 0.2 / 0.3 / 0.4
+	Proto.Turret.Damage.Splash:     8
+	Proto.Turret.Damage.Splash.ARC: 0.07
+	Proto.Turret.Duration:          36
+	Proto.Turret.Radius.Splash:     200
+	Proto.Turret.Range.Attack:      1400
+	TurretQty:                      1 / 2 / 2 / 3
+Secondary
+	ARC:                            1.0625
+	BasePower:                      80 / 135 / 190 / 245
+	Cooldown:                       26
+	Cost:                           -150 / -175 / -200 / -225
+	Proto.Oil.Active.ARCPerTick:    0.04
+	Proto.Oil.Active.BaseDamagePerTick: 12 / 18 / 24 / 30
+	Proto.Oil.Active.Duration:      6
+	Proto.Oil.Active.TickRate:      0.3
+	Proto.Oil.Inactive.Duration:    24
+Ultimate
+	ARC:                            1.5625
+	BasePower:                      325 / 450 / 575
+	Cooldown:                       100 / 88 / 76
+	Cost:                           -100
+	Duration:                       2.5
+	Proto.Duration:                 4 / 5 / 6
+	Proto.Slow.Magnitude:           -120
+	Proto.Turret.CDR:               3 / 4.8 / 6
+	Proto.Turret.Damage.ARC:        0.0181818 / 0.0363636 / 0.0545455
+	Proto.Turret.DoT.Damage:        5.09091 / 7.63636 / 10.1818
+	Proto.Turret.DoT.Interval:      0.2
+
+
+Charge
+	Cooldown:                       20
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      675
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1.5
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       15
+MaxMoveSpeed:                   720
+VisionRadius:                   5000
+XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
+XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+

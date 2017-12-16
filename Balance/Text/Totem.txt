@@ -1,0 +1,69 @@
+Totem
+
+AttackRating:                   0
+AttackSpeedRating:              100
+BaseAttackTime:                 1.2
+CleaveRating:                   0
+LeftClickARC:                   0.3
+LeftClickBasePower:             48 - 78.4 (+ 1.6 per lvl)
+
+EnergyRegenRate:                1.3 - 6.43 (+ 0.27 per lvl)
+Health:                         500 - 1780.6 (+ 67.4 per lvl)
+HealthRegenRate:                1.25 - 5.05 (+ 0.2 per lvl)
+MaxEnergy:                      280 - 1572 (+ 68 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+BasicPenetrationRating:         0
+BasicResistanceRating:          8 - 27 (+ 1 per lvl)
+
+Alternate
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       16 / 14 / 12 / 10
+	Cost:                           -50
+	Slow:                           -125 / -185 / -245 / -305
+Primary
+	ARC:                            0.625
+	BasePower:                      75 / 120 / 165 / 210
+	Cooldown:                       14
+	Cost:                           -90 / -105 / -120 / -135
+	Stun:                           0.7 / 1.1 / 1.5 / 1.9
+	StunRadius:                     180
+Secondary
+	ARC:                            0.5
+	BasePower:                      25 / 43.75 / 62.5 / 81.25
+	Cooldown:                       18 / 16 / 14 / 12
+	Cost:                           -80 / -90 / -100 / -110
+	Duration:                       3
+Ultimate
+	ARC:                            1
+	BasePower:                      45 / 75 / 105
+	Cooldown:                       170 / 130 / 90
+	Cost:                           -140 / -180 / -220
+	Duration:                       3 / 4 / 5
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      675
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1.5
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       15
+MaxMoveSpeed:                   720
+VisionRadius:                   5000
+XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
+XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+

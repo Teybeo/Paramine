@@ -1,0 +1,21 @@
+TacticiaPlaced
+
+
+Health:                         4
+HealthRegenRate:                0
+
+
+
+
+other
+	Reward.NumberOfCoins:           1
+
+CXPBounty:                      120
+CXPSpawnTime:                   0.35
+CriticallyWoundedThresholdPCT:  0
+GainXPFromKills:                0
+MaxLevel:                       0
+VisionRadius:                   0
+XPBounty:                       0
+XPToLevel:                      0
+

@@ -1,0 +1,53 @@
+Minion_Ranged
+
+AttackRating:                   30 - 44 (+ 0.736842 per lvl)
+AttackSpeedRating:              100
+BaseAttackTime:                 1
+
+EnergyRegenRate:                0
+Health:                         340 - 389 (+ 2.57895 per lvl)
+HealthRegenRate:                0
+MaxEnergy:                      0
+
+
+Alternate
+	Cooldown:                       0
+Primary
+	Cooldown:                       1
+Secondary
+	Cooldown:                       0
+Ultimate
+	Cooldown:                       0
+
+
+Jump
+	Cooldown:                       0
+Utility
+	Cooldown:                       0
+other
+	Aggro.AcquisitionRange:         1100
+	BasePower.CoreBonusDamage:      1
+	BasePower.CoreResist:           0
+	BasePower.HeroBonusDamage:      0.75
+	BasePower.HeroResist:           0
+	BasePower.InhibBonusDamage:     1
+	BasePower.InhibResist:          0
+	BasePower.MinionBonusDamage:    1.5
+	BasePower.MinionResist:         0
+	BasePower.TowerBonusDamage:     1
+	BasePower.TowerResist:          0
+	EngagementDistance.Heroes:      1500
+	EngagementDistance.Minions:     1500
+	EngagementDistance.Objectives:  1500
+	Reward.NumberOfCoins:           3
+
+CXPBounty:                      140
+CXPSpawnTime:                   0.3
+CriticallyWoundedThresholdPCT:  0
+GainXPFromKills:                0
+MaxLevel:                       15
+MaxMoveSpeed:                   780
+VisionRadius:                   2000
+XPBounty:                       24
+XPToLevel:                      1
+

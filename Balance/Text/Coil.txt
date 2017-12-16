@@ -1,0 +1,67 @@
+Coil
+
+AttackRating:                   0
+AttackSpeedRating:              100 - 153.2 (+ 2.8 per lvl)
+BaseAttackTime:                 1.2
+CleaveRating:                   0
+LeftClickARC:                   0.92
+LeftClickBasePower:             55 - 85.4 (+ 1.6 per lvl)
+
+EnergyRegenRate:                0.8 - 3.08 (+ 0.12 per lvl)
+Health:                         475 - 1691.57 (+ 64.03 per lvl)
+HealthRegenRate:                1.25 - 5.05 (+ 0.2 per lvl)
+MaxEnergy:                      180 - 818.4 (+ 33.6 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+BasicPenetrationRating:         0
+BasicResistanceRating:          18 - 56 (+ 2 per lvl)
+
+Alternate
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       16 / 14 / 12 / 10
+	Cost:                           -25
+	Mana:                           0.25 / 0.4 / 0.55 / 0.7
+	ShieldDuration:                 1
+Primary
+	ARC:                            0.5
+	BasePower:                      75 / 120 / 165 / 210
+	Cooldown:                       21 / 17 / 13 / 9
+	Cost:                           -75 / -90 / -105 / -120
+	MovementSpeed.Ability.Basic.Primary: -80 / -135 / -190 / -245
+Secondary
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       1
+	Cost:                           -12 / -18 / -24 / -30
+Ultimate
+	ARC:                            1.1
+	BasePower:                      210 / 285 / 360
+	Cooldown:                       100 / 85 / 70
+	Cost:                           -85 / -105 / -125
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      675
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1.5
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       15
+MaxMoveSpeed:                   720
+VisionRadius:                   5000
+XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
+XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+

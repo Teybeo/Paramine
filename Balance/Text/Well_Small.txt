@@ -1,0 +1,13 @@
+Well_Small
+
+
+
+
+
+
+
+GainXPFromKills:                0
+MaxLevel:                       15
+XPBounty:                       72
+XPToLevel:                      1
+

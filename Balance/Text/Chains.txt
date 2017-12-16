@@ -1,0 +1,70 @@
+Chains
+
+AttackRating:                   0
+AttackSpeedRating:              100 - 126.6 (+ 1.4 per lvl)
+BaseAttackTime:                 1.35
+CleaveRating:                   0.2
+LeftClickARC:                   0.5495
+LeftClickBasePower:             64.5 - 93 (+ 1.5 per lvl)
+
+EnergyRegenRate:                0.7 - 2.41 (+ 0.09 per lvl)
+Health:                         585 - 2086 (+ 79 per lvl)
+HealthRegenRate:                2 - 7.7 (+ 0.3 per lvl)
+MaxEnergy:                      200 - 1055 (+ 45 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+BasicPenetrationRating:         0
+BasicResistanceRating:          14 - 37.75 (+ 1.25 per lvl)
+
+Alternate
+	ARC:                            0.75
+	BasePower:                      75 / 125 / 175 / 225
+	Cooldown:                       14
+	Cost:                           -110
+	Range:                          1525
+Primary
+	ARC:                            0.25
+	BasePower:                      30 / 45 / 60 / 75
+	Cooldown:                       21 / 18 / 15 / 12
+	Cost:                           -25
+	MovementSpeed:                  -125 / -175 / -225 / -275
+	Silence:                        1.25 / 1.5 / 1.75 / 2
+	Slow:                           1.25 / 1.5 / 1.75 / 2
+Secondary
+	ARC:                            0.75
+	BasePower:                      100 / 160 / 220 / 280
+	Cooldown:                       12
+	Cost:                           -55
+	Duration:                       5
+Ultimate
+	ARC:                            0.75
+	BasePower:                      200 / 280 / 360
+	Cooldown:                       105 / 90 / 75
+	Cost:                           -75
+	Stun:                           1.5
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      675
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1.5
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       15
+MaxMoveSpeed:                   720
+VisionRadius:                   5000
+XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
+XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+

@@ -1,0 +1,22 @@
+CardShopPlaced
+
+
+Health:                         3
+HealthRegenRate:                0
+
+
+
+
+other
+	Deploy.DeployTime:              10
+	Reward.NumberOfCoins:           1
+
+CXPBounty:                      3
+CXPSpawnTime:                   3
+CriticallyWoundedThresholdPCT:  0
+GainXPFromKills:                0
+MaxLevel:                       0
+VisionRadius:                   0
+XPBounty:                       0
+XPToLevel:                      0
+

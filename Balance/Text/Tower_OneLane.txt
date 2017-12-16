@@ -1,0 +1,27 @@
+Tower_OneLane
+
+AttackRating:                   70 - 260 (+ 10 per lvl)
+AttackSpeedRating:              100
+BaseAttackTime:                 0.5
+
+Health:                         2000
+HealthRegenRate:                0
+
+AbilityResistanceRating:        300
+BasicResistanceRating:          165
+
+
+
+other
+	Reward.NumberOfCoins:           50
+	Reward.TeamCardPoints:          100
+
+CXPBounty:                      0
+CXPSpawnTime:                   1.5
+CriticallyWoundedThresholdPCT:  0
+GainXPFromKills:                0
+MaxLevel:                       15
+VisionRadius:                   2000
+XPBounty:                       52
+XPToLevel:                      1
+

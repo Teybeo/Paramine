@@ -1,0 +1,1034 @@
+{
+    "CardPoints": [
+        3.0,
+        6.0,
+        9.0,
+        12.0,
+        15.0,
+        18.0,
+        21.0,
+        24.0,
+        27.0,
+        30.0,
+        33.0,
+        36.0,
+        39.0,
+        42.0,
+        45.0,
+        48.0,
+        51.0,
+        54.0,
+        57.0,
+        60.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "CardXP.Bounty.BaseNumCoins": [
+        67.0
+    ],
+    "CardXP.Bounty.DeathStreak": [
+        0.9300000071525574,
+        0.8700000047683716,
+        0.8199999928474426,
+        0.7599999904632568,
+        0.7099999785423279,
+        0.6700000166893005,
+        0.6200000047683716,
+        0.6200000047683716,
+        0.6200000047683716,
+        0.6200000047683716,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "CardXP.Bounty.KillStreak": [
+        1.0,
+        1.0,
+        1.100000023841858,
+        1.2100000381469727,
+        1.3300000429153442,
+        1.4600000381469727,
+        1.6100000143051147,
+        1.7699999809265137,
+        1.9500000476837158,
+        2.140000104904175,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "CardXP.LastHit.Multiplier": [
+        5.5
+    ],
+    "Casttime.MoveWhileCast.Travel": [
+        3.0
+    ],
+    "Casttime.Recall": [
+        8.0
+    ],
+    "Casttime.RecallWithPrimeHelix": [
+        4.0
+    ],
+    "Casttime.Sprint": [
+        2.0
+    ],
+    "Casttime.StopWhileCast.Travel": [
+        2.0
+    ],
+    "Coin.LifeSpan": [
+        60.0
+    ],
+    "CXPSplit.Default": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.20000000298023224,
+        0.15000000596046448,
+        0.11999999731779099,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Deck.MaxCardCount": [
+        40.0
+    ],
+    "FogWall.FadeOutDelay": [
+        0.75
+    ],
+    "Fountain.Health.FlatRegen": [
+        28.0
+    ],
+    "Fountain.Health.PercentRegen": [
+        0.10999999940395355
+    ],
+    "Fountain.Mana.FlatRegen": [
+        15.0
+    ],
+    "Fountain.Mana.PercentRegen": [
+        0.07999999821186066
+    ],
+    "GameMode.MOBA.1v1.HeroStartingCardLevel": [
+        1.0
+    ],
+    "GameMode.MOBA.1v1.HeroStartingLevel": [
+        1.0
+    ],
+    "GameMode.MOBA.1v1.Tutorial.HeroStartingCardLevel": [
+        1.0
+    ],
+    "GameMode.MOBA.1v1.Tutorial.HeroStartingLevel": [
+        1.0
+    ],
+    "GameMode.MOBA.1v1.Tutorial.InitialSpawnerDelay.Lane": [
+        0.0
+    ],
+    "GameMode.MOBA.1v1.Tutorial.SpawnerDelay.Lane": [
+        30.0
+    ],
+    "GameMode.MOBA.2v2.HeroStartingCardLevel": [
+        1.0
+    ],
+    "GameMode.MOBA.2v2.HeroStartingLevel": [
+        1.0
+    ],
+    "GameMode.MOBA.3v3.HeroStartingCardLevel": [
+        4.0
+    ],
+    "GameMode.MOBA.3v3.HeroStartingLevel": [
+        3.0
+    ],
+    "GameMode.MOBA.3v3.InitialSpawnerDelay.Lane": [
+        30.0
+    ],
+    "GameMode.MOBA.3v3.SpawnerDelay.Lane": [
+        30.0
+    ],
+    "GameMode.MOBA.5v5.HeroStartingCardLevel": [
+        1.0
+    ],
+    "GameMode.MOBA.5v5.HeroStartingLevel": [
+        1.0
+    ],
+    "Inhibitor.AdditionalReviveTime": [
+        180.0
+    ],
+    "InitialSpawnDelay.Lane": [
+        60.0
+    ],
+    "JungleBuff.AttackSpeed": [
+        35.0
+    ],
+    "JungleBuff.CooldownReduction": [
+        10.0
+    ],
+    "JungleBuff.DamageBonusSource": [
+        0.25
+    ],
+    "JungleBuff.EnergyRegen": [
+        0.0020000000949949026
+    ],
+    "JungleBuff.LifeSpan": [
+        30.0
+    ],
+    "JungleBuff.MaxLifeSpan": [
+        150.0
+    ],
+    "JungleBuff.Sov.Gold.BonusGoldPct": [
+        0.25
+    ],
+    "JungleBuff.Sov.Gold.MaxLifeSpan": [
+        90.0
+    ],
+    "JungleBuff.Sov.Green.MaxLifeSpan": [
+        45.0
+    ],
+    "JungleBuff.Sov.Mid.MaxLifeSpan": [
+        30.0
+    ],
+    "Knockback.Large": [
+        1500.0
+    ],
+    "Knockback.Medium": [
+        1000.0
+    ],
+    "Knockback.Small": [
+        500.0
+    ],
+    "LevelTime.Black": [
+        240.0
+    ],
+    "LevelTime.Blue": [
+        360.0
+    ],
+    "LevelTime.Gold": [
+        360.0
+    ],
+    "LevelTime.Green": [
+        360.0
+    ],
+    "LevelTime.Helix": [
+        600.0
+    ],
+    "LevelTime.Orange": [
+        360.0
+    ],
+    "LevelTime.Purple": [
+        360.0
+    ],
+    "LevelTime.Red": [
+        360.0
+    ],
+    "LevelTime.Sov.Gold": [
+        240.0
+    ],
+    "LevelTime.Sov.Green": [
+        180.0
+    ],
+    "LevelTime.Sov.HighXP": [
+        120.0
+    ],
+    "LevelTime.Sov.HighYield": [
+        300.0
+    ],
+    "LevelTime.Sov.Mid": [
+        180.0
+    ],
+    "LevelTime.Sov.OrbPrime": [
+        480.0
+    ],
+    "LevelTime.Sov.White": [
+        60.0
+    ],
+    "LevelTime.White": [
+        120.0
+    ],
+    "Movement.CombatSlow.AfterFall.DurationScalar": [
+        1.0
+    ],
+    "Movement.CombatSlow.Melee.DurationMax.Hit": [
+        2.0
+    ],
+    "Movement.CombatSlow.Melee.DurationMax.Miss": [
+        2.0
+    ],
+    "Movement.CombatSlow.Melee.DurationMin.Hit": [
+        0.6000000238418579
+    ],
+    "Movement.CombatSlow.Melee.DurationMin.Miss": [
+        0.2199999988079071
+    ],
+    "Movement.CombatSlow.Melee.DurationScalar.Hit": [
+        0.6700000166893005
+    ],
+    "Movement.CombatSlow.Melee.DurationScalar.Miss": [
+        0.25
+    ],
+    "Movement.CombatSlow.Melee.Hit": [
+        210.0
+    ],
+    "Movement.CombatSlow.Melee.MIss": [
+        65.0
+    ],
+    "Movement.CombatSlow.Ranged": [
+        275.0
+    ],
+    "Movement.CombatSlow.Ranged.DurationMax": [
+        2.0
+    ],
+    "Movement.CombatSlow.Ranged.DurationMin": [
+        0.699999988079071
+    ],
+    "Movement.CombatSlow.Ranged.DurationScalar": [
+        0.800000011920929
+    ],
+    "Movement.SpeedChangeOverTime": [
+        0.0
+    ],
+    "Objectives.BackdoorDelay": [
+        10.0
+    ],
+    "Objectives.BackdoorResistance": [
+        0.800000011920929
+    ],
+    "Objectives.BonusArmor": [
+        70.0
+    ],
+    "Objectives.BonusArmorDuration": [
+        300.0
+    ],
+    "Pickup.Default": [
+        5000.0
+    ],
+    "Pickup.DefaultGun": [
+        7500.0
+    ],
+    "Pickup.Fast": [
+        10000.0
+    ],
+    "Pickup.MaxSpeed": [
+        20000.0
+    ],
+    "Pickup.Slow": [
+        2500.0
+    ],
+    "Pickup.VerySlow": [
+        1000.0
+    ],
+    "Potion.Cooldown": [
+        15.0
+    ],
+    "Potion.Duration": [
+        15.0
+    ],
+    "Potion.HPS": [
+        6.0
+    ],
+    "Potion.MPS": [
+        3.799999952316284
+    ],
+    "PrimeHelix.BuffTime": [
+        150.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        75.0,
+        75.0,
+        75.0,
+        100.0,
+        100.0,
+        100.0,
+        125.0,
+        125.0,
+        125.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "PrimeHelix.LifeSpan": [
+        150.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.20000000298023224,
+        0.20000000298023224,
+        0.20000000298023224,
+        0.25,
+        0.25,
+        0.25,
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "PrimeHelix.MaxLifeSpan": [
+        150.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.003000000026077032,
+        0.003000000026077032,
+        0.003000000026077032,
+        0.004000000189989805,
+        0.004000000189989805,
+        0.004000000189989805,
+        0.004999999888241291,
+        0.004999999888241291,
+        0.004999999888241291,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "PrimeHelix.ReturnToBaseTime": [
+        30.0
+    ],
+    "PrimeHelixTime": [
+        0.0
+    ],
+    "Projectile.Default": [
+        6000.0
+    ],
+    "Projectile.Fast": [
+        12000.0
+    ],
+    "Projectile.LMB_Default": [
+        15000.0
+    ],
+    "Projectile.LMB_Slow": [
+        11500.0
+    ],
+    "Projectile.MaxSpeed": [
+        24000.0
+    ],
+    "Projectile.Slow": [
+        3000.0
+    ],
+    "Projectile.VerySlow": [
+        1200.0
+    ],
+    "Range.BasicAttack": [
+        1300.0
+    ],
+    "Range.Extreme": [
+        10000.0
+    ],
+    "Range.Long": [
+        2000.0
+    ],
+    "Range.Medium": [
+        1500.0
+    ],
+    "Range.MediumLong": [
+        1750.0
+    ],
+    "Range.Melee": [
+        260.0
+    ],
+    "Range.Minion.Melee": [
+        300.0
+    ],
+    "Range.Minion.Ranged": [
+        1000.0
+    ],
+    "Range.Minion.RangedObjective": [
+        1200.0
+    ],
+    "Range.Short": [
+        1000.0
+    ],
+    "Range.Turret": [
+        2000.0
+    ],
+    "Respawn.DeathPenaltyStartTime": [
+        60.0
+    ],
+    "Respawn.DeathTimerCap": [
+        90.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.7000000476837158,
+        1.7999999523162842,
+        1.899999976158142,
+        2.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Respawn.MinRespawnTimer": [
+        3.0
+    ],
+    "Respawn.RespawnDelay": [
+        5.800000190734863
+    ],
+    "Rig.StartingHealthPct": [
+        0.009999999776482582
+    ],
+    "Root.Default": [
+        2.0
+    ],
+    "Root.Long": [
+        3.0
+    ],
+    "Root.Short": [
+        1.0
+    ],
+    "Root.VeryLong": [
+        5.0
+    ],
+    "Root.VeryShort": [
+        0.25
+    ],
+    "ShadowPlanePadOff.Duration": [
+        5.0
+    ],
+    "Slow.Default": [
+        2.0
+    ],
+    "Slow.Long": [
+        3.0
+    ],
+    "Slow.Short": [
+        1.0
+    ],
+    "Slow.Shorter": [
+        0.5
+    ],
+    "Slow.VeryLong": [
+        5.0
+    ],
+    "Slow.VeryShort": [
+        0.25
+    ],
+    "SpawnerDelay.JungleBlack": [
+        240.0
+    ],
+    "SpawnerDelay.JungleBlue": [
+        150.0,
+        360.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "SpawnerDelay.JungleRed": [
+        150.0,
+        360.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "SpawnerDelay.JungleWhite": [
+        70.0,
+        120.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "SpawnerDelay.Lane": [
+        30.0
+    ],
+    "SpawnerDelay.PrimeHelix": [
+        600.0,
+        360.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "SpawnTime.Initial.Black": [
+        240.0
+    ],
+    "SpawnTime.Initial.Blue": [
+        60.0
+    ],
+    "SpawnTime.Initial.Gold": [
+        60.0
+    ],
+    "SpawnTime.Initial.Green": [
+        60.0
+    ],
+    "SpawnTime.Initial.Helix": [
+        360.0
+    ],
+    "SpawnTime.Initial.Orange": [
+        60.0
+    ],
+    "SpawnTime.Initial.Purple": [
+        60.0
+    ],
+    "SpawnTime.Initial.Red": [
+        60.0
+    ],
+    "SpawnTime.Initial.White": [
+        60.0
+    ],
+    "SpawnTime.Sov.Gold": [
+        180.0
+    ],
+    "SpawnTime.Sov.Green": [
+        90.0
+    ],
+    "SpawnTime.Sov.HighXP": [
+        120.0
+    ],
+    "SpawnTime.Sov.HighYield": [
+        120.0
+    ],
+    "SpawnTime.Sov.Lane": [
+        55.0
+    ],
+    "SpawnTime.Sov.Mid": [
+        150.0
+    ],
+    "SpawnTime.Sov.OrbPrime": [
+        600.0
+    ],
+    "SpawnTime.Sov.White": [
+        80.0
+    ],
+    "Structure.Debuff.DamageScalar": [
+        0.25
+    ],
+    "Structure.Debuff.Timer": [
+        5.0
+    ],
+    "Stun.Default": [
+        2.0
+    ],
+    "Stun.Long": [
+        3.0
+    ],
+    "Stun.Short": [
+        1.0
+    ],
+    "Stun.Shorter": [
+        0.5
+    ],
+    "Stun.VeryLong": [
+        5.0
+    ],
+    "Stun.VeryShort": [
+        0.25
+    ],
+    "TeamXP.CoinsPerPlayerLevel": [
+        7.0
+    ],
+    "TeamXP.Default": [
+        1.0
+    ],
+    "TeamXP.DripRate": [
+        1.0
+    ],
+    "TeamXP.DripValue": [
+        6.0
+    ],
+    "TeamXP.Fast": [
+        0.5
+    ],
+    "TeamXP.Large": [
+        10.0
+    ],
+    "TeamXP.Little": [
+        0.5
+    ],
+    "TeamXP.Normal": [
+        90.0
+    ],
+    "TeamXP.Slow": [
+        15.0
+    ],
+    "TeamXP.VeryLittle": [
+        0.0
+    ],
+    "TeamXP.VerySlow": [
+        0.0
+    ],
+    "Temp.DamageRamp10": [
+        1.100000023841858,
+        1.2000000476837158,
+        1.2999999523162842,
+        1.399999976158142,
+        1.5,
+        1.600000023841858,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Temp.LMB.DamageRamp": [
+        1.0,
+        1.100000023841858,
+        1.2999999523162842,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "TickInterval.Default": [
+        0.25
+    ],
+    "TickInterval.Fast": [
+        0.20000000298023224
+    ],
+    "TickInterval.Slow": [
+        0.3330000042915344
+    ],
+    "TickInterval.Slower": [
+        0.5
+    ],
+    "TickInterval.VeryFast": [
+        0.10000000149011612
+    ],
+    "TickInterval.VerySlow": [
+        1.0
+    ],
+    "TravelMode.ExhaustDuration": [
+        1.5
+    ],
+    "TravelMode.SpeedIncrease": [
+        430.0
+    ],
+    "Ward.Cooldown.Scout": [
+        60.0
+    ],
+    "Ward.Cooldown.Shadow": [
+        120.0
+    ],
+    "XPAssistRange.Hero": [
+        3500.0
+    ],
+    "XPAssistRange.Large": [
+        2000.0
+    ],
+    "XPAssistRange.Minion": [
+        2200.0
+    ],
+    "XPAssistRange.Normal": [
+        1500.0
+    ],
+    "XPAssistRange.Small": [
+        500.0
+    ],
+    "XPAssistRange.VeryLarge": [
+        5000.0
+    ],
+    "XPAssistRange.VerySmall": [
+        250.0
+    ],
+    "XPAssistTime.Default": [
+        15.0
+    ],
+    "XPAssistTime.Fast": [
+        7.5
+    ],
+    "XPAssistTime.Normal": [
+        15.0
+    ],
+    "XPAssistTime.Slow": [
+        20.0
+    ],
+    "XPAssistTime.VeryFast": [
+        3.0
+    ],
+    "XPAssistTime.VerySlow": [
+        30.0
+    ],
+    "XPSplit.Default": [
+        1.0,
+        0.5,
+        0.3330000042915344,
+        0.25,
+        0.20000000298023224,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ]
+}

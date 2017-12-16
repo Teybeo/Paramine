@@ -1,0 +1,143 @@
+{
+    "Buf.Mid.Duration.DoT": [
+        40.0
+    ],
+    "Buff.Gold.Duration": [
+        45.0
+    ],
+    "Buff.Gold.Duration.Pickup": [
+        30.0
+    ],
+    "Buff.Gold.Magnitude.BonusCXPPct": [
+        0.20000000298023224
+    ],
+    "Buff.Green.Duration": [
+        60.0
+    ],
+    "Buff.Green.Duration.Pickup": [
+        30.0
+    ],
+    "Buff.Green.Magnitude.EnergyDamage": [
+        15.0
+    ],
+    "Buff.Green.Magnitude.ExplosionDamage.Base": [
+        100.0
+    ],
+    "Buff.Green.Magnitude.ExplosionDamage.LevelDelta": [
+        15.0
+    ],
+    "Buff.Green.Magnitude.MovementSpeed": [
+        20.0
+    ],
+    "Buff.Green.Magnitude.PhysicalDamage": [
+        15.0
+    ],
+    "Buff.Green.Magnitude.ReflectDamage.Base": [
+        15.0
+    ],
+    "Buff.Green.Magnitude.ReflectDamage.LevelDelta": [
+        0.0
+    ],
+    "Buff.Green.Magnitude.Shield.Base": [
+        200.0
+    ],
+    "Buff.Green.Magnitude.Shield.LevelDelta": [
+        25.0
+    ],
+    "Buff.Green.Magnitude.ShieldDecay.Base": [
+        3.3333332538604736
+    ],
+    "Buff.Green.Magnitude.ShieldDecay.LevelDelta": [
+        0.4166666567325592
+    ],
+    "Buff.Mid.Duration": [
+        30.0
+    ],
+    "Buff.Mid.Duration.AbilityDamage": [
+        40.0
+    ],
+    "Buff.Mid.Duration.EnergyRegen": [
+        5.0
+    ],
+    "Buff.Mid.Duration.Invisibility": [
+        40.0
+    ],
+    "Buff.Mid.Duration.MovementSpeed": [
+        25.0
+    ],
+    "Buff.Mid.Duration.Pickup": [
+        30.0
+    ],
+    "Buff.Mid.Magnitude.AbilityDamage": [
+        1.25
+    ],
+    "Buff.Mid.Magnitude.CooldownReduction": [
+        0.4000000059604645
+    ],
+    "Buff.Mid.Magnitude.DoT": [
+        1.0
+    ],
+    "Buff.Mid.Magnitude.DoTDuration": [
+        1.2999999523162842
+    ],
+    "Buff.Mid.Magnitude.DoTRate": [
+        0.4000000059604645
+    ],
+    "Buff.Mid.Magnitude.EnergyRegen": [
+        35.0
+    ],
+    "Buff.Mid.Magnitude.HealthRegen": [
+        10.0
+    ],
+    "Buff.Mid.Magnitude.MovementSpeed": [
+        100.0
+    ],
+    "ReinforceTime.Sov.HighYield": [
+        240.0
+    ],
+    "ReinforceTime.Sov.White": [
+        60.0
+    ],
+    "RespawnTime.Sov.Gold": [
+        150.0
+    ],
+    "RespawnTime.Sov.Green": [
+        180.0
+    ],
+    "RespawnTime.Sov.HighXP": [
+        120.0
+    ],
+    "RespawnTime.Sov.HighYield": [
+        240.0
+    ],
+    "RespawnTime.Sov.Mid": [
+        120.0
+    ],
+    "RespawnTime.Sov.OrbPrime": [
+        420.0
+    ],
+    "RespawnTime.Sov.White": [
+        60.0
+    ],
+    "SpawnTime.Sov.Gold": [
+        90.0
+    ],
+    "SpawnTime.Sov.Green": [
+        90.0
+    ],
+    "SpawnTime.Sov.HighXP": [
+        120.0
+    ],
+    "SpawnTime.Sov.HighYield": [
+        600.0
+    ],
+    "SpawnTime.Sov.Mid": [
+        180.0
+    ],
+    "SpawnTime.Sov.OrbPrime": [
+        900.0
+    ],
+    "SpawnTime.Sov.White": [
+        80.0
+    ]
+}

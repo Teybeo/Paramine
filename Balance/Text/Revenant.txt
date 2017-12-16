@@ -1,0 +1,78 @@
+Revenant
+
+AttackRating:                   0
+AttackSpeedRating:              0 - 102 (+ 5.36842 per lvl)
+BaseAttackTime:                 1.2
+CleaveRating:                   0
+LeftClickARC:                   0.7
+LeftClickBasePower:             50 - 69 (+ 1 per lvl)
+
+EnergyRegenRate:                0.8 - 3.08 (+ 0.12 per lvl)
+Health:                         475 - 1691.57 (+ 64.03 per lvl)
+HealthRegenRate:                1.25 - 5.05 (+ 0.2 per lvl)
+MaxEnergy:                      225 - 1137 (+ 48 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+BasicPenetrationRating:         0
+BasicResistanceRating:          18 - 56 (+ 2 per lvl)
+
+Alternate
+	ARC:                            1
+	BasePower:                      0
+	Cooldown:                       0
+	Cost:                           0
+	Damage.Bonus.ARC:               0.4
+	Damage.Bonus.Base:              15 / 30 / 45 / 60
+	Duration:                       2 / 3 / 4 / 5
+	MaxRating.Reload:               270
+	PhysDamageReduction:            0.5
+Primary
+	ARC:                            1.4
+	BasePower:                      120 / 200 / 280 / 360
+	Cooldown:                       12
+	Cost:                           -70 / -75 / -80 / -85
+	MissileCount:                   10
+	Range:                          1500
+	StandingCastTime:               0.5
+Secondary
+	ARC:                            0.15
+	BasePower:                      75 / 100 / 125 / 150
+	Cooldown:                       6
+	Cost:                           -40 / -45 / -50 / -55
+	Duration:                       5
+	MarkCount:                      3 / 4 / 5 / 6
+	MarkDamage:                     25
+	Range:                          1300
+Ultimate
+	ARC:                            0
+	BasePower:                      20 / 40 / 60
+	BonusBounty:                    200 / 300 / 400
+	Cooldown:                       110 / 100 / 90
+	Cost:                           -75
+	Duration:                       6 / 7 / 8
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      675
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1.5
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       15
+MaxMoveSpeed:                   720
+VisionRadius:                   5000
+XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
+XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+

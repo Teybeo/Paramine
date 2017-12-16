@@ -1,0 +1,66 @@
+Venus
+
+AttackRating:                   0
+AttackSpeedRating:              100
+BaseAttackTime:                 1.2
+CleaveRating:                   0
+LeftClickARC:                   0.3
+LeftClickBasePower:             53 - 83.4 (+ 1.6 per lvl)
+
+EnergyRegenRate:                1.3 - 6.43 (+ 0.27 per lvl)
+Health:                         500 - 1780.6 (+ 67.4 per lvl)
+HealthRegenRate:                1.25 - 5.05 (+ 0.2 per lvl)
+MaxEnergy:                      280 - 1572 (+ 68 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+BasicPenetrationRating:         0
+BasicResistanceRating:          8 - 27 (+ 1 per lvl)
+
+Alternate
+	ARC:                            1.25
+	BasePower:                      100 / 160 / 220 / 280
+	Cooldown:                       10
+	Cost:                           -85 / -95 / -105 / -115
+Primary
+	ARC:                            0.3125
+	BasePower:                      50 / 90 / 130 / 170
+	Cooldown:                       18 / 16 / 14 / 12
+	Cost:                           -100 / -115 / -130 / -145
+	Distance:                       580 / 740 / 900 / 1060
+	Slow:                           -280 / -340 / -400 / -460
+Secondary
+	ARC:                            0.9375
+	BasePower:                      65 / 90 / 115 / 140
+	Cooldown:                       5
+	Cost:                           -60 / -70 / -80 / -90
+Ultimate
+	ARC:                            0.9375
+	BasePower:                      200 / 275 / 350
+	Cooldown:                       120 / 100 / 80
+	Cost:                           -125 / -200 / -275
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      675
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1.5
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       15
+MaxMoveSpeed:                   720
+VisionRadius:                   5000
+XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
+XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+

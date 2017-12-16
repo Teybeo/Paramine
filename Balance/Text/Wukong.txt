@@ -1,0 +1,81 @@
+Wukong
+
+AttackRating:                   0
+AttackSpeedRating:              100 - 136.1 (+ 1.9 per lvl)
+BaseAttackTime:                 1.35
+CleaveRating:                   0.1
+LeftClickARC:                   0.9
+LeftClickBasePower:             61 - 89.5 (+ 1.5 per lvl)
+
+EnergyRegenRate:                0.7 - 2.41 (+ 0.09 per lvl)
+Health:                         526.5 - 1877.4 (+ 71.1 per lvl)
+HealthRegenRate:                2 - 7.7 (+ 0.3 per lvl)
+MaxEnergy:                      200 - 884 (+ 36 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+BasicPenetrationRating:         0
+BasicResistanceRating:          14 - 37.75 (+ 1.25 per lvl)
+
+Alternate
+	ARC:                            0.75
+	Air.DamageMod:                  0
+	BasePower:                      75 / 125 / 175 / 225
+	Cooldown:                       12
+	Cost:                           -55 / -60 / -65 / -70
+	Range:                          900
+	Stone.DamageMod:                0.5
+Primary
+	ARC:                            0
+	Air.Airwalk.Duration:           1
+	Air.Cooldown:                   11.2 / 9.6 / 8 / 6.4
+	BasePower:                      0
+	Cooldown:                       14 / 12 / 10 / 8
+	Cost:                           0
+	Force:                          1000
+	Stone.ARC:                      0.4
+	Stone.BasePower:                60 / 100 / 140 / 180
+	Stone.Slow.Duration:            2
+	Stone.Slow.Magnitude:           -200 / -250 / -300 / -350
+Secondary
+	ARC:                            0
+	Air.GravityModifier:            0.75
+	BasePower:                      0
+	Cooldown:                       4 / 3 / 2 / 1
+	Cost:                           -10
+	Gold.Bonus.Chance:              0.1 / 0.15 / 0.2 / 0.25
+	Gold.Bonus.Magnitude:           100
+	Stone.CleaveRating:             0.4
+Ultimate
+	ARC:                            0
+	BasePower:                      0
+	Clone.Attack.Count:             1 / 2 / 3
+	Clone.Attack.DamagePercent:     0.2 / 0.4 / 0.6
+	Clone.Lifetime:                 5
+	Cooldown:                       0
+	Cost:                           0
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      675
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1.5
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       15
+MaxMoveSpeed:                   720
+VisionRadius:                   5000
+XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
+XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+

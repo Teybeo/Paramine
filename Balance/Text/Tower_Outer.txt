@@ -1,0 +1,27 @@
+Tower_Outer
+
+AttackRating:                   140
+AttackSpeedRating:              100
+BaseAttackTime:                 1
+
+Health:                         2800
+HealthRegenRate:                0
+
+AbilityResistanceRating:        1000
+BasicResistanceRating:          30
+
+
+
+other
+	Reward.NumberOfCoins:           50
+	Reward.TeamCardPoints:          330
+
+CXPBounty:                      300
+CXPSpawnTime:                   1.5
+CriticallyWoundedThresholdPCT:  0
+GainXPFromKills:                0
+MaxLevel:                       15
+VisionRadius:                   1600
+XPBounty:                       0
+XPToLevel:                      1
+

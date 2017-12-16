@@ -1,0 +1,21 @@
+PyroPlaced
+
+
+Health:                         4 - 80 (+ 4 per lvl)
+HealthRegenRate:                0
+
+
+
+
+other
+	Reward.NumberOfCoins:           1
+
+CXPBounty:                      60
+CXPSpawnTime:                   0.25
+CriticallyWoundedThresholdPCT:  0
+GainXPFromKills:                0
+MaxLevel:                       0
+VisionRadius:                   0
+XPBounty:                       0
+XPToLevel:                      0
+

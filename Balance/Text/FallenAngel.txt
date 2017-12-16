@@ -1,0 +1,82 @@
+FallenAngel
+
+AttackRating:                   0
+AttackSpeedRating:              100 - 126.6 (+ 1.4 per lvl)
+BaseAttackTime:                 1.2
+CleaveRating:                   0.1
+LeftClickARC:                   1
+LeftClickBasePower:             58 - 92.2 (+ 1.8 per lvl)
+
+EnergyRegenRate:                0.8 - 3.08 (+ 0.12 per lvl)
+Health:                         522.5 - 1872.89 (+ 71.0733 per lvl)
+HealthRegenRate:                1.25 - 5.05 (+ 0.2 per lvl)
+MaxEnergy:                      225 - 1137 (+ 48 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+BasicPenetrationRating:         0
+BasicResistanceRating:          18 - 65.5 (+ 2.5 per lvl)
+
+Alternate
+	ARC:                            0.5
+	BasePower:                      60 / 100 / 140 / 180
+	Cooldown:                       10
+	Cost:                           -55 / -60 / -65 / -70
+	Slow:                           -125 / -200 / -275 / -350
+	SlowDuration:                   2
+Primary
+	ARC:                            0
+	BasePower:                      0
+	CastRange:                      750
+	Cooldown:                       24 / 18 / 12 / 6
+	Cost:                           -45
+	MinCastRange:                   200
+	SearchRadius:                   400
+	SlashDelayDuration:             0.2
+Secondary
+	ARC:                            0.5
+	BasePower:                      75 / 120 / 165 / 210
+	Cooldown:                       12
+	Cost:                           -75 / -80 / -85 / -90
+	DamageRadius:                   250
+	FlightDuration:                 1.5
+	HoriRange:                      1200
+	VertRange:                      750
+Ultimate
+	ARC:                            0
+	ActivationRadius:               600
+	BasePower:                      0
+	Cooldown:                       100 / 80 / 60
+	Cost:                           -75
+	DarkDuration:                   15
+	FireARC:                        0.1
+	FireBasePower:                  30 / 45 / 60
+	FireDuration:                   3.1
+	TriggerARC:                     0.25
+	TriggerBasePower:               15 / 20 / 25
+	WeaknessAuraMultiplier:         0.9 / 0.825 / 0.75
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      675
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1.5
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       15
+MaxMoveSpeed:                   720
+VisionRadius:                   5000
+XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
+XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+

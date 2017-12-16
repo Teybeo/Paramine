@@ -1,0 +1,27 @@
+Tower_Inhibitor
+
+AttackRating:                   200
+AttackSpeedRating:              100
+BaseAttackTime:                 1
+
+Health:                         3200
+HealthRegenRate:                5
+
+AbilityResistanceRating:        1000
+BasicResistanceRating:          60
+
+
+
+other
+	Reward.NumberOfCoins:           0
+	Reward.TeamCardPoints:          0
+
+CXPBounty:                      300
+CXPSpawnTime:                   1.5
+CriticallyWoundedThresholdPCT:  0
+GainXPFromKills:                0
+MaxLevel:                       15
+VisionRadius:                   1600
+XPBounty:                       0
+XPToLevel:                      1
+

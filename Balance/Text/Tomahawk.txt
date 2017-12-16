@@ -1,0 +1,74 @@
+Tomahawk
+
+AttackRating:                   0
+AttackSpeedRating:              100 - 111.438 (+ 0.602 per lvl)
+BaseAttackTime:                 1.2
+CleaveRating:                   0.2
+LeftClickARC:                   0.65
+LeftClickBasePower:             58 - 77 (+ 1 per lvl)
+
+EnergyRegenRate:                0.7 - 2.41 (+ 0.09 per lvl)
+Health:                         585 - 2086 (+ 79 per lvl)
+HealthRegenRate:                2 - 7.7 (+ 0.3 per lvl)
+MaxEnergy:                      200 - 884 (+ 36 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+BasicPenetrationRating:         0
+BasicResistanceRating:          14 - 37.75 (+ 1.25 per lvl)
+
+Alternate
+	ARC:                            0.25
+	BasePower:                      55 / 70 / 85 / 100
+	Cooldown:                       5
+	Cost:                           -80 / -65 / -50 / -35
+	Slow:                           -550
+	SlowDuration:                   1
+	Stacks.Count:                   3
+	Stun:                           0.25
+Primary
+	ARC:                            0
+	Attacks:                        5
+	BasePower:                      0
+	BuffDuration:                   3
+	Cooldown:                       10
+	Cost:                           -60 / -65 / -70 / -75
+	DamageMultiplier:               0.6 / 0.675 / 0.75 / 0.825
+Secondary
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       1
+	Cost:                           0
+	HealthRegeneration:             1 / 1.75 / 2.5 / 3.25
+	StacksDuration:                 2.2
+Ultimate
+	ARC:                            0.8
+	BasePower:                      250 / 350 / 450
+	Cooldown:                       90 / 70 / 50
+	Cost:                           -75
+	Stacks.Count:                   6
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      675
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1.5
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       15
+MaxMoveSpeed:                   720
+VisionRadius:                   5000
+XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
+XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+

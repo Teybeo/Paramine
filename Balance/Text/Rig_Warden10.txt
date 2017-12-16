@@ -1,0 +1,24 @@
+Rig_Warden10
+
+AttackRating:                   336.4 - 1210.4 (+ 46 per lvl)
+AttackSpeedRating:              100
+BaseAttackTime:                 0.5
+
+Health:                         7000
+HealthRegenRate:                0
+
+
+
+
+other
+	Reward.NumberOfCoins:           0
+
+CXPBounty:                      0
+CXPSpawnTime:                   0
+CriticallyWoundedThresholdPCT:  0
+GainXPFromKills:                0
+MaxLevel:                       15
+VisionRadius:                   0
+XPBounty:                       72
+XPToLevel:                      1
+

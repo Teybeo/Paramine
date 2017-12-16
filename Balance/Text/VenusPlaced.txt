@@ -1,0 +1,21 @@
+VenusPlaced
+
+
+Health:                         5
+HealthRegenRate:                0
+
+
+
+
+other
+	Reward.NumberOfCoins:           1
+
+CXPBounty:                      10
+CXPSpawnTime:                   0.15
+CriticallyWoundedThresholdPCT:  0
+GainXPFromKills:                0
+MaxLevel:                       0
+VisionRadius:                   0
+XPBounty:                       0
+XPToLevel:                      0
+

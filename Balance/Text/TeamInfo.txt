@@ -1,0 +1,13 @@
+TeamInfo
+
+
+
+
+
+
+
+GainXPFromKills:                0
+MaxLevel:                       30
+XPBounty:                       100 - 0 (+ -5.26316 per lvl)
+XPToLevel:                      1400 - 1 (+ -73.6316 per lvl)
+

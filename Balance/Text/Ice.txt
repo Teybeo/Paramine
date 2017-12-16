@@ -1,0 +1,99 @@
+Ice
+
+AttackRating:                   0
+AttackSpeedRating:              100 - 126.6 (+ 1.4 per lvl)
+BaseAttackTime:                 1.2
+CleaveRating:                   0.1
+LeftClickARC:                   0.5
+LeftClickBasePower:             58 - 77 (+ 1 per lvl)
+
+EnergyRegenRate:                0.7 - 2.41 (+ 0.09 per lvl)
+Health:                         506 - 1803.02 (+ 68.264 per lvl)
+HealthRegenRate:                2 - 7.7 (+ 0.3 per lvl)
+MaxEnergy:                      200 - 884 (+ 36 per lvl)
+
+AbilityPenetrationRating:       0
+AbilityResistanceRating:        20 - 34.25 (+ 0.75 per lvl)
+BasicPenetrationRating:         0
+BasicResistanceRating:          14 - 37.75 (+ 1.25 per lvl)
+
+Alternate
+	ARC:                            0
+	BasePower:                      0
+	Bounty.CXP:                     40
+	Cooldown:                       16 / 14 / 12 / 10
+	Cost:                           -45
+	Health.Multiplier.Statue:       0.4 / 0.6 / 0.8 / 1
+	Lifespan.Statue:                7
+Primary
+	ARC:                            0.35
+	BasePower:                      40 / 80 / 120 / 160
+	Cooldown:                       22 / 20 / 18 / 16
+	Cost:                           -80
+	Range:                          1500
+	Range.Duration:                 0.7 / 0.73 / 0.76 / 0.79
+	Range.Force:                    2071.43 / 2123.29 / 2171.05 / 2215.19
+	StandingCastTime:               0.25
+	WallDuration:                   7
+Secondary
+	ARC:                            0.6
+	BasePower:                      75 / 125 / 175 / 225
+	CloneDamageRadius:              300
+	CloneDuration:                  4
+	Cooldown:                       14
+	Cost:                           -60 / -65 / -70 / -75
+	Range:                          1400
+	ReactivateLockout:              0.75
+	RingDuration:                   4
+	RingRadius:                     300
+	Root.Duration:                  0.75 / 1 / 1.25 / 1.5
+	Slow:                           -80 / -140 / -200 / -260
+	SlowDuration:                   2
+Ultimate
+	ARC:                            0.75
+	ARC.Chain.Hero:                 0.2
+	ARC.Chain.NonHero:              0.1
+	BasePower:                      180 / 230 / 280
+	BasePower.Chain.Hero:           56 / 86 / 116
+	BasePower.Chain.NonHero:        28 / 43 / 58
+	Cooldown:                       130 / 110 / 90
+	Cost:                           -75
+	ExplosionRadius:                600
+	IceDuration:                    2
+	IceExplosionARC:                0.25
+	IceExplosionBasePower:          55 / 90 / 125
+	IceExplosionDuration:           0.25
+	IceRamp:                        1.5
+	InitialRadius:                  1200
+	Radius.Chain:                   500
+	Radius.Initial:                 700
+	Slow:                           -400
+	Slow.Duration.Initial:          1.5
+	Slow.Initial:                   -300
+	Stun.Duration.Chain:            0.5
+	Stun.Duration.Initial:          1
+
+
+Jump
+	Cooldown:                       1
+	Cost:                           0
+Recall
+	Cooldown:                       3
+TravelMode
+	Cooldown:                       3
+Utility
+	Cooldown:                       1
+	Cost:                           0
+
+CXPBounty:                      675
+CXPSpawnTime:                   1.5
+CriticalDamageBonus:            1.5
+CriticallyWoundedThresholdPCT:  0.25
+GainXPFromKills:                1
+MaxCardLevel:                   20
+MaxLevel:                       15
+MaxMoveSpeed:                   720
+VisionRadius:                   5000
+XPBounty:                       49.5 - 1075.66 (+ 54.0084 per lvl)
+XPToLevel:                      110 - 2390.36 (+ 120.019 per lvl)
+
