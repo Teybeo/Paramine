@@ -21,13 +21,13 @@ Alternate
 	ARC:                            1
 	BasePower:                      75 / 125 / 175 / 225
 	Cooldown:                       5
-	Cost:                           -75 / -85 / -95 / -105
+	Cost:                           -90 / -95 / -100 / -105
 	Range:                          1100
 Primary
 	ARC:                            0.12
-	BasePower:                      20 / 32 / 44 / 56
+	BasePower:                      18 / 28 / 38 / 48
 	Cooldown:                       15
-	Cost:                           -80 / -90 / -100 / -110
+	Cost:                           -100 / -115 / -130 / -145
 	Duration.DoT:                   8
 	Mark.Bonus.Duration:            12
 	Radius:                         500
@@ -39,7 +39,7 @@ Secondary
 	ARC:                            0.2675
 	BasePower:                      43.2 / 59.7 / 76.2 / 92.7
 	Cooldown:                       15
-	Cost:                           -100 / -120 / -140 / -160
+	Cost:                           -80
 	Duration:                       2.5 / 3 / 3.5 / 4
 	Movespeed.Max:                  150
 	Movespeed.Stacks.Max:           10

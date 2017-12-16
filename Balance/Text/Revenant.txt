@@ -28,10 +28,10 @@ Alternate
 	MaxRating.Reload:               270
 	PhysDamageReduction:            0.5
 Primary
-	ARC:                            1.4
-	BasePower:                      120 / 200 / 280 / 360
+	ARC:                            1.25
+	BasePower:                      115 / 190 / 265 / 340
 	Cooldown:                       12
-	Cost:                           -70 / -75 / -80 / -85
+	Cost:                           -90 / -105 / -120 / -135
 	MissileCount:                   10
 	Range:                          1500
 	StandingCastTime:               0.5
@@ -39,7 +39,7 @@ Secondary
 	ARC:                            0.15
 	BasePower:                      75 / 100 / 125 / 150
 	Cooldown:                       6
-	Cost:                           -40 / -45 / -50 / -55
+	Cost:                           -50 / -60 / -70 / -80
 	Duration:                       5
 	MarkCount:                      3 / 4 / 5 / 6
 	MarkDamage:                     25
