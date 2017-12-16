@@ -12,33 +12,33 @@ Bot.MaxAbilityLevel: -1
 Bot.PrimaryCooldownModifier: 1.6 | 1.45 | 1.3 | 1.15 | 1
 Bot.RecommendedAbilityRangeModifier: 0.6 | 0.7 | 0.8 | 0.9 | 0.95
 Bot.StrategyObjectiveAssigningDelay: 12 | 9 | 6 | 4
-Bot.bAllowRecallingBack: 0 | 0 | 0 | 0 | 1
-Bot.bAvoidAoEAttacks: 0 | 0 | 0 | 0 | 1
-Bot.bAvoidBeingDamagedByTowers: 0 | 0 | 0 | 0 | 1
+Bot.bAllowRecallingBack: 0 | 0 | 1 | 1 | 1
+Bot.bAvoidAoEAttacks: 0 | 0 | 0 | 1 | 1
+Bot.bAvoidBeingDamagedByTowers: 0 | 1 | 1 | 1 | 1
 Bot.bCanPlaceAndUseRigs: 1
-Bot.bCanUseActiveCards: 0 | 0 | 0 | 0 | 1
+Bot.bCanUseActiveCards: 0 | 1 | 1 | 1 | 1
 Bot.bCanUseUlt: 0 | 0 | 1 | 1 | 1
 Bot.bPlayerAsLastResortTarget: 1
 Bot.bUseMapLogic: 1
 DONTRENAMEROWHEADERS: 0
-Minion.Jungle.Boss.Damage: 0.5 | 0.75 | 0.75 | 1 | 1
+Minion.Jungle.Boss.Damage: 0.5 | 0.62 | 0.75 | 0.87 | 1
 Minion.Jungle.Boss.Health: 0.4 | 0.55 | 0.7 | 0.85 | 1
 Minion.Jungle.Boss.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1
-Minion.Jungle.Buff.Damage: 0.5 | 0.75 | 0.75 | 1 | 1
+Minion.Jungle.Buff.Damage: 0.5 | 0.62 | 0.75 | 0.87 | 1
 Minion.Jungle.Buff.Health: 0.4 | 0.55 | 0.7 | 0.85 | 1
 Minion.Jungle.Buff.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1
-Minion.Jungle.Henchman.Damage: 0.5 | 0.75 | 0.75 | 1 | 1
+Minion.Jungle.Henchman.Damage: 0.5 | 0.62 | 0.75 | 0.87 | 1
 Minion.Jungle.Henchman.Health: 0.4 | 0.55 | 0.7 | 0.85 | 1
 Minion.Jungle.Henchman.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1
-Minion.Lane.Melee.Damage: 0.5 | 0.75 | 0.75 | 1 | 1
+Minion.Lane.Melee.Damage: 0.5 | 0.62 | 0.75 | 0.87 | 1
 Minion.Lane.Melee.Health: 0.4 | 0.55 | 0.7 | 0.85 | 1
 Minion.Lane.Melee.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1
-Minion.Lane.Ranged.Damage: 0.5 | 0.75 | 0.75 | 1 | 1
+Minion.Lane.Ranged.Damage: 0.5 | 0.62 | 0.75 | 0.87 | 1
 Minion.Lane.Ranged.Health: 0.4 | 0.55 | 0.7 | 0.85 | 1
 Minion.Lane.Ranged.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1
-Minion.Lane.Siege.Damage: 0.5 | 0.75 | 0.75 | 1 | 1
+Minion.Lane.Siege.Damage: 0.5 | 0.62 | 0.75 | 0.87 | 1
 Minion.Lane.Siege.Health: 0.4 | 0.55 | 0.7 | 0.85 | 1
 Minion.Lane.Siege.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1
-Minion.Lane.Super.Damage: 0.5 | 0.75 | 0.75 | 1 | 1
+Minion.Lane.Super.Damage: 0.5 | 0.62 | 0.75 | 0.87 | 1
 Minion.Lane.Super.Health: 0.4 | 0.55 | 0.7 | 0.85 | 1
 Minion.Lane.Super.MoveSpeed: 0.8 | 0.9 | 1 | 1 | 1
