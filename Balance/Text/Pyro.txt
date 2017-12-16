@@ -8,8 +8,8 @@ LeftClickARC:                   1
 LeftClickBasePower:             52.65 - 98.136 (+ 2.394 per lvl)
 
 EnergyRegenRate:                1.4856 - 2.7681 (+ 0.0675 per lvl)
-Health:                         662.796 - 1934.35 (+ 66.924 per lvl)
-HealthRegenRate:                1.2996 - 4.0166 (+ 0.143 per lvl)
+Health:                         623.808 - 1927.97 (+ 68.64 per lvl)
+HealthRegenRate:                1.03968 - 3.21328 (+ 0.1144 per lvl)
 MaxEnergy:                      325.68 - 710.43 (+ 20.25 per lvl)
 
 AbilityPenetrationRating:       0
@@ -47,12 +47,12 @@ Secondary
 	Duration:                       6
 	TickRate:                       0.5
 Ultimate
-	ARC:                            4.75313
-	ARC.PerTick:                    0.365625
-	BasePower:                      171.113 / 304.2 / 437.288
+	ARC:                            4.37288
+	ARC.PerTick:                    0.336375
+	BasePower:                      157.423 / 279.864 / 402.305
 	Cooldown:                       100 / 70 / 40
 	Cost:                           -100
-	Damage.PerTick:                 13.1625 / 23.4 / 33.6375
+	Damage.PerTick:                 12.1095 / 21.528 / 30.9465
 	Duration:                       6
 	Resist.Ability.Magnitude:       0.6
 	Resist.Basic.Magnitude:         0

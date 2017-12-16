@@ -1,11 +1,11 @@
 Kurohane
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 151.3 (+ 2.7 per lvl)
+AttackSpeedRating:              100 - 147.025 (+ 2.475 per lvl)
 BaseAttackTime:                 0.8
 CleaveRating:                   0.05
 LeftClickARC:                   1
-LeftClickBasePower:             59.4 - 136.35 (+ 4.05 per lvl)
+LeftClickBasePower:             56.43 - 114.143 (+ 3.0375 per lvl)
 
 EnergyRegenRate:                1.228 - 2.178 (+ 0.05 per lvl)
 Health:                         548.72 - 1734.32 (+ 62.4 per lvl)
@@ -15,7 +15,7 @@ MaxEnergy:                      248.4 - 533.4 (+ 15 per lvl)
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          25.2 - 86.76 (+ 3.24 per lvl)
+BasicResistanceRating:          20.16 - 69.408 (+ 2.592 per lvl)
 
 Alternate
 	ARC:                            2.08929
@@ -31,14 +31,14 @@ Primary
 	CheatDeath.FadeTime:            0.25
 	CheatDeath.Threshold:           0.35
 	Cooldown:                       8
-	Cost:                           -50
+	Cost:                           -60
 	Duration:                       8 / 13 / 18 / 23
 	FadeTime:                       1.75
 	StealthAttackMultiplier:        0.5 / 0.75 / 1 / 1.25
 Secondary
 	ARC:                            0
 	BasePower:                      0
-	Cooldown:                       12 / 10 / 8 / 6
+	Cooldown:                       14 / 13 / 12 / 11
 	Cost:                           0
 	HealthRegen.Magnitude:          6 / 8 / 10 / 12
 Ultimate

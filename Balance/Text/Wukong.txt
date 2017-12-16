@@ -1,21 +1,21 @@
 Wukong
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 142.75 (+ 2.25 per lvl)
+AttackSpeedRating:              100 - 134.2 (+ 1.8 per lvl)
 BaseAttackTime:                 0.85
 CleaveRating:                   0.1
 LeftClickARC:                   1
-LeftClickBasePower:             56.43 - 117.99 (+ 3.24 per lvl)
+LeftClickBasePower:             56.43 - 110.295 (+ 2.835 per lvl)
 
 EnergyRegenRate:                1.09 - 1.85 (+ 0.04 per lvl)
-Health:                         672.182 - 1961.52 (+ 67.86 per lvl)
-HealthRegenRate:                1.14317 - 3.61317 (+ 0.13 per lvl)
+Health:                         589.874 - 1701.37 (+ 58.5 per lvl)
+HealthRegenRate:                0.983123 - 2.83562 (+ 0.0975 per lvl)
 MaxEnergy:                      207 - 435 (+ 12 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          25.2 - 86.76 (+ 3.24 per lvl)
+BasicResistanceRating:          22.68 - 65.772 (+ 2.268 per lvl)
 
 Alternate
 	ARC:                            1.88036
@@ -31,7 +31,7 @@ Primary
 	Air.Airwalk.Movespeed:          100 / 150 / 200 / 250
 	Air.Cooldown:                   0
 	BasePower:                      0
-	Cooldown:                       12 / 11 / 10 / 9
+	Cooldown:                       14 / 13 / 12 / 11
 	Cost:                           0
 	Force:                          1000
 	Stone.ARC:                      1.07143
@@ -45,7 +45,7 @@ Secondary
 	Cooldown:                       1
 	Cost:                           0
 	Gold.Bonus.Chance:              0.25
-	Gold.Bonus.Magnitude:           20 / 30 / 40 / 50
+	Gold.Bonus.Magnitude:           10 / 15 / 20 / 25
 	Heal.Bonus.Magnitude:           40 / 60 / 80 / 100
 	Stone.CleaveRating:             0.4
 Ultimate

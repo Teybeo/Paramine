@@ -18,8 +18,8 @@ BasicPenetrationRating:         0
 BasicResistanceRating:          21.12 - 57.6712 (+ 1.92375 per lvl)
 
 Alternate
-	ARC:                            1.78571
-	ARC.PerTick:                    0.223214
+	ARC:                            2.08929
+	ARC.PerTick:                    0.261161
 	BasePower:                      128.7 / 187.2 / 245.7 / 304.2
 	Cooldown:                       6
 	Cost:                           -110
@@ -30,7 +30,7 @@ Alternate
 	Slow:                           -100
 	TickRate:                       0.5
 Primary
-	ARC:                            3.03571
+	ARC:                            3.55179
 	BasePower:                      140.4 / 239.85 / 339.3 / 438.75
 	Cooldown:                       6
 	Cost:                           -100 / -110 / -120 / -130
@@ -43,7 +43,7 @@ Secondary
 	Cost:                           -60
 	Distance:                       850 / 975 / 1100 / 1225
 Ultimate
-	ARC:                            3.57143
+	ARC:                            4.17857
 	BasePower:                      327.6 / 444.6 / 561.6
 	Cooldown:                       130 / 115 / 100
 	Cost:                           -140 / -210 / -280

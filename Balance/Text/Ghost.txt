@@ -2,14 +2,14 @@ Ghost
 
 AttackRating:                   0
 AttackSpeedRating:              100 - 128.5 (+ 1.5 per lvl)
-BaseAttackTime:                 0.95
+BaseAttackTime:                 0.85
 CleaveRating:                   0
 LeftClickARC:                   1
 LeftClickBasePower:             55.566 - 98.202 (+ 2.244 per lvl)
 
 EnergyRegenRate:                1.44 - 2.77 (+ 0.07 per lvl)
-Health:                         554.496 - 1645.25 (+ 57.408 per lvl)
-HealthRegenRate:                0.962667 - 2.93867 (+ 0.104 per lvl)
+Health:                         566.048 - 1727.94 (+ 61.152 per lvl)
+HealthRegenRate:                0.943413 - 2.87989 (+ 0.10192 per lvl)
 MaxEnergy:                      312 - 711 (+ 21 per lvl)
 
 AbilityPenetrationRating:       0

@@ -15,12 +15,12 @@ MaxEnergy:                      303.6 - 631.35 (+ 17.25 per lvl)
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        25
 BasicPenetrationRating:         0
-BasicResistanceRating:          25.2 - 86.76 (+ 3.24 per lvl)
+BasicResistanceRating:          25.2 - 80.604 (+ 2.916 per lvl)
 
 Alternate
 	ARC:                            1.67143
-	Armor.Energy:                   40 / 60 / 80 / 100
-	Armor.Physical:                 40 / 60 / 80 / 100
+	Armor.Energy:                   20 / 40 / 60 / 80
+	Armor.Physical:                 20 / 40 / 60 / 80
 	BasePower:                      87.75 / 134.55 / 181.35 / 228.15
 	Cooldown:                       8
 	Cost:                           -75 / -85 / -95 / -105
