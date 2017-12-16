@@ -1,11 +1,11 @@
 TwinBlast
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 151.3 (+ 2.7 per lvl)
+AttackSpeedRating:              145 - 162.1 (+ 0.9 per lvl)
 BaseAttackTime:                 0.8
 CleaveRating:                   0
 LeftClickARC:                   1
-LeftClickBasePower:             52.4 - 117.2 (+ 3.41053 per lvl)
+LeftClickBasePower:             36.2 - 83.9 (+ 2.51053 per lvl)
 
 EnergyRegenRate:                1.28 - 2.04 (+ 0.04 per lvl)
 Health:                         574 - 1684 (+ 58.4211 per lvl)
@@ -18,29 +18,32 @@ BasicPenetrationRating:         0
 BasicResistanceRating:          17.3 - 61.4 (+ 2.32105 per lvl)
 
 Alternate
+	ARC:                            0.84
+	BasePower:                      47 / 70 / 94 / 117
+	Cooldown:                       1
+	Cooldown.Charge:                10
+	Cost:                           -35 / -40 / -45 / -50
+	Slow.Duration:                  1
+	Slow.Magnitude:                 -0.12 / -0.16 / -0.2 / -0.24
+Primary
+	ARC:                            0
+	BasePower:                      0
+	Buff.Timeout:                   10
+	Cooldown:                       0
+	Cost:                           0
+	Damage.BonusPCT:                0.1 / 0.15 / 0.2 / 0.25
+	Shot.Count:                     12
+Secondary
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       5
 	Cost:                           -40 / -30 / -20 / -10
-Primary
-	ARC:                            0
-	BasePower:                      0
-	Cooldown:                       4
-	Cost:                           -40
-	TripleShotHeroMultiplier:       0.25 / 0.3 / 0.35 / 0.4
-	TripleShotMinionMultiplier:     0.4
-Secondary
-	ARC:                            0.84
-	BasePower:                      47 / 70 / 94 / 117
-	Cooldown:                       10
-	Cost:                           -30 / -32 / -34 / -36
+	GrenadeRefund.Count:            1
 Ultimate
 	ARC:                            6.43
 	BasePower:                      351 / 562 / 772
 	Cooldown:                       90 / 70 / 50
 	Cost:                           -75
-	Duration:                       3
-	MovementSpeed:                  -75
 	ShotARC:                        0.21
 	ShotCount:                      30
 	ShotDamage:                     10 / 16 / 22

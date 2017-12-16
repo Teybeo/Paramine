@@ -154,6 +154,12 @@
     "Casttime.StopWhileCast.Travel": [
         2.0
     ],
+    "CheckTargetRangeFrequency.Minion.Siege_V2": [
+        0.20000000298023224
+    ],
+    "CheckTargetRangeFrequency.Minion.Super_V2": [
+        0.15000000596046448
+    ],
     "Coin.LifeSpan": [
         60.0
     ],
@@ -417,6 +423,9 @@
     "JungleBuff.MaxLifeSpan": [
         150.0
     ],
+    "JungleBuff.Sov.Black.MaxLifeSpan": [
+        45.0
+    ],
     "JungleBuff.Sov.Gold.BonusGoldPct": [
         0.25
     ],
@@ -461,6 +470,9 @@
     ],
     "LevelTime.Red": [
         360.0
+    ],
+    "LevelTime.Sov.Black": [
+        180.0
     ],
     "LevelTime.Sov.Gold": [
         240.0
@@ -514,13 +526,13 @@
         0.25
     ],
     "Movement.CombatSlow.Melee.Hit": [
-        210.0
+        0.30000001192092896
     ],
     "Movement.CombatSlow.Melee.MIss": [
-        65.0
+        0.10000000149011612
     ],
     "Movement.CombatSlow.Ranged": [
-        275.0
+        0.4000000059604645
     ],
     "Movement.CombatSlow.Ranged.DurationMax": [
         1.0
@@ -723,11 +735,29 @@
     "Range.Minion.Melee": [
         200.0
     ],
+    "Range.Minion.Melee_V2": [
+        150.0
+    ],
     "Range.Minion.Ranged": [
         1000.0
     ],
+    "Range.Minion.Ranged_V2": [
+        900.0
+    ],
     "Range.Minion.RangedObjective": [
         1200.0
+    ],
+    "Range.Minion.RangedObjective_V2": [
+        1000.0
+    ],
+    "Range.Minion.Siege_V2": [
+        1100.0
+    ],
+    "Range.Minion.SiegeObjective_V2": [
+        1200.0
+    ],
+    "Range.Minion.Super_V2": [
+        220.0
     ],
     "Range.Short": [
         1000.0
@@ -918,7 +948,7 @@
         0.0
     ],
     "SpawnTime.Initial.Black": [
-        240.0
+        60.0
     ],
     "SpawnTime.Initial.Blue": [
         60.0
@@ -943,6 +973,9 @@
     ],
     "SpawnTime.Initial.White": [
         60.0
+    ],
+    "SpawnTime.Sov.Black": [
+        90.0
     ],
     "SpawnTime.Sov.Gold": [
         180.0

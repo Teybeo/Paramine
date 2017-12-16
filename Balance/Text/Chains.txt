@@ -28,7 +28,7 @@ Primary
 	BasePower:                      70 / 105 / 140 / 175
 	Cooldown:                       4
 	Cost:                           -40
-	MovementSpeed:                  -75 / -100 / -125 / -150
+	MovementSpeed:                  -0.12 / -0.14 / -0.16 / -0.18
 	Silence:                        1.5
 	Slow:                           1.5
 Secondary

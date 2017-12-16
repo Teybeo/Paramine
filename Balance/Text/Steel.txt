@@ -23,7 +23,7 @@ Alternate
 	Cooldown:                       14
 	Cost:                           -100
 	DamageReductionMultiplier:      0.6 / 0.7 / 0.8 / 0.9
-	SelfSlow.Magnitude:             -250
+	SelfSlow.Magnitude:             -0.35
 	Shield:                         2 / 2.66666 / 3.33332 / 3.99998
 	Slow.Duration:                  1
 Primary
@@ -42,7 +42,7 @@ Secondary
 	RefreshDuration:                6 / 5 / 4 / 3
 	Shield.Duration:                4 / 5 / 6 / 7
 	ShieldWall.Duration:            4
-	Slow:                           -180
+	Slow:                           -0.25
 Ultimate
 	ARC:                            2.51
 	BasePower:                      211 / 281 / 351

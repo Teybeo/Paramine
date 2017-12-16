@@ -5,8 +5,8 @@ AttackSpeedRating:              100
 BaseAttackTime:                 0.7
 
 EnergyRegenRate:                0
-Health:                         980
-HealthRegenRate:                180
+Health:                         1100
+HealthRegenRate:                15
 MaxEnergy:                      0
 
 AbilityResistanceRating:        40
@@ -40,6 +40,7 @@ other
 	EngagementDistance.Heroes:      1500
 	EngagementDistance.Minions:     1500
 	EngagementDistance.Objectives:  1500
+	ExecuteThreshold.FlatHealth:    200
 	Reward.NumberOfCoins:           3
 
 CXPBounty:                      150

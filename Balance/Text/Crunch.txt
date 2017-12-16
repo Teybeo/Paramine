@@ -45,7 +45,7 @@ Secondary
 	EmpoweredScalar:                0.25
 	Knockup:                        175
 	KnockupEmpowered:               175
-	Slow:                           -200
+	Slow:                           -0.3
 	SlowDuration:                   1.5
 Ultimate
 	ARC:                            0

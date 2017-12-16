@@ -32,7 +32,7 @@ Primary
 	Radius:                         500
 	Range:                          1100
 	Slow.Duration:                  1.5
-	Slow.Magnitude:                 -75
+	Slow.Magnitude:                 -0.1
 	TickRate.DoT:                   2
 Secondary
 	ARC:                            1.67
@@ -40,7 +40,7 @@ Secondary
 	Cooldown:                       8
 	Cost:                           -80
 	Duration:                       2.5 / 3 / 3.5 / 4
-	Movespeed.Max:                  250
+	Movespeed.Max:                  0.4
 	Movespeed.Stacks.Max:           10
 	Regen.Duration:                 4
 	Regen.Magnitude:                6 / 12 / 18 / 24

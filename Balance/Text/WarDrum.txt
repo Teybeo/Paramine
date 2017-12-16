@@ -29,10 +29,10 @@ Primary
 	Cooldown:                       12
 	Cost:                           -80
 	Movespeed.Max.Duration:         4
-	Movespeed.Max.Magnitude:        125 / 150 / 175 / 200
+	Movespeed.Max.Magnitude:        0.18 / 0.22 / 0.26 / 0.3
 	Movespeed.Stack.Count:          10
 	Movespeed.Stack.Duration:       0.4
-	Movespeed.Stack.Magnitude:      12.5 / 15 / 17.5 / 20
+	Movespeed.Stack.Magnitude:      0.018 / 0.022 / 0.026 / 0.03
 Secondary
 	ARC:                            0
 	BasePower:                      0
@@ -45,7 +45,7 @@ Ultimate
 	Cooldown:                       100 / 85 / 70
 	Cost:                           -75 / -100 / -125
 	Duration:                       3
-	Slow:                           -350
+	Slow:                           -0.5
 
 
 Jump

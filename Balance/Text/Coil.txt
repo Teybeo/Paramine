@@ -29,12 +29,13 @@ Primary
 	BasePower:                      88 / 140 / 193 / 246
 	Cooldown:                       10
 	Cost:                           -75
-	MovementSpeed.Ability.Basic.Primary: -50 / -90 / -130 / -170
+	MovementSpeed.Ability.Basic.Primary: -0.1 / -0.15 / -0.2 / -0.25
 Secondary
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       1
 	Cost:                           -14 / -21 / -28 / -35
+	Slow.Duration:                  0.8
 Ultimate
 	ARC:                            3.13
 	BasePower:                      246 / 333 / 421

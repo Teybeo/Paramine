@@ -5,7 +5,7 @@ AttackSpeedRating:              100 - 134.2 (+ 1.8 per lvl)
 BaseAttackTime:                 0.8
 CleaveRating:                   0
 LeftClickARC:                   1
-LeftClickBasePower:             58.3 - 153.8 (+ 5.02632 per lvl)
+LeftClickBasePower:             58.3 - 149.5 (+ 4.8 per lvl)
 
 EnergyRegenRate:                1.15 - 1.91 (+ 0.04 per lvl)
 Health:                         633 - 1928 (+ 68.1579 per lvl)
@@ -22,29 +22,23 @@ Alternate
 	BasePower:                      88 / 140 / 193 / 246
 	Cooldown:                       8
 	Cost:                           -100
-	Knockback.Distance.Max:         700
+	Knockback.Distance.Max:         800
 Primary
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       0
 	Cost:                           0
 	Movespeed.Duration:             1.25
-	Movespeed.Magnitude:            100 / 150 / 200 / 250
-	Radius:                         4000 / 6000 / 8000 / 10000
-	ShredDuration:                  4
+	Movespeed.Magnitude:            0.14 / 0.22 / 0.3 / 0.38
+	Radius:                         3500 / 5000 / 6500 / 8000
+	TriggerThresholdPCT:            0.25 / 0.3 / 0.35 / 0.4
 Secondary
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       5 / 4 / 3 / 2
 	Cost:                           0
-	EnergyResist:                   0
-	MaxTraps:                       1 / 1 / 2 / 3
 	Penetration.Basic:              10 / 20 / 30 / 40
-	PhysicalResist:                 -5 / -10 / -15 / -20
 	Range:                          1700
-	RootDuration:                   2
-	TrapActivationDelay:            3.25
-	TrapDuration:                   90
 Ultimate
 	ARC:                            3.13
 	BasePower:                      176 / 263 / 351

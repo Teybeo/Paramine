@@ -18,38 +18,32 @@ BasicPenetrationRating:         0
 BasicResistanceRating:          21.1 - 65.4 (+ 2.33158 per lvl)
 
 Alternate
-	ARC:                            2.09
-	ARC.PerTick:                    0.26
-	BasePower:                      129 / 187 / 246 / 304
-	Cooldown:                       6
-	Cost:                           -110
-	Damage.PerTick:                 16 / 23 / 31 / 38
-	Duration:                       4
-	Range.Cast:                     1300
-	Range.Tether:                   1700
-	Slow:                           -150
-	TickRate:                       0.5
-Primary
 	ARC:                            3.55
 	BasePower:                      140 / 240 / 339 / 439
 	Cooldown:                       6
 	Cost:                           -100 / -110 / -120 / -130
-	DamageDuration:                 2
-	Range:                          1500
+	Range:                          1900
+Primary
+	ARC:                            1.88
+	BasePower:                      117 / 170 / 222 / 275
+	Cooldown:                       8
+	Cost:                           -100 / -110 / -120 / -130
+	Range:                          1750
+	Slow.Duration:                  2
+	Slow.Magnitude:                 -0.2 / -0.24 / -0.28 / -0.32
 Secondary
 	ARC:                            0
 	BasePower:                      0
-	Cooldown:                       12 / 10 / 8 / 6
+	Cooldown:                       12 / 11 / 10 / 9
 	Cost:                           -60
 	Distance:                       850 / 975 / 1100 / 1225
 Ultimate
-	ARC:                            4.18
-	BasePower:                      328 / 445 / 562
-	Cooldown:                       130 / 115 / 100
+	ARC:                            2.86
+	BasePower:                      224 / 304 / 384
+	Cooldown:                       150 / 135 / 120
 	Cost:                           -140 / -210 / -280
 	Duration:                       3.5
 	PullStrength:                   450
-	Slow:                           -210
 
 
 Jump

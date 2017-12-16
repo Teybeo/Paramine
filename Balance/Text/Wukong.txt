@@ -28,7 +28,7 @@ Alternate
 Primary
 	ARC:                            0
 	Air.Airwalk.Duration:           1
-	Air.Airwalk.Movespeed:          100 / 150 / 200 / 250
+	Air.Airwalk.Movespeed:          0.15 / 0.2 / 0.25 / 0.3
 	Air.Cooldown:                   0
 	BasePower:                      0
 	Cooldown:                       14 / 13 / 12 / 11
@@ -37,7 +37,7 @@ Primary
 	Stone.ARC:                      1.07
 	Stone.BasePower:                60 / 90 / 120 / 150
 	Stone.Slow.Duration:            2
-	Stone.Slow.Magnitude:           -125
+	Stone.Slow.Magnitude:           -0.2
 Secondary
 	ARC:                            0
 	Air.GravityModifier:            0.75

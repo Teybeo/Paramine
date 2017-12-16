@@ -29,7 +29,7 @@ Utility
 other
 	Aggro.AcquisitionRange:         1100
 	BasePower.CoreBonusDamage:      1
-	BasePower.CoreResist:           0.23
+	BasePower.CoreResist:           0
 	BasePower.HeroBonusDamage:      1
 	BasePower.HeroResist:           0
 	BasePower.InhibBonusDamage:     1
@@ -41,6 +41,7 @@ other
 	EngagementDistance.Heroes:      1500
 	EngagementDistance.Minions:     1500
 	EngagementDistance.Objectives:  1500
+	ExecuteThreshold.FlatHealth:    120
 	Reward.NumberOfCoins:           3
 
 CXPBounty:                      68

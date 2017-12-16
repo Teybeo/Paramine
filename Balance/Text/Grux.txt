@@ -1,16 +1,16 @@
 Grux
 
 AttackRating:                   0
-AttackSpeedRating:              100 - 114.3 (+ 0.752632 per lvl)
-BaseAttackTime:                 0.85
+AttackSpeedRating:              100 - 107.1 (+ 0.373684 per lvl)
+BaseAttackTime:                 0.95
 CleaveRating:                   0.2
 LeftClickARC:                   1
-LeftClickBasePower:             67.5 - 121.6 (+ 2.84737 per lvl)
+LeftClickBasePower:             64.8 - 140.6 (+ 3.98947 per lvl)
 
-EnergyRegenRate:                1.32 - 2.15 (+ 0.0436842 per lvl)
-Health:                         780 - 2410 (+ 85.7895 per lvl)
-HealthRegenRate:                1.3 - 4.02 (+ 0.143158 per lvl)
-MaxEnergy:                      276 - 524 (+ 13.0526 per lvl)
+EnergyRegenRate:                1.22 - 1.98 (+ 0.04 per lvl)
+Health:                         780 - 2247 (+ 77.2105 per lvl)
+HealthRegenRate:                1.3 - 3.74 (+ 0.128421 per lvl)
+MaxEnergy:                      246 - 474 (+ 12 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        30
@@ -18,35 +18,30 @@ BasicPenetrationRating:         0
 BasicResistanceRating:          34.8 - 78.4 (+ 2.29474 per lvl)
 
 Alternate
-	ARC:                            0.84
-	ARC.PerTick:                    0.0928571
-	BaseDamage.PerTick:             5.2 / 7.8 / 10.4 / 13
-	BasePower:                      47 / 70 / 94 / 117
-	Cooldown:                       3
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       8
 	Cost:                           -40
-	Duration:                       4
-	Slow.Duration:                  1
-	Slow.Magnitude.PerStack:        -30
-	TickRate:                       0.5
+	Damage.Bonus:                   35 / 40 / 45 / 50
+	Damage.Bonus.PCT:               1.2 / 1.3 / 1.4 / 1.5
 Primary
 	ARC:                            1.46
 	BasePower:                      88 / 129 / 170 / 211
 	Cooldown:                       10
-	Cost:                           -90
+	Cost:                           -60
 Secondary
-	ARC:                            0
-	BasePower:                      0
-	Cooldown:                       14 / 12 / 10 / 8
-	Cost:                           -30
+	ARC:                            0.84
+	BasePower:                      47 / 70 / 94 / 117
+	Cooldown:                       12
+	Cost:                           -75
+	Knockup.Magnitude:              175
 Ultimate
 	ARC:                            0
 	BasePower:                      0
-	Cooldown:                       90 / 70 / 50
-	Cost:                           -75
-	Damage:                         22 / 44 / 66
-	DamageResist.Base:              0.06 / 0.08 / 0.1
-	DamageResist.Stacks:            0.01 / 0.02 / 0.03
-	Duration:                       8
+	Buff.Duration:                  14
+	Cooldown:                       110 / 95 / 80
+	Cost:                           -50
+	Damage.Bonus.PCT:               0.5 / 1 / 1.5
 
 
 Jump

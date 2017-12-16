@@ -2,6 +2,36 @@
     "Buf.Mid.Duration.DoT": [
         40.0
     ],
+    "Buff.Black.Duration": [
+        60.0
+    ],
+    "Buff.Black.MovementSlow.Duration": [
+        1.5
+    ],
+    "Buff.Black.MovementSlow.Magnitude.All": [
+        -0.05000000074505806
+    ],
+    "Buff.Black.MovementSlow.Magnitude.Melee": [
+        -0.15000000596046448
+    ],
+    "Buff.Black.TrueVision.Radius": [
+        3000.0
+    ],
+    "Buff.Dragon.Gold": [
+        1000.0
+    ],
+    "Buff.Dragon.MoveSpeed": [
+        1.100000023841858
+    ],
+    "Buff.Dragon.NonHeroDamage": [
+        0.15000000596046448
+    ],
+    "Buff.Dragon.Power": [
+        4.0
+    ],
+    "Buff.Dragon.Power.Stacking": [
+        4.0
+    ],
     "Buff.Gold.Duration": [
         45.0
     ],
@@ -98,6 +128,12 @@
     "ReinforceTime.Sov.White": [
         60.0
     ],
+    "RespawnTime.Dragon": [
+        180.0
+    ],
+    "RespawnTime.Sov.Black": [
+        180.0
+    ],
     "RespawnTime.Sov.Gold": [
         120.0
     ],
@@ -118,6 +154,12 @@
     ],
     "RespawnTime.Sov.White": [
         60.0
+    ],
+    "SpawnTime.Dragon": [
+        120.0
+    ],
+    "SpawnTime.Sov.Black": [
+        90.0
     ],
     "SpawnTime.Sov.Gold": [
         180.0

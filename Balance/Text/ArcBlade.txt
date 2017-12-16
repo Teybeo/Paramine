@@ -5,12 +5,12 @@ AttackSpeedRating:              100 - 121.4 (+ 1.12632 per lvl)
 BaseAttackTime:                 0.85
 CleaveRating:                   0.1
 LeftClickARC:                   1
-LeftClickBasePower:             59.4 - 121.7 (+ 3.27895 per lvl)
+LeftClickBasePower:             59.4 - 122.5 (+ 3.32105 per lvl)
 
-EnergyRegenRate:                1.32 - 2.27 (+ 0.05 per lvl)
+EnergyRegenRate:                1.23 - 2.18 (+ 0.05 per lvl)
 Health:                         652 - 1985 (+ 70.1579 per lvl)
 HealthRegenRate:                1.09 - 3.31 (+ 0.116842 per lvl)
-MaxEnergy:                      276 - 561 (+ 15 per lvl)
+MaxEnergy:                      248 - 533 (+ 15 per lvl)
 
 AbilityPenetrationRating:       0
 AbilityResistanceRating:        30
@@ -21,29 +21,30 @@ Alternate
 	ARC:                            0
 	BasePower:                      0
 	Cooldown:                       8
-	Cost:                           -40
-	Shield:                         75 / 150 / 225 / 300
-	ShieldDuration:                 2.5
+	Cost:                           -60
+	DamageBonusPCT:                 0.45 / 0.7 / 0.95 / 1.2
+	Range:                          900
 Primary
 	ARC:                            0
 	BasePower:                      0
-	BuffDuration:                   2
-	Cooldown:                       10
-	Cost:                           -60
-	DamageBonus:                    0.45 / 0.7 / 0.95 / 1.2
-	Distance:                       800
+	Cooldown:                       7
+	Cost:                           -50
+	Shield.Duration:                3
+	Shield.Magnitude:               75 / 150 / 225 / 300
 Secondary
-	ARC:                            2.09
-	BasePower:                      117 / 176 / 234 / 293
-	Cooldown:                       12
-	Cost:                           -80 / -90 / -100 / -110
-	Duration:                       2
-	Slow:                           -175
+	ARC:                            0
+	BasePower:                      0
+	Cooldown:                       0
+	Cost:                           0
+	RechargeTime:                   5
+	Slow.Duration:                  2
+	Slow.Magnitude:                 -0.2 / -0.23 / -0.26 / -0.29
 Ultimate
-	ARC:                            3.55
-	BasePower:                      263 / 363 / 462
+	ARC:                            1
+	BasePower:                      150 / 275 / 400
 	Cooldown:                       90 / 80 / 70
 	Cost:                           -70 / -105 / -140
+	Execute.Threshold:              300 / 425 / 550
 
 
 Jump

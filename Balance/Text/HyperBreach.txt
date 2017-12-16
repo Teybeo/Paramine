@@ -22,7 +22,8 @@ Alternate
 	BasePower:                      117 / 176 / 234 / 293
 	Cooldown:                       8
 	Cost:                           -100 / -110 / -120 / -130
-	Slow:                           -100 / -140 / -180 / -220
+	Slow:                           -0.15 / -0.2 / -0.25 / -0.3
+	Slow.Duration:                  3
 Primary
 	ARC:                            3.55
 	BasePower:                      140 / 240 / 339 / 439

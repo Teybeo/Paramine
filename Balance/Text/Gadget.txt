@@ -23,7 +23,7 @@ Alternate
 	Cooldown:                       8
 	Cost:                           -100 / -110 / -120 / -130
 	Duration:                       3
-	Slow:                           -180 / -250 / -320 / -390
+	Slow:                           -0.25 / -0.35 / -0.45 / -0.55
 Primary
 	ARC:                            3.55
 	BasePower:                      140 / 240 / 339 / 439
@@ -37,10 +37,10 @@ Secondary
 	Cooldown:                       10
 	Cost:                           -75
 	Movespeed.Max.Duration:         4
-	Movespeed.Max.Magnitude:        175 / 200 / 225 / 250
+	Movespeed.Max.Magnitude:        0.25 / 0.3 / 0.35 / 0.4
 	Movespeed.Stack.Count:          20
 	Movespeed.Stack.Duration:       0.2
-	Movespeed.Stack.Magnitude:      8.75 / 10 / 11.25 / 12.5
+	Movespeed.Stack.Magnitude:      0.0125 / 0.015 / 0.0175 / 0.02
 Ultimate
 	ARC:                            6.27
 	BasePower:                      410 / 585 / 761
@@ -49,7 +49,7 @@ Ultimate
 	Damage.TickIncrease:            0.75
 	Duration:                       4
 	Slow.Duration:                  0.25
-	Slow.Magnitude:                 -350
+	Slow.Magnitude:                 -0.5
 
 
 Jump

@@ -1,15 +1,15 @@
-Minion_PrimeHelix
+Minion_Jungle_Dragon
 
-AttackRating:                   130
+AttackRating:                   95
 AttackSpeedRating:              100
-BaseAttackTime:                 0.8
+BaseAttackTime:                 1.25
 
 EnergyRegenRate:                0
-Health:                         5980 - 12000 (+ 316.842 per lvl)
-HealthRegenRate:                75
+Health:                         4000 - 8480 (+ 235.789 per lvl)
+HealthRegenRate:                50
 MaxEnergy:                      0
 
-AbilityResistanceRating:        35
+AbilityResistanceRating:        60
 BasicResistanceRating:          65
 
 Alternate
@@ -27,8 +27,8 @@ Jump
 Utility
 	Cooldown:                       0
 other
-	Ability.HomingProj.Count.Max:   10
-	Ability.HomingProj.Damage:      95 / 100 / 105 / 110
+	Ability.BurnPassive.Duration:   3
+	Ability.BurnPassive.Magnitude:  0.03
 	BasePower.CoreBonusDamage:      1
 	BasePower.CoreResist:           0
 	BasePower.HeroBonusDamage:      1
@@ -39,28 +39,19 @@ other
 	BasePower.MinionResist:         0
 	BasePower.TowerBonusDamage:     1
 	BasePower.TowerResist:          0
-	Damage.SpecialAttack.Cone:      200
-	Damage.SpecialAttack.Knockback: 150
-	Damage.SpecialAttack.Root:      300
-	EngagementDistance.Heroes:      1999.5
+	EngagementDistance.Heroes:      1500
 	EngagementDistance.Minions:     1500
 	EngagementDistance.Objectives:  1500
 	ExecuteThreshold.FlatHealth:    0
-	GroundDuration.SpecialAttack.Cone: 3
-	Knockback.SpecialAttack.Knockback: 600
 	Reward.NumberOfCoins:           0
-	Reward.TeamCardPoints:          816
-	RootDuration.SpecialAttack.Root: 3
-	Slow.SpecialAttack.Cone:        -275
-	SlowDuration.SpecialAttack.Cone: 1
 
 CXPBounty:                      0
-CXPSpawnTime:                   0
+CXPSpawnTime:                   1.3
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0
 MaxLevel:                       15
-MaxMoveSpeed:                   3500
+MaxMoveSpeed:                   700
 VisionRadius:                   2000
-XPBounty:                       200
+XPBounty:                       50
 XPToLevel:                      1
 

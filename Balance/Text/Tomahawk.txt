@@ -22,7 +22,7 @@ Alternate
 	BasePower:                      70 / 105 / 140 / 175
 	Cooldown:                       5
 	Cost:                           -65
-	Slow:                           -200 / -250 / -300 / -350
+	Slow:                           -0.3 / -0.38 / -0.46 / -0.54
 	SlowDuration:                   1
 	Stacks.Count:                   3
 	Stun:                           0.25

@@ -45,7 +45,7 @@ Ultimate
 	Cooldown:                       110 / 95 / 80
 	Cost:                           -100
 	Duration:                       0.55
-	Slow:                           -250
+	Slow:                           -0.3
 	SlowDuration:                   2
 
 

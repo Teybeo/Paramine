@@ -50,7 +50,7 @@ Ultimate
 	Cost:                           -75 / -125 / -175
 	PreCast.Duration:               1.5
 	Radius:                         2200
-	Speed.Magnitude:                100
+	Speed.Magnitude:                0.15
 
 
 Jump

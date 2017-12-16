@@ -39,7 +39,7 @@ Secondary
 	Cost:                           -110
 	Range:                          1600
 	RootDuration:                   1
-	Slow:                           -120
+	Slow:                           -0.2
 	SlowDuration:                   1
 Ultimate
 	ARC:                            2.09

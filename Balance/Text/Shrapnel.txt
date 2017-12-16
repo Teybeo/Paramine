@@ -24,7 +24,7 @@ Alternate
 	Cost:                           -75 / -90 / -105 / -120
 	Range:                          1800
 	Slow.Duration:                  1.5
-	Slow.Magnitude:                 -125
+	Slow.Magnitude:                 -0.18
 Primary
 	ARC:                            0
 	BasePower:                      0

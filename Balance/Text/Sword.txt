@@ -43,8 +43,8 @@ Ultimate
 	Cost:                           0
 	Duration:                       3
 	Health:                         0.4
-	MaxRadiusSlow:                  -125
-	MinRadiusSlow:                  -400
+	MaxRadiusSlow:                  -0.18
+	MinRadiusSlow:                  -0.6
 	RadiusDamage:                   900
 	RadiusSlow:                     900
 	SlowDuration:                   3.4

@@ -22,9 +22,10 @@ Alternate
 	BasePower:                      129 / 187 / 246 / 304
 	Cooldown:                       4
 	Cost:                           -50 / -60 / -70 / -80
-	MovementSpeed:                  -275
+	MovementSpeed:                  -0.4
+	Slow.Duration:                  1
 Passive
-	MovementSpeed:                  70
+	MovementSpeed:                  0.1
 Primary
 	ARC:                            0
 	BasePower:                      0
@@ -48,7 +49,7 @@ Ultimate
 	Cost:                           -100
 	Duration:                       5 / 6 / 7
 	Slow.Duration:                  2
-	Slow.Magnitude:                 -250
+	Slow.Magnitude:                 -0.3
 
 
 CheatDeath

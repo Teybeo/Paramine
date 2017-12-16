@@ -32,7 +32,7 @@ Primary
 	Cost:                           -80
 	Range:                          850
 	ReturnDuration:                 3
-	Slow:                           -125
+	Slow:                           -0.2
 	SlowDuration:                   1
 Secondary
 	ARC:                            3.55

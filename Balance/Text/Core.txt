@@ -1,6 +1,6 @@
 Core
 
-AttackRating:                   146.63
+AttackRating:                   320
 AttackSpeedRating:              300
 BaseAttackTime:                 1
 

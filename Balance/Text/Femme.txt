@@ -52,7 +52,7 @@ Ultimate
 	Cooldown:                       90 / 65 / 40
 	Cost:                           -75
 	ProjectileSpeedMultiplier:      0.04
-	Slow:                           -125
+	Slow:                           -0.2
 
 
 Jump

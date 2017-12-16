@@ -1,16 +1,16 @@
-Minion_PrimeHelix
+Minion_Jungle_Sov_Black
 
-AttackRating:                   130
+AttackRating:                   21
 AttackSpeedRating:              100
 BaseAttackTime:                 0.8
 
 EnergyRegenRate:                0
-Health:                         5980 - 12000 (+ 316.842 per lvl)
-HealthRegenRate:                75
+Health:                         1550
+HealthRegenRate:                25
 MaxEnergy:                      0
 
-AbilityResistanceRating:        35
-BasicResistanceRating:          65
+AbilityResistanceRating:        40
+BasicResistanceRating:          20
 
 Alternate
 	Cooldown:                       0
@@ -27,8 +27,6 @@ Jump
 Utility
 	Cooldown:                       0
 other
-	Ability.HomingProj.Count.Max:   10
-	Ability.HomingProj.Damage:      95 / 100 / 105 / 110
 	BasePower.CoreBonusDamage:      1
 	BasePower.CoreResist:           0
 	BasePower.HeroBonusDamage:      1
@@ -39,28 +37,19 @@ other
 	BasePower.MinionResist:         0
 	BasePower.TowerBonusDamage:     1
 	BasePower.TowerResist:          0
-	Damage.SpecialAttack.Cone:      200
-	Damage.SpecialAttack.Knockback: 150
-	Damage.SpecialAttack.Root:      300
-	EngagementDistance.Heroes:      1999.5
+	EngagementDistance.Heroes:      1500
 	EngagementDistance.Minions:     1500
 	EngagementDistance.Objectives:  1500
-	ExecuteThreshold.FlatHealth:    0
-	GroundDuration.SpecialAttack.Cone: 3
-	Knockback.SpecialAttack.Knockback: 600
-	Reward.NumberOfCoins:           0
-	Reward.TeamCardPoints:          816
-	RootDuration.SpecialAttack.Root: 3
-	Slow.SpecialAttack.Cone:        -275
-	SlowDuration.SpecialAttack.Cone: 1
+	ExecuteThreshold.FlatHealth:    200
+	Reward.NumberOfCoins:           5
 
-CXPBounty:                      0
-CXPSpawnTime:                   0
+CXPBounty:                      200
+CXPSpawnTime:                   0.9
 CriticallyWoundedThresholdPCT:  0
 GainXPFromKills:                0
-MaxLevel:                       15
-MaxMoveSpeed:                   3500
+MaxLevel:                       3
+MaxMoveSpeed:                   1000
 VisionRadius:                   2000
-XPBounty:                       200
+XPBounty:                       45
 XPToLevel:                      1
 

@@ -69,7 +69,7 @@ Ultimate
 	Radius.Initial:                 700
 	Slow:                           -250
 	Slow.Duration.Initial:          1.5
-	Slow.Initial:                   -150
+	Slow.Initial:                   -0.2
 	Stun.Duration.Chain:            0.5
 	Stun.Duration.Initial:          1
 

@@ -29,7 +29,8 @@ Primary
 	Cooldown:                       10
 	Cost:                           -110
 	Distance:                       580 / 740 / 900 / 1060
-	Slow:                           -125 / -200 / -275 / -350
+	Slow:                           -0.2 / -0.3 / -0.4 / -0.5
+	Slow.Duration:                  0.5
 Secondary
 	ARC:                            1.67
 	BasePower:                      70 / 117 / 164 / 211

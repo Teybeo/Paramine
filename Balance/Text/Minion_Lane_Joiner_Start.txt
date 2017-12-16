@@ -2,10 +2,10 @@ Minion_Lane_Joiner_Start
 
 AttackRating:                   70
 AttackSpeedRating:              100
-BaseAttackTime:                 0.65
+BaseAttackTime:                 1
 
 EnergyRegenRate:                0
-Health:                         1400 - 4200 (+ 147.368 per lvl)
+Health:                         1100 - 1660 (+ 29.4737 per lvl)
 HealthRegenRate:                350
 MaxEnergy:                      0
 
